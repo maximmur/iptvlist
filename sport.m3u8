@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 ,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,KHL Prime
+http://95.46.43.215:8081/play/a004
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,The Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 ,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 ,World Poker Tour (1080p)
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 ,WORLD POKER TOUR HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
+#EXTINF:-1 ,БОЕЦ
+http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 ,Баскетбол
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1 ,Бокс ТВ iptv.org.ua
+https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+#EXTINF:-1 ,КХЛ
+https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1 ,Лучшие моменты ЛЧ
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 ,Матч!
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 ,Телеканал Футбол
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 ,Футбол 1
+http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 ,Футбол 2
+http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 ,Футбол 3
+http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,BeIN Sports 1
+http://51.195.5.44:80/bein1/index.m3u8
+#EXTINF:-1 ,BeIN Sports 2
+http://51.195.5.44:80/bein2/index.m3u8
+#EXTINF:-1 ,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://45.144.31.195:8016/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://91.233.215.250:7272/mlR5cGNUsvBxcv8
+#EXTINF:-1 ,Eurosport 1
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 ,Eurosport 1 hd
+https://e1.varcdn.top/Eurosport2/index.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://45.144.31.195:8017/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 KZ
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+#EXTINF:-1 ,Horizon Sports
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1 ,Q Sport
+http://89.254.128.5:22280/qsport/index.m3u8
+#EXTINF:-1 ,Q Sport HD
+http://91.233.215.250:7272/ipKJnd6cVw1Nu7a
+#EXTINF:-1 ,Setanta Sports + UA
+https://bal.varcdn.top/setantaplusukraina/index.m3u8
+#EXTINF:-1 ,Setanta Sports + UA hd
+http://95.67.12.89:9013
+#EXTINF:-1 ,Setanta Sports 1 HD
+https://tv.movielab.pro/943/video.m3u8
+#EXTINF:-1 ,Setanta Sports UA
+https://e5.varcdn.top/setantasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Setanta Sports Ukraine
+https://tv.movielab.pro/942/video.m3u8
+#EXTINF:-1 ,Setanta Sports Ukraine HD orig
+https://bal.varcdn.top/setantasport/index.m3u8
+#EXTINF:-1 ,Sport 1
+https://e2.varcdn.top/sport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sport 2
+https://e7.varcdn.top/sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sport 4
+http://91.233.215.250:7272/Wetd63YgcVe23Jk
+#EXTINF:-1 ,Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,TRACE SPORT STARS
+http://95.67.12.89:9091
+#EXTINF:-1 ,T�rkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 ,Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,TURKMENISTAN SPORT
+http://alpha.tv.online.tm/hls/ch004_400/index.m3u8
+#EXTINF:-1 ,Viju+ sport
+https://tbs01-edge11.itdc.ge/viasatsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,V-Sport
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 ,Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,Фан Спорт 2.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ,Фан Спорт.
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ,1+1 Спорт (720p) [Not 24/7]
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 ,Docubox
+http://77.240.45.106:3333/play/a08o
+#EXTINF:-1 ,DocuBox HD
+https://tbs01-edge11.itdc.ge/docuboxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Экстрим",Extreme Sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="Борьба",FightBox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 ,FOX Sports HD [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 ,KHL
+https://sc.id-tv.kz:443/KHL_36_37.m3u8
+#EXTINF:-1 ,KHL Prime
+https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1 ,M-1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1 ,Monterrico TV
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 ,Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 ,Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 ,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,PGA TOUR [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 ,Sports Grid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 ,Stadium (720p)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 ,Turkmen Sport HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 ,World Of Free Sports TV [HD]
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 ,XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 ,XSPORT HD
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="Борьба",Бокс ТВ
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8

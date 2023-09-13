@@ -1,0 +1,436 @@
+#EXTM3U
+#EXTINF:-1 ,60s_70s
+http://prmstrm.1.fm:8000/60s_70s
+#EXTINF:-1 ,Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 ,DJING HITS
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1 ,Eurodance 90 Live
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 ,Gangsta Rap
+http://music.myradio.ua:8000/gangstarap192.mp3
+#EXTINF:-1 ,HD 16.9 СеверСвязь.Ноябрьск RU
+http://146.158.0.56/1HD/mono.m3u8
+#EXTINF:-1 ,M-1
+http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 ,MTV 00S
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1 ,MUZZIK HIP-HOP
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 ,V2 Beat HD
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 ,V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 ,V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 ,V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 ,Videomix:2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 ,Videomix:2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 ,Videomix:2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1 ,Videomix:2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 ,Videomix:2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 ,Videomix:2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1 ,Videomix:2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:-1 ,Videomix:2016
+https://ia601908.us.archive.org/3/items/DjPanduroYearmix2016/Dj%20Panduro%20Yearmix%202016.mp4
+#EXTINF:-1 ,Viva Russia HD
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 ,Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 ,Xite HD DE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,XITE NL HD
+http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 ,XITE TV HD (NL)
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
+#EXTINF:-1 ,М1
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 ,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 ,Back to the 80s
+http://prmstrm.1.fm:8000/back280s
+#EXTINF:-1 ,Black Sabbath Последний концерт 2017
+https://hye1eaipby4w.takedwn.ws/01_08_19/01/08/15/tYz885fY/1080_fPrE3bbi.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 ,Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 ,80-90s hits
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1 ,90s
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1 ,Hip-Hop  RNB
+http://music.myradio.ua:8000/hiphopandrnb192.mp3
+#EXTINF:-1 ,Retro 80 HD
+https://eurodance90.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 ,Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 ,Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 ,Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 ,Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 ,Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 ,Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 ,Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 ,Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 ,Stingray Karaoke (1080p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 ,Stingray Naturescape (1080p)
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 ,Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 ,Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 ,Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 ,Дискотека 80х
+http://music.myradio.ua:8000/Disco192.mp3
+#EXTINF:-1 ,Дискотека 90х
+http://music.myradio.ua:8000/disco90192.mp3
+#EXTINF:-1 ,Хеві метал
+http://music.myradio.ua:8000/heavymetal192.mp3
+#EXTINF:-1 ,Італійська музика
+http://music.myradio.ua:8000/italjanskaja-muzyka192.mp3
+#EXTINF:-1 ,Музыка 1 International
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 ,Музыка 2 International
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 ,Музыка Кино International
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 ,Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:-1 ,Первый музыкальный HD (Россия)
+http://rtmp.one.by:2300
+#EXTINF:-1 ,1MUS
+http://rtmp.one.by:1300
+#EXTINF:-1 ,Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 ,Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 ,MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 ,Music BOX
+http://95.67.12.89:9092
+#EXTINF:-1 ,Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 ,Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,UA Music
+http://95.67.12.89:9087
+#EXTINF:-1 ,Наше Радіо
+http://online.nasheradio.ua/NasheRadio
+#EXTINF:-1 ,Наше Радіо Live
+http://online.nasheradio.ua/NasheRadio_Live
+#EXTINF:-1 ,Радио Говорит Москва (404p) [Not 24/7]
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 ,Радіо Queen
+http://music.myradio.ua:8000/queen192.mp3
+#EXTINF:-1 ,1 Radio
+https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 ,2 Radio
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 ,51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Groove Radio
+https://streams.radio.co/s14193ab17/listen
+#EXTINF:-1 ,Latvijas Radio 3 Klasika
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 ,Nashe Radio
+http://online.nasheradio.ua/NasheRadio_HD
+#EXTINF:-1 ,Nashe Radio UktTop100
+http://online.nasheradio.ua/NasheRadio_Ukr_HD
+#EXTINF:-1 ,Power Hit Radio
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+#EXTINF:-1 ,Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 ,Radio Tele Boston (480p)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 ,Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 ,Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 ,30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 ,88 stereo HD
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 ,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 ,Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 ,BRIDGE Русский Хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 ,BRIDGE Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 ,Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Клубная",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,COMPANY TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 ,D5 Music
+http://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
+#EXTINF:-1 ,Dance Hits of 90s
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/14154/index.m3u8
+#EXTINF:-1 ,Depeche Mode
+http://music.myradio.ua:8000/depechemode192.mp3
+#EXTINF:-1 ,Dieter Bohlen und Thomas Anders
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/17052/index.m3u8
+#EXTINF:-1 ,ELECTRO
+http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+#EXTINF:-1 ,European Hit Radio
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1 ,ExtraFM.mp3
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1 ,Factoria TV HD
+https://eu1.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 ,First Music Channel HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 ,FLASHBACK
+http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 ,FM99
+http://82.135.234.195:8000/fm99.mp3
+#EXTINF:-1 ,FR: Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fresh HD
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/14146/index.m3u8
+#EXTINF:-1 ,Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 ,Geras FM
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1 ,GO TV HD
+http://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 ,Gold FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1 ,GTALG Radijas
+http://streaming.radionomy.com/GTALGRadijas?lang=en-GB%2cen%3bq%3d0.9%2cen-US%3bq%3d0.8%2clt%3bq%3d0.7
+#EXTINF:-1 ,HAPPY RADIO
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:-1 ,Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 ,Inrating HD
+http://myott.top/stream/7D4XYB2WFN/147.m3u8
+#EXTINF:-1 ,Kelyje
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 ,Kerrang (576p) [Geo-blocked]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 ,KISS KISS ITALIA HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 ,KISS KISS NAPOLI HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 ,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 ,La Rock 22
+http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:-1 ,Laluna
+http://radio.m-1.fm:80/laluna/mp3
+#EXTINF:-1 ,Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 ,Lietus
+http://radio.m-1.fm:80/LIETUS
+#EXTINF:-1 ,M-1
+http://radio.m-1.fm:80/m1/mp3
+#EXTINF:-1 ,M-1 Plus
+http://radio.m-1.fm:80/M-1PLIUS
+#EXTINF:-1 ,Mano Fm
+http://stream.manofm.lt/listen
+#EXTINF:-1 ,Mažeikių Aidas
+http://maidas.kli.lt:8000/admin.mp3
+#EXTINF:-1 ,Melody Channel
+http://canal.mediaserver.com.co:8080/live/MelodyChannel.m3u8
+#EXTINF:-1 ,MGR TV HD
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 ,molaTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Музмикс",MTV
+http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 ,MTV 00s
+http://myott.top/stream/7D4XYB2WFN/165.m3u8
+#EXTINF:-1 ,MTV 80s
+http://myott.top/stream/7D4XYB2WFN/87.m3u8
+#EXTINF:-1 ,MTV 90s
+http://myott.top/stream/7D4XYB2WFN/88.m3u8
+#EXTINF:-1 group-title="Музмикс",MTV 90's
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс",MTV Classic
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музхиты",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс",MTV Live HD
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+#EXTINF:-1 ,MUSIC TOP HD
+http://200.115.193.177/live/msctphd-720/chunklist_w1936316961.m3u8
+#EXTINF:-1 ,MUZZIK TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 ,MUZZIK WWM
+http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 ,MUZZIK ZZ
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 ,NRG 91 HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 ,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,ON AIR TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 ,ONE RUS HD
+http://rtmp.one.by:2300?
+#EXTINF:-1 ,ONE.BY
+http://rtmp.one.by:1200
+#EXTINF:-1 ,Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 ,Planeta TV Music
+https://scl.edge.grupoz.cl/music/live/chunklist.m3u8
+#EXTINF:-1 ,PLAY TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 ,PMR
+http://pmr.lt/streams/pmr-1
+#EXTINF:-1 ,POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 ,POWER DANCE
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 ,POWER TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 ,Pūkas
+http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1 ,Pūkas 2
+http://82.135.234.195:8000/pukas2.aac
+#EXTINF:-1 ,QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 ,RADIO IBIZA TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:-1 ,RADIO LOVE FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 ,ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 ,Relax
+http://5.20.223.18:80/relaxfm128.mp3
+#EXTINF:-1 ,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1 ,Riviera
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 ,RIVIERA
+http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 ,Rock Entertainment (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 ,Rock FM
+http://5.20.223.18:80/crf128.mp3
+#EXTINF:-1 ,Rock Naryad TV
+http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
+#EXTINF:-1 ,Rock TV Brasil
+http://59f1cbe63db89.streamlock.net:1935/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
+#EXTINF:-1 ,ROCK&ROLL
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 ,Romantic & Ballads
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/16014/index.m3u8
+#EXTINF:-1 ,RTL 102.5
+http://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
+#EXTINF:-1 ,RTL 102.5 Best
+http://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
+#EXTINF:-1 ,RTL 102.5 Bro & Sis
+http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
+#EXTINF:-1 ,RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+#EXTINF:-1 ,RusRadio
+http://5.20.223.18/rrb128.mp3
+#EXTINF:-1 ,Russian Dance Hits of 90s
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/14156/index.m3u8
+#EXTINF:-1 ,Saules Radijas
+http://saule-mp3.vinlita.lt:8008/stream.mp3
+#EXTINF:-1 ,Sexy Kpop TV
+http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 ,Start FM
+http://eteris.startfm.lt/startfm.mp3?_=1
+#EXTINF:-1 ,Stereo Citta TV
+https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
+#EXTINF:-1 ,SUPER SIX
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 ,Svetur
+http://svetur.intellmedia.lt:8282/tiesiogiai.mp3
+#EXTINF:-1 ,Tauragės Radijas
+http://stream.tauragesradijas.lt:8000/tr1
+#EXTINF:-1 ,The Box UK (576p) [Not 24/7]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="Музмикс",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Trance is Star
+http://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 ,TRANCE IS STAR TV
+https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 ,TVM 3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 ,TVO HD
+https://eu1.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 ,Upsas
+http://upsas.eu:8000/upsas_320
+#EXTINF:-1 ,Vaikų Radijas
+http://88.119.151.74:8001/vaikuradijas
+#EXTINF:-1 ,VF Metal
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/17033/index.m3u8
+#EXTINF:-1 ,VF Music
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/15516/index.m3u8
+#EXTINF:-1 ,VF Rock
+http://89.248.160.57/iptv/HQHRS8LV5V8HZL/15517/index.m3u8
+#EXTINF:-1 ,VH-1 HD
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 ,Video Tour Channel HD
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 ,VIP HIT
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 ,XFM
+http://88.119.151.74:8001/xfm
+#EXTINF:-1 ,XITE
+https://xite-samsung-de.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 ,ZEROUNO TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 ,Ziniu Radijas
+http://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1 group-title="Музмикс",Жара
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="Национальная",Ля-минор
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Радуга
+http://radio.m-1.fm:80/raduga/high
+#EXTINF:-1 ,Ретро
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1326335307_b750000.m3u8
