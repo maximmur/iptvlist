@@ -1,106 +1,250 @@
 #EXTM3U
-#EXTINF:-1 ,Comedy Central English
-http://208.86.19.13:81/22.stream/index.m3u8
-#EXTINF:-1 ,COMEDY CENTRAL UA
-http://185.235.187.11:8888/play/a060/index.m3u8
-#EXTINF:-1 ,Comedy Channel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Kion Хит
-http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
-#EXTINF:-1 ,Olsib TV VHS
-http://46.18.107.105:8409/iptv/channel/2.m3u8
+#EXTINF:-1 ,Enter Film HD
+http://149.5.17.34:20041/play/a078
+#EXTINF:-1 group-title="Микс",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg",312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 ,StSD+ 16.9 Egrisi GE
 http://176.74.80.162:8099/Amedia1/index.m3u8
-#EXTINF:-1 ,StSD+ 16.9 NLS KZ
-http://77.240.45.106:3333/play/a07e
-#EXTINF:-1 ,StSD+ 16.9 NLS KZ
-http://77.240.45.106:3333/play/a07i
-#EXTINF:-1 ,StSD+ 16.9 RuslanaTV
-http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
-#EXTINF:-1 ,StSD+ 16.9 Silknet GE
-https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,StSD+ 16.9 Ракета.Иркутск RU
-http://31.148.48.15:80/A1/index.m3u8?token=test
-#EXTINF:-1 ,Super Baltic
-http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
-#EXTINF:-1 ,SuperPlus
-http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 ,Cinema HD
+http://176.74.80.162:8099/Cinema/index.m3u8
+#EXTINF:-1 group-title="Национальное",Еврокино
+http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:-1 ,TV XXI
 http://176.74.80.162:8099/TVXXI/index.m3u8
-#EXTINF:-1 ,VIP Comedy
-http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
-#EXTINF:-1 ,VIP FAMILY
-https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,VIP HIT
-https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,VIP Megahit
-http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
-#EXTINF:-1 ,VIP Premiere
-http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
-#EXTINF:-1 ,Детективы
-https://tv.2222.one/ch20.m3u8
-#EXTINF:-1 ,ДОРАМА
-https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1 ,Дорама (1080p) [Not 24/7]
-https://sc.id-tv.kz/dorama_hd.m3u8
-#EXTINF:-1 ,Дорама HD
-http://95.67.12.89:9037
-#EXTINF:-1 ,ДОРАМА HD
-https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
-#EXTINF:-1 ,Индия
-https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КП HD
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ТСВ
-https://iptv-hls.idc.md/hls/2/live2.m3u8
-#EXTINF:-1 ,Hollywood
-http://iptv.prosto.tv:7000/ch157/video.m3u8
-#EXTINF:-1 ,Hollywood
-https://sc.id-tv.kz/Hollywood.m3u8
-#EXTINF:-1 ,Hollywood hd
-http://95.67.12.89:9016
-#EXTINF:-1 ,Hollywood HD
-https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV1000
-https://tbs01-edge11.itdc.ge/tv1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV-1000
-https://sc.id-tv.kz:443/TV1000_34_35.m3u8
-#EXTINF:-1 ,TV1000 Action
-http://iptv.prosto.tv:7000/ch47/video.m3u8
-#EXTINF:-1 ,TV1000 ACTION
-https://tbs01-edge11.itdc.ge/tv1000act/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Отечественное",Мосфильм. Золотая коллекция
+http://178.212.236.2:80/Mosfilm/index.m3u8
+#EXTINF:-1 ,COMEDY CENTRAL UA
+http://185.235.187.11:8888/play/a060/index.m3u8
+#EXTINF:-1 ,Cine+ Hit HD
+http://185.235.187.11:8888/play/kinopremera_hd/index.m3u8
 #EXTINF:-1 ,Viju History
 http://185.235.187.11:8888/play/xagorodnaya_zhizh/index.m3u8
-#EXTINF:-1 ,Viju+  TV-1000 Action
-https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
-#EXTINF:-1 ,Viju+ TV1000
-http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,VIP Serial
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:-1 ,Все сериалы
-https://tv.2222.one/ch2.m3u8
-#EXTINF:-1 ,Другие сериалы
-https://tv.2222.one/ch3.m3u8
-#EXTINF:-1 ,Еще сериалы
-https://tv.2222.one/ch11.m3u8
-#EXTINF:-1 ,Золотая коллекция
-http://46.151.151.245:10002/play/a0bi
-#EXTINF:-1 ,И еще сериалы
-https://tv.2222.one/ch12.m3u8
-#EXTINF:-1 ,Иллюзион+
-https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Иллюзион+ kaz
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title="Микс",Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Comedy Central English
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 ,Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="Хиты",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Страшное",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 ,Комедийное HD
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
-#EXTINF:-1 ,Мир сериала
+#EXTINF:-1 ,StSD+ 16.9 Ракета.Иркутск RU
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 ,Кино ТВ r
+http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
+#EXTINF:-1 ,Кинопоказ HD
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="Микс",Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 ,Индийское Кино
+http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
+#EXTINF:-1 ,КИНОМИКС HD
+http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:-1 ,CINEMAN
+http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужское кино
+http://45.144.31.195:8022/playlist.m3u8
+#EXTINF:-1 ,FilmZone
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КП HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Женское",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 ,Золотая коллекция
+http://46.151.151.245:10002/play/a0bi
+#EXTINF:-1 group-title="Хиты",Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 ,Olsib TV VHS
+http://46.18.107.105:8409/iptv/channel/2.m3u8
+#EXTINF:-1 group-title="Микс",FlixSnip
+http://79.143.20.110:8000/play/40
+#EXTINF:-1 group-title="Комедии",Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 ,Kino7 Baltic
+http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1 ,Kino 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1 ,SuperPlus
+http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 group-title="Отечественное",Любимое кино
+http://91.233.215.250:7272/JS7lUbMstASMl0r
+#EXTINF:-1 ,Super Baltic
+http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1 ,Hollywood hd
+http://95.67.12.89:9016
+#EXTINF:-1 ,Наше любимое кино UA
+http://95.67.12.89:9023
+#EXTINF:-1 ,Дорама HD
+http://95.67.12.89:9037
+#EXTINF:-1 ,Bollywood HD
+http://95.67.12.89:9046
+#EXTINF:-1 ,KINO LIVING
+http://95.67.12.89:9089
+#EXTINF:-1 ,Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 ,Кино 1 VHS
+http://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Хиты",Kion Хит
+http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
+#EXTINF:-1 ,#EXTGRP:Кино
+http://cn04.iptv.monster/play/472/74F5EB24725C911/video.m3u8
+#EXTINF:-1 ,Hollywood
+http://iptv.prosto.tv:7000/ch157/video.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://iptv.prosto.tv:7000/ch47/video.m3u8
+#EXTINF:-1 ,TV1000 World Kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:-1 ,Enter-фільм
+http://iptv.prosto.tv:7000/ch54/video.m3u8
+#EXTINF:-1 ,Еврокино HD
+http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
+#EXTINF:-1 ,VIP Megahit
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 ,VIP Serial
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 ,VIP Comedy
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 ,VIP Premiere
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 ,StSD+ 16.9 RuslanaTV
+http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
+#EXTINF:-1 ,ДОМ КИНО
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1 ,Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Микс",Киномикс
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Премьеры",Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейное",Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Женское",Киносвидание
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мужское",Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Микс",Русский бестселлер
+http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
+#EXTINF:-1 ,Viju+ TV1000
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Comedy Central
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 ,Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 ,Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+https://autopilot.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 ,КИНО1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Классика индийского кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 ,Stirr Movies (720P)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 ,The Film Detective (720p)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 ,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 ,American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 ,Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 ,Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 ,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 ,ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 group-title="Отечественное",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Страшное",Trash HD
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="Микс",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 ,StSD+ 16.9 Silknet GE
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ
+https://tbs01-edge11.itdc.ge/domkinopremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+https://tbs01-edge11.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ФЕНИКС+КИНО
+https://tbs01-edge11.itdc.ge/fenixkino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Микс",Filmbox
+https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Микс",FilmBox Arthouse
+https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,VIP HIT
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное",Hollywood HD
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Микс",Иллюзион+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное",Индийское кино
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужское кино HD
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хиты",Кинохит
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киноужас
+https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Сериалы",Мир сериала
 https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное",Cinema HD
+https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Отечественное",Русский иллюзион
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TV1000
+https://tbs01-edge11.itdc.ge/tv1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TV1000 ACTION
+https://tbs01-edge11.itdc.ge/tv1000act/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,VIP FAMILY
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное",Индия
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Еще сериалы
+https://tv.2222.one/ch11.m3u8
+#EXTINF:-1 ,И еще сериалы
+https://tv.2222.one/ch12.m3u8
+#EXTINF:-1 ,Больше каналов с фильмами
+https://tv.2222.one/ch13.m3u8
+#EXTINF:-1 ,Больше каналов с фильмами 2
+https://tv.2222.one/ch14.m3u8
 #EXTINF:-1 ,Непопулярные сериалы
 https://tv.2222.one/ch15.m3u8
 #EXTINF:-1 ,Непопулярные сериалы 2
 https://tv.2222.one/ch16.m3u8
-#EXTINF:-1 ,НСТ Страшное
-https://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:-1 ,Сериалы
+https://tv.2222.one/ch17.m3u8
+#EXTINF:-1 ,Сериалы 2
+https://tv.2222.one/ch18.m3u8
+#EXTINF:-1 ,Ситкомы
+https://tv.2222.one/ch19.m3u8
+#EXTINF:-1 ,Все сериалы
+https://tv.2222.one/ch2.m3u8
+#EXTINF:-1 ,Детективы
+https://tv.2222.one/ch20.m3u8
+#EXTINF:-1 ,Другие сериалы
+https://tv.2222.one/ch3.m3u8
+#EXTINF:-1 ,X-Files
+https://tv.2222.one/ch4.m3u8
 #EXTINF:-1 ,Полный метр
 https://tv.2222.one/ch5.m3u8
 #EXTINF:-1 ,Полный метр 2
@@ -109,203 +253,9 @@ https://tv.2222.one/ch6.m3u8
 https://tv.2222.one/ch7.m3u8
 #EXTINF:-1 ,Полный метр 4
 https://tv.2222.one/ch8.m3u8
-#EXTINF:-1 ,Премиальное HD
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 ,Р иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-#EXTINF:-1 ,Русский роман HD
-http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 ,Сериалы
-https://tv.2222.one/ch17.m3u8
-#EXTINF:-1 ,Сериалы 2
-https://tv.2222.one/ch18.m3u8
-#EXTINF:-1 ,Ситкомы
-https://tv.2222.one/ch19.m3u8
-#EXTINF:-1 ,Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 ,Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 ,Stirr Movies (720P)
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 ,The Film Detective (720p)
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 ,American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 ,Enter-фільм
-http://iptv.prosto.tv:7000/ch54/video.m3u8
-#EXTINF:-1 ,Kino 1
-http://91.233.215.250:7272/i0yRlKi4YlfGtF6
-#EXTINF:-1 ,KINO LIVING
-http://95.67.12.89:9089
-#EXTINF:-1 ,Kino7 Baltic
-http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
-#EXTINF:-1 ,KINOWOOD
-http://95.67.12.89:9090
-#EXTINF:-1 ,Q Kino Alem
-https://sc.id-tv.kz/QKinoAlem.m3u8
-#EXTINF:-1 ,Q Kino Alem
-https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
-#EXTINF:-1 ,Q Kino Hit
-https://sc.id-tv.kz/QKinoHIT.m3u8
-#EXTINF:-1 ,Q Kinoalem
-https://sc.id-tv.kz/QKinoAlem_34_35.m3u8
-#EXTINF:-1 ,TV1000 World Kino
-http://iptv.prosto.tv:7000/ch48/video.m3u8
-#EXTINF:-1 ,Viasat Kino Comedy
-http://91.233.215.250:7272/5RqMvVnGzdoBQbf
-#EXTINF:-1 ,Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 ,Movies Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 ,Cine+ Hit HD
-http://185.235.187.11:8888/play/kinopremera_hd/index.m3u8
-#EXTINF:-1 ,Cinema
-https://sc.id-tv.kz/Cinema_36_37.m3u8
-#EXTINF:-1 ,Cinema
-https://sc.id-tv.kz/Cinema.m3u8
-#EXTINF:-1 ,CINEMA
-http://95.46.43.215:8081/play/a03t
-#EXTINF:-1 ,Cinema Classic TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 ,Cinema HD
-http://176.74.80.162:8099/Cinema/index.m3u8
-#EXTINF:-1 ,Cinema HD
-https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CINEMA R
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 ,CINEMAN
-http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bollywood
-https://sc.id-tv.kz/bollywood_hd.m3u8
-#EXTINF:-1 ,Bollywood
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 ,Bollywood HD
-http://95.67.12.89:9046
-#EXTINF:-1 ,#EXTGRP:Кино
-http://cn04.iptv.monster/play/472/74F5EB24725C911/video.m3u8
-#EXTINF:-1 ,#EXTGRP:Кино
-https://autopilot.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 ,312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 ,TV1000 Р кино
-https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
-#EXTINF:-1 ,Дом кино
-https://sc.id-tv.kz/DomKino.m3u8
-#EXTINF:-1 ,ДОМ КИНО
-http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
-#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ
-https://tbs01-edge11.itdc.ge/domkinopremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Дом кино премиум HD
-https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:-1 ,Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
-#EXTINF:-1 ,Еврокино
-http://176.74.80.162:8099/EuroKino/index.m3u8
-#EXTINF:-1 ,ЕВРОКИНО
-https://tbs01-edge11.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Еврокино HD
-http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
-#EXTINF:-1 ,Индийское кино
-https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Индийское Кино
-http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,Кино 1 International HD
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 ,Кино 1 VHS
-http://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 ,Кино ТВ r
-http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
-#EXTINF:-1 ,КИНО1 INTERNATIONAL
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
-#EXTINF:-1 ,Кинокомедия (360p) [Not 24/7]
-https://sc.id-tv.kz/Kinokomediya_hd.m3u8
-#EXTINF:-1 ,Кинокомедия r
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 ,КИНОМАН HD
-http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киномикс
-http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
-#EXTINF:-1 ,Киномикс HD
-https://sc.id-tv.kz/Kinomix_hd.m3u8
-#EXTINF:-1 ,КИНОМИКС HD
-http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
-#EXTINF:-1 ,Кинопоказ HD
-http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF:-1 ,Кинопремьера HD
-http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносвидание
-http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-#EXTINF:-1 ,Киносемья
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,КИНОСЕМЬЯ
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 ,Киносемья FHD
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 ,Киноужас
-https://sc.id-tv.kz/Kinouzhas_hd.m3u8
-#EXTINF:-1 ,Киноужас
-https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинохит
-https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинохит
-https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:-1 ,Кинохит
-http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
-#EXTINF:-1 ,Кинохит Kz
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 ,Любимое кино
-http://91.233.215.250:7272/JS7lUbMstASMl0r
-#EXTINF:-1 ,Мужское кино
-http://45.144.31.195:8022/playlist.m3u8
-#EXTINF:-1 ,Мужское кино HD
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
-#EXTINF:-1 ,Мужское кино HD
-https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Мужское Кино iptv.org.ua
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Наше любимое кино UA
-http://95.67.12.89:9023
-#EXTINF:-1 ,ФЕНИКС+КИНО
-https://tbs01-edge11.itdc.ge/fenixkino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Enter Film HD
-http://149.5.17.34:20041/play/a078
-#EXTINF:-1 ,Film.Ua Drama
-http://91.233.215.250:7272/gZOp9UD53BBKqyQ
-#EXTINF:-1 ,Filmbox
-https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,FilmBox Arthouse
-https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 ,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 ,FilmZone
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,X-Files
-https://tv.2222.one/ch4.m3u8
-#EXTINF:-1 ,Больше каналов с фильмами
-https://tv.2222.one/ch13.m3u8
-#EXTINF:-1 ,Больше каналов с фильмами 2
-https://tv.2222.one/ch14.m3u8
+#EXTINF:-1 group-title="Страшное",НСТ
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 ,Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Микс",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8

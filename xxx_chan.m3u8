@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 ,O-la-la
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1 ,Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg",Visit-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 ,Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 ,Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 ,Passion XXX
+http://62.176.77.22:9781/play/a00n
+#EXTINF:-1 ,Vivid Red
+http://62.176.77.22:9781/play/a00m
+#EXTINF:-1 ,Evil Angel
+http://62.176.77.22:9781/play/a00l
+#EXTINF:-1 ,Private TV
+http://149.62.183.194:9293/play/a07t
+#EXTINF:-1 ,Babestation 24
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 ,Babes TV
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
+#EXTINF:-1 ,Barely Legal
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
+#EXTINF:-1 ,Red Lips
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
+#EXTINF:-1 ,Dorcel TV
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
+#EXTINF:-1 ,Extasy 4K
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
 #EXTINF:-1 ,Fashion TV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 ,Fetish
@@ -19,26 +49,16 @@ http://12156.vod.adultiptv.net/ph57401e73a6add/play.m3u8
 http://21470.vod.redtraffic.xyz/ph58eb61dea557a/play.m3u8
 #EXTINF:-1 ,MyCamTV Anal
 http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 ,Passion XXX
-http://62.176.77.22:9781/play/a00n
 #EXTINF:-1 ,Playboy
 http://95.67.12.89:9043
-#EXTINF:-1 ,Playboy UK
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 ,Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 ,VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,VISIT-X r
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 ,Vivid Red
-http://62.176.77.22:9781/play/a00m
 #EXTINF:-1 ,М ИГРА
 https://e4.varcdn.top/matchigra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,KINO 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 ,#EXTGRP:18+
 https://ch.iptvmate.net/7117a69d1d618c82843facf705e9dd73.m3u8
 #EXTINF:-1 ,#EXTGRP:18+
@@ -111,8 +131,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6169/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6170/index.m3u8
 #EXTINF:-1 ,Babes HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6171/index.m3u8
-#EXTINF:-1 ,Babes TV HD
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
 #EXTINF:-1 ,Balkan Erotic
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6270/index.m3u8
 #EXTINF:-1 ,Banana Fever
@@ -127,8 +145,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12166/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12114/index.m3u8
 #EXTINF:-1 ,Bang!
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6174/index.m3u8
-#EXTINF:-1 ,Barely legal
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
 #EXTINF:-1 ,Barely Legal TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12165/index.m3u8
 #EXTINF:-1 ,BBC Pie
@@ -245,8 +261,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6197/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/878/index.m3u8
 #EXTINF:-1 ,DORCEL TV FHD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12131/index.m3u8
-#EXTINF:-1 ,Dorcel TV HD
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
 #EXTINF:-1 ,Dorcel TV HD orig
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/9067/index.m3u8
 #EXTINF:-1 ,DORCEL XXX TV
@@ -265,16 +279,12 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6296/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5015/index.m3u8
 #EXTINF:-1 ,Euro Girls On Girls
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12108/index.m3u8
-#EXTINF:-1 ,Evil Angel
-http://62.176.77.22:9781/play/a00l
 #EXTINF:-1 ,Evil Angel HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6199/index.m3u8
 #EXTINF:-1 ,Evolved Fights
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6200/index.m3u8
 #EXTINF:-1 ,Exotic 4k
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12107/index.m3u8
-#EXTINF:-1 ,Extasy 4K
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
 #EXTINF:-1 ,Extasy HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6201/index.m3u8
 #EXTINF:-1 ,Extreme
@@ -384,8 +394,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6237/index.m3u8
 #EXTINF:-1 ,Nubiles TV HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6238/index.m3u8
 #EXTINF:-1 ,O-la-la
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1 ,O-la-la
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/2161/index.m3u8
 #EXTINF:-1 ,O-La-La orig
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/9068/index.m3u8
@@ -397,8 +405,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6239/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12136/index.m3u8
 #EXTINF:-1 ,PASSION XXX
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12120/index.m3u8
-#EXTINF:-1 ,Penthouse Gold HD
-http://51.159.102.100/PenthouseGold/index.m3u8
 #EXTINF:-1 ,Penthouse Gold HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5011/index.m3u8
 #EXTINF:-1 ,Penthouse Passion
@@ -439,8 +445,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6246/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12112/index.m3u8
 #EXTINF:-1 ,Reality Kings HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6247/index.m3u8
-#EXTINF:-1 ,Red Lips
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
 #EXTINF:-1 ,Red XXX
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6281/index.m3u8
 #EXTINF:-1 ,Redlight HD
@@ -613,8 +617,6 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/12117/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6288/index.m3u8
 #EXTINF:-1 ,Yosso TV Sexy
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/14176/index.m3u8
-#EXTINF:-1 ,Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 ,Кино 18+ HD
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/18075/index.m3u8
 #EXTINF:-1 ,Кино 18+ International

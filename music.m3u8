@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="Музмикс",MTV
+http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 group-title="Музмикс",MTV Classic
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музмикс",MTV 90's
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс",MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1 group-title="Музмикс",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музмикс",Жара
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="Музхиты",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музхиты",Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Рок",Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="Клубная",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Национальная",Ля-минор
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60s_70s
 http://prmstrm.1.fm:8000/60s_70s
 #EXTINF:-1 ,Afrobeats 247
@@ -15,8 +37,6 @@ http://music.myradio.ua:8000/gangstarap192.mp3
 http://146.158.0.56/1HD/mono.m3u8
 #EXTINF:-1 ,M-1
 http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 ,MTV 00S
-http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 ,MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 ,V2 Beat HD
@@ -77,8 +97,6 @@ http://music.myradio.ua:8000/hiphopandrnb192.mp3
 https://eurodance90.catcast.tv/content/38204/index.m3u8
 #EXTINF:-1 ,Stingray Alternative HD
 https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 ,Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 ,Stingray Exitos Del Momento HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
 #EXTINF:-1 ,Stingray Flashback 70S HD
@@ -200,8 +218,6 @@ https://live.prd.dlive.tv/hls/live/fila007.m3u8
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 ,Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Клубная",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,COMPANY TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 ,D5 Music
@@ -278,20 +294,12 @@ http://canal.mediaserver.com.co:8080/live/MelodyChannel.m3u8
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 ,molaTV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="Музмикс",MTV
-http://195.24.89.82:80/MTV_SD/index.m3u8
 #EXTINF:-1 ,MTV 00s
 http://myott.top/stream/7D4XYB2WFN/165.m3u8
 #EXTINF:-1 ,MTV 80s
 http://myott.top/stream/7D4XYB2WFN/87.m3u8
 #EXTINF:-1 ,MTV 90s
 http://myott.top/stream/7D4XYB2WFN/88.m3u8
-#EXTINF:-1 group-title="Музмикс",MTV 90's
-https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
-#EXTINF:-1 group-title="Музмикс",MTV Classic
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
-#EXTINF:-1 group-title="Музхиты",MTV Hits
-https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Музмикс",MTV Live HD
 http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 ,MUSIC TOP HD
@@ -390,8 +398,6 @@ http://svetur.intellmedia.lt:8282/tiesiogiai.mp3
 http://stream.tauragesradijas.lt:8000/tr1
 #EXTINF:-1 ,The Box UK (576p) [Not 24/7]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 group-title="Музмикс",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Trance is Star
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 ,TRANCE IS STAR TV
@@ -426,10 +432,6 @@ https://xite-samsung-de.amagi.tv/playlist720-p.m3u8
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 ,Ziniu Radijas
 http://netradio.ziniur.lt/ziniur.mp3
-#EXTINF:-1 group-title="Музмикс",Жара
-http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
-#EXTINF:-1 group-title="Национальная",Ля-минор
-https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Радуга
 http://radio.m-1.fm:80/raduga/high
 #EXTINF:-1 ,Ретро
