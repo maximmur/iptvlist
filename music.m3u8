@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,First Music (Opt-1)
+http://rtmp.one.by:2300/?checkedby:iptvcat.com
+#EXTINF:-1,First Music (Opt-2)
+http://rtmp.one.by:1300/?checkedby:iptvcat.com
+#EXTINF:-1,Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Музмикс",MTV
 http://195.24.89.82:80/MTV_SD/index.m3u8
 #EXTINF:-1 group-title="Музмикс",MTV Classic

@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/5ym6eJS.png",Cpac (1080p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://i.ibb.co/nRcc0bM/download-6.png",DniproTV (1080p)
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/t9xHfSV.png",GoodLife 45 (720p)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/zvj1boM.jpg",HTV 1 - Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/E38ZhCz.jpg",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Shop" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png",QVC Live (720p) [Not 24/7]
+http://n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport;Undefined" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
+http://brodilo.tv/channel.php?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",First Music (Opt-1)
+http://rtmp.one.by:2300/?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",First Music (Opt-2)
+http://rtmp.one.by:1300/?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Religious" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Religious" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined;FRANCE" tvg-logo="https://i.imgur.com/ZoOCSij.png",FilmRise Sci-Fi Finland
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",TVRI Sport HD (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Матч!
 http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Солнце
@@ -317,8 +351,6 @@ http://149.5.17.34:20041/play/a06l
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
 #EXTINF:-1 ,Orange TV (720p)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 ,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 ,RED BULL TV HD

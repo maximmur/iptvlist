@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,FilmRise Sci-Fi Finland
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 ,Enter Film HD
 http://149.5.17.34:20041/play/a078
 #EXTINF:-1 group-title="Микс",312 Кино
@@ -9,16 +13,12 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.74.80.162:8099/Amedia1/index.m3u8
 #EXTINF:-1 ,Cinema HD
 http://176.74.80.162:8099/Cinema/index.m3u8
-#EXTINF:-1 group-title="Национальное",Еврокино
-http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:-1 ,TV XXI
 http://176.74.80.162:8099/TVXXI/index.m3u8
 #EXTINF:-1 group-title="Отечественное",Мосфильм. Золотая коллекция
 http://178.212.236.2:80/Mosfilm/index.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL UA
 http://185.235.187.11:8888/play/a060/index.m3u8
-#EXTINF:-1 ,Cine+ Hit HD
-http://185.235.187.11:8888/play/kinopremera_hd/index.m3u8
 #EXTINF:-1 ,Viju History
 http://185.235.187.11:8888/play/xagorodnaya_zhizh/index.m3u8
 #EXTINF:-1 group-title="Микс",Fox Life HD
@@ -93,14 +93,8 @@ http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 http://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Хиты",Kion Хит
 http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
-#EXTINF:-1 ,#EXTGRP:Кино
-http://cn04.iptv.monster/play/472/74F5EB24725C911/video.m3u8
 #EXTINF:-1 ,Hollywood
 http://iptv.prosto.tv:7000/ch157/video.m3u8
-#EXTINF:-1 ,TV1000 Action
-http://iptv.prosto.tv:7000/ch47/video.m3u8
-#EXTINF:-1 ,TV1000 World Kino
-http://iptv.prosto.tv:7000/ch48/video.m3u8
 #EXTINF:-1 ,Enter-фільм
 http://iptv.prosto.tv:7000/ch54/video.m3u8
 #EXTINF:-1 ,Еврокино HD
@@ -143,82 +137,18 @@ http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 ,Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 ,#EXTGRP:Кино
-https://autopilot.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 ,КИНО1 INTERNATIONAL
 https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 ,Stirr Movies (720P)
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 ,The Film Detective (720p)
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 ,American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 ,Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 ,Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 ,ТСВ
-https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 group-title="Отечественное",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="Страшное",Trash HD
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Микс",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 ,StSD+ 16.9 Silknet GE
-https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ
-https://tbs01-edge11.itdc.ge/domkinopremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ЕВРОКИНО
-https://tbs01-edge11.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ФЕНИКС+КИНО
-https://tbs01-edge11.itdc.ge/fenixkino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Микс",Filmbox
-https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Микс",FilmBox Arthouse
-https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,VIP HIT
-https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Национальное",Hollywood HD
-https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Микс",Иллюзион+
-https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Национальное",Индийское кино
-https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Мужское кино HD
-https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хиты",Кинохит
-https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киноужас
-https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Сериалы",Мир сериала
-https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Национальное",Cinema HD
-https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Отечественное",Русский иллюзион
-https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV1000
-https://tbs01-edge11.itdc.ge/tv1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV1000 ACTION
-https://tbs01-edge11.itdc.ge/tv1000act/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,VIP FAMILY
-https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Национальное",Индия
-https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Еще сериалы
 https://tv.2222.one/ch11.m3u8
 #EXTINF:-1 ,И еще сериалы
@@ -255,7 +185,5 @@ https://tv.2222.one/ch7.m3u8
 https://tv.2222.one/ch8.m3u8
 #EXTINF:-1 group-title="Страшное",НСТ
 https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
-#EXTINF:-1 ,Comedy Channel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Микс",Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
