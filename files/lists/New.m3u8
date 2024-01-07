@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 ,#EXTGRP:Eurosport
+https://ip5.pokaz.me:1443/594/index.m3u8?wmsAuthSign=1695567531p34i081i69i64S6617d68185a0786228b9aa6e2f5b87d3
+
+#EXTINF:-1 ,#EXTGRP:Eurosport2
+https://ip3.pokaz.me:1443/595/index.m3u8?wmsAuthSign=1695572703p34i081i69i64S7e902a1b364280efa28a5d290ad03df4
+
+#EXTINF:-1 ,#EXTGRP:KHL Prime
+https://ip1.pokaz.me:1443/149/index.m3u8?wmsAuthSign=1695572171p34i081i69i64S57dcf396feddd7a86f236dc660516217
+
+#EXTINF:-1 ,#EXTGRP:Viasat Sport
+https://ip2.pokaz.me:1443/152/index.m3u8?wmsAuthSign=1695572242p34i081i69i64S831853b9500c00e0b9e946c273fbc230
+
+#EXTINF:-1 ,#EXTGRP:TV1000 Action
+https://ip5.pokaz.me:1443/138/index.m3u8?wmsAuthSign=1695572302p34i081i69i64S9e5f258361855e2681ab78a4866a7764
+
+#EXTINF:-1 ,#EXTGRP:Кинохит
+https://ip5.pokaz.me:1443/200/index.m3u8?wmsAuthSign=1695572442p34i081i69i64S1b80514ad8c36f05401e63304ce6a5eb
+
+#EXTINF:-1 ,#EXTGRP:Discovery
+https://ip5.pokaz.me:1443/520/index.m3u8?wmsAuthSign=1695572567p34i081i69i64Sb40bb36b1664d96f6bcc265c269d69f8
+
+#EXTINF:-1 ,#EXTGRP:Discovery Science
+https://ip4.pokaz.me:1443/571/index.m3u8?wmsAuthSign=1695572624p34i081i69i64S091b25cebf3c3a88c3a9a3d7e9d0ef52

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1,В мире животных
+http://ott.watch/stream/KD8IR5FDPF/241.m3u8
+#EXTINF:-1,Еда
+http://u.vipl.one/high/mtpy4cu872/518.m3u8
+#EXTINF:-1,FHD 16.9 СеверСвязь.Ноябрьск RU
+http://146.158.0.56:80/360HD/index.m3u8
+#EXTINF:-1,HGTV HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/48389:HGTV Home and Garden HD
+#EXTINF:-1,Stadium (720p)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,Доктор (720p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
+#EXTINF:-1,FOX 28 Savannah GA (WTGS) (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1,FREEДОМ
+https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/51073/hlsx/pl.m3u8
+#EXTINF:-1,I-UA.tv (1080p)
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1,LAVA HD Русский
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:-1,NASA TV (504p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,Skrypin.ua (1080p) [Not 24/7]
+https://open-cdn.lanet.tv/play/skrypin.m3u8
