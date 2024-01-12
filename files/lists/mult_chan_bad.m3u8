@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="Мультсериалы",Карусель International
+https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мультсериалы",Солнце
+http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы",Капитан Фантастика HD
+http://185.37.150.40:8092/Ginger_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы",Ani
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мультсериалы",JimJam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейные",Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейные",Nickelodeon
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 group-title="Семейные",Nickelodeon HD
+http://45.144.31.195:8026/playlist.m3u8
+#EXTINF:-1 group-title="Для маленьких",СуперГерои
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="Для маленьких",Nick Jr.
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 ,Мама
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+#EXTINF:-1 ,ПІКСЕЛЬ TV HD
+https://ext.cdn.nashnet.tv/228.0.0.8/index.m3u8
+#EXTINF:-1 ,FASTBOX HD
+http://95.67.12.89:9011
+#EXTINF:-1 ,Nick Jr
+https://ext.cdn.nashnet.tv/228.0.0.146/index.m3u8
+#EXTINF:-1 ,Nick Jr HD
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1 ,Nickelodeon
+http://streamer1.ruslanatv.ru/russia/nickelodeon_2023/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://91.233.215.250:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 ,Nickelodeon
+https://ext.cdn.nashnet.tv/228.0.0.123/index.m3u8
+#EXTINF:-1 ,NIKI Junior HD UA
+https://ext.cdn.nashnet.tv/228.0.0.186/index.m3u8
+#EXTINF:-1 ,NIKI Kids HD UA
+https://ext.cdn.nashnet.tv/228.0.0.189/index.m3u8
+#EXTINF:-1 ,Olsib TV
+http://46.18.107.105:8409/iptv/channel/1.m3u8
+#EXTINF:-1 ,StSD+ 16.9 Ракета.Иркутск RU
+http://31.148.48.15:80/Ani/index.m3u8?token=test
+#EXTINF:-1 ,Cartoon Network
+https://ext.cdn.nashnet.tv/228.0.0.76/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
+#EXTINF:-1 ,LoLo TV (576p)
+https://venera.greenhosting.ru/LoLoLV/video.m3u8
+#EXTINF:-1 ,Мульт HD
+http://46.151.151.245:10002/play/a0b4
+#EXTINF:-1 ,О!
+http://46.151.151.245:10007/play/a006

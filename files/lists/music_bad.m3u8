@@ -1,4 +1,91 @@
 #EXTM3U
+#EXTINF:-1 group-title="Музмикс",MTV
+http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 group-title="Музмикс",Жара
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="Рок",Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="Национальная",Ля-минор
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HD 16.9 СеверСвязь.Ноябрьск RU
+http://146.158.0.56/1HD/mono.m3u8
+#EXTINF:-1 ,Videomix:2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 ,Videomix:2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 ,Videomix:2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1 ,Videomix:2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 ,Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 ,Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 ,Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 ,Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 ,Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 ,Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 ,Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 ,Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 ,Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 ,Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 ,Хеві метал
+http://music.myradio.ua:8000/heavymetal192.mp3
+#EXTINF:-1 ,Music BOX
+http://95.67.12.89:9092
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 ,Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,UA Music
+http://95.67.12.89:9087
+#EXTINF:-1 ,Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 ,BRIDGE Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 ,Factoria TV HD
+https://eu1.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 ,Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 ,Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 ,MGR TV HD
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 ,molaTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Музмикс",MTV Live HD
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+#EXTINF:-1 ,MUSIC TOP HD
+http://200.115.193.177/live/msctphd-720/chunklist_w1936316961.m3u8
+#EXTINF:-1 ,ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 ,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1 ,Rock Naryad TV
+http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
+#EXTINF:-1 ,RTL 102.5
+http://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
+#EXTINF:-1 ,RTL 102.5 Best
+http://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
+#EXTINF:-1 ,Sexy Kpop TV
+http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 ,VIP HIT
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ретро
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1326335307_b750000.m3u8
 #EXTINF:-1 group-title="1.FM",A List 80s
 http://zigfreed.ru:802/R/1.zig
 #EXTINF:-1 group-title="1.FM",Absolute 90's
@@ -3751,9 +3838,9 @@ http://zigfreed.ru:802/R/1874.zig
 http://zigfreed.ru:802/R/1875.zig
 #EXTINF:-1 group-title="Несортированные Радиостанции",Deep Pulse Radio (Николаев)
 http://zigfreed.ru:802/R/1876.zig
-#EXTINF:-1 group-title="ЕЩЕ РАДИО",#EXTINF:-1
+#EXTINF:-1 ,#EXTINF:-1
 http://zigfreed.ru:802/R/1877.zig
-#EXTINF:-1 group-title="ЕЩЕ РАДИО",#EXTINF:-1
+#EXTINF:-1 ,#EXTINF:-1
 http://zigfreed.ru:802/R/1878.zig
 #EXTINF:-1 group-title="ЕЩЕ РАДИО",90s Alternative
 http://zigfreed.ru:802/R/1879.zig
@@ -4629,3 +4716,2449 @@ http://zigfreed.ru:802/R/2313.zig
 http://zigfreed.ru:802/R/2314.zig
 #EXTINF:-1 group-title="ЕЩЕ РАДИО",Яхт Радио (LV)
 http://zigfreed.ru:802/R/2315.zig
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://t.me/freeneo_net
+https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NEOCLASSICAL METAL
+http://79.111.119.111:8000/neoclassicalmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PAGAN METAL
+http://79.111.119.111:8000/paganmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC BLACK METAL
+http://79.111.119.111:8000/symphonicblackmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GROOVE METAL
+http://79.120.39.202:8000/groovemetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC METAL / SYMPHOMETAL
+http://79.120.77.11:8000/symphometal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH DOOM METAL
+http://79.120.39.202:8000/deathdoom
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DARK METAL
+http://79.111.119.111:8000/darkmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DOOM METAL
+http://79.111.14.76:8000/doom
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",POST / INSTRO / ART METAL
+http://79.120.39.202:8000/postmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE BLACK / POST-BLACK / BLACKGAZE
+http://79.111.14.76:8000/postblack
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GOTHIC DOOM METAL
+http://79.120.39.202:8000/gothdoommet
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE POWER METAL
+http://79.111.119.111:8000/progpowermetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NWOBHM (NEW WAVE OF BRITISH HEAVY METAL)
+http://79.120.12.130:8000/nwobhm
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NEUE DEUTSCHE HARTE
+http://213.141.131.10:8000/ndh
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",VIKING METAL
+http://79.111.14.76:8000/vikingmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH'N'ROLL
+http://79.120.39.202:8000/deathnroll
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",FOLK BLACK METAL
+http://79.120.12.130:8000/folkblackmet
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",BLACK METAL
+http://79.120.77.11:8000/blackmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",DEATH METAL
+http://79.120.77.11:8000/deathmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE DEATH METAL
+http://79.111.119.111:8000/progdeath
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",NU METAL
+http://79.111.14.76:8000/numetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SLUDGE METAL
+http://79.120.77.11:8000/sludgemetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",POPWER METAL
+http://79.120.77.11:8000/powermetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",BLACK / BLACKENED DEATH METAL
+http://79.111.14.76:8000/blackdeath
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",INSTRUMENTAL METAL
+http://79.111.119.111:8000/instrumentalmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",AVANT-GARDE / EXPERIMENTAL METAL
+http://79.111.14.76:8000/avantgardemetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",HEAVY POWER METAL
+http://79.120.12.130:8000/heavypowermetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MELODIC HEAVY METAL
+http://79.111.119.111:8000/melodicheavy
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC POWER METAL
+http://213.141.131.10:8000/symphopower
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",SYMPHONIC GOTHIC METAL
+http://213.141.131.10:8000/symphogoth
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MEDIEVAL METAL
+http://213.141.131.10:8000/medievalmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",JAZZ / FUSION METAL
+http://213.141.131.10:8000/jazzmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",MELODIC DEATH METAL
+http://79.120.77.11:8000/melodicdeath
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",GOTHIC BLACK METAL
+http://79.120.39.202:8000/gothblackmet
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",FOLK DEATH METAL
+http://79.120.12.130:8000/folkdeathmet
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",PROGRESSIVE METAL
+http://79.120.77.11:8000/progmetal
+#EXTINF:-1 group-title="METAL" tvg-logo="https://i.postimg.cc/SxYJ1hKh/c300.jpg",HEAVY METAL
+http://79.111.14.76:8000/heavymetal
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",RUSSIAN POP
+http://79.120.77.11:8000/popru
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",NU DISCO
+http://79.111.119.111:8000/nudisco
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP MUSIC OF THE USSR
+http://79.120.77.11:8000/ussr
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CHINESE POP
+http://213.141.131.10:8000/cpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",TURKISH POP
+http://213.141.131.10:8000/turkishpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",REGGAETON
+http://213.141.131.10:8000/reggaeton
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CANTOPOP
+http://79.120.12.130:8000/cantopop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP BALLADS
+http://79.120.77.11:8000/popballads
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",POP
+http://79.120.77.11:8000/pop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ITALO DISCO
+http://79.111.119.111:8000/italodisco
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",JAPANESE POP
+http://79.111.119.111:8000/jpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FRENCH
+http://79.111.14.76:8000/frenchchanson
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FRENCH POP MUSIC
+http://79.120.12.130:8000/frenchpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",KOREAN POP
+http://79.111.119.111:8000/kpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",EURODANCE
+http://79.120.39.202:8000/eurodance
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",EURO DISCO
+http://79.111.119.111:8000/eurodisco
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",DISCO
+http://79.120.77.11:8000/disco
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",RUSSIAN POP 1980-1990s
+http://79.120.77.11:8000/80ru
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ARABIC POP MUSIC
+http://79.120.39.202:8000/arabicpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",LATIN POP
+http://79.111.119.111:8000/latinpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",DANCE POP
+http://79.120.77.11:8000/dancepop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",ITALIAN POP
+http://213.141.131.10:8000/italopop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",FOLK POP
+http://213.141.131.10:8000/folkpop
+#EXTINF:-1 group-title="POP" tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg",CLASSIC POP
+http://213.141.131.10:8000/tradpop
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PSYCHOBILLY
+http://79.111.119.111:8000/psychobilly
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INDIE
+http://79.111.119.111:8000/indiepop
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",FOLK ROCK
+http://79.111.14.76:8000/folkrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ROCK'n'ROLL
+http://79.120.77.11:8000/rockroll
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",HARD
+http://79.120.77.11:8000/hardrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",RUSSIAN ROCK
+http://79.120.77.11:8000/rockru
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GLAM ROCK
+http://79.120.39.202:8000/glam
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INSTRUMENTAL ROCK
+http://79.120.39.202:8000/instrumentalrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",JAPANESE ROCK
+http://79.111.119.111:8000/jrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PROGRESSIVE ROCK
+http://79.111.119.111:8000/progressiverock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",NOISE ROCK
+http://79.120.39.202:8000/noiserock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",CROSSOVER PROG
+http://79.111.14.76:8000/crossoverprog
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",LATIN
+http://79.111.119.111:8000/latinjazz
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PIANO ROCK
+http://79.111.14.76:8000/pianorock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",FUNK ROCK
+http://213.141.131.10:8000/funkrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SURF ROCK
+http://79.111.119.111:8000/surfrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PSYCHEDELIC ROCK
+http://79.111.119.111:8000/psychedelicrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",DARK WAVE
+http://79.111.14.76:8000/darkwave
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",PUNK ROCK
+http://79.120.77.11:8000/punk
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GRUNGE
+http://79.120.39.202:8000/grunge
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ART ROCK
+http://79.120.39.202:8000/artrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GOTH ROCK
+http://79.111.14.76:8000/gothicrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",GARAGE ROCK
+http://79.111.119.111:8000/garagerock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",ACID ROCK
+http://213.141.131.10:8000/acidrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",BLUES ROCK
+http://79.120.39.202:8000/bluesrock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",RUSSIAN PUNK ROCK
+http://79.120.77.11:8000/punkru
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SYMPHONIC ROCK
+http://79.120.39.202:8000/symphorock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",SPACE ROCK
+http://79.111.119.111:8000/spacerock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",POP ROCK
+http://79.120.77.11:8000/poprock
+#EXTINF:-1 group-title="ROCK" tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png",INDIE FOLK
+http://79.111.14.76:8000/indiefolk
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",UPLIFTING/EPIC/EUPHORIC TRANCE
+http://79.111.119.111:8000/upliftingtrance
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO HOUSE
+http://79.111.14.76:8000/electrohouse
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",Hardstyle
+http://79.111.14.76:8000/hardstyle
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PROGRESSIVE TRANCE
+http://79.120.39.202:8000/progtrance
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",RUSSIAN CLUB DANCE MUSIC
+http://79.120.77.11:8000/clubru
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",GOA TRANCE
+http://79.120.39.202:8000/goatrance
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",LO-FI
+http://79.111.14.76:8000/lo-fi
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",AMBIENT DUB
+http://79.111.14.76:8000/ambientdub
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",TECHNO
+http://79.120.77.11:8000/techno
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",AMBIENT
+http://79.111.119.111:8000/ambient
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO / ELECTRO FUNK
+http://79.111.119.111:8000/electro
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SPACESYNTH
+http://79.120.39.202:8000/spacesynth
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",NEUROFUNK
+http://79.111.119.111:8000/neurofunk
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DRONE AMBIENT
+http://79.111.119.111:8000/droneambient
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTROCLASH
+http://79.120.39.202:8000/electroclash
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PUMPING HOUSE
+http://79.120.77.11:8000/pumpinghouse
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DARK DUBSTEP
+http://79.120.39.202:8000/darkdubstep
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",RIDDIM DUBSTEP
+http://79.111.119.111:8000/riddimdubstep
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SUOMISAUNDI / FREEFORM PSYTRANCE
+http://79.120.77.11:8000/suomisaundi
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",ELECTRO TECHNO
+http://213.141.131.10:8000/electrotechno
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",CYBERPUNK
+http://79.120.12.130:8000/cyberpunk
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",PROGRESSIVE ELECTRONIC
+http://79.120.12.130:8000/progelectronic
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",INDUSTRIAL TECHNO
+http://79.120.12.130:8000/industrialtechno
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",IDM
+http://79.111.14.76:8000/idm
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",TRANCE
+http://79.120.77.11:8000/trance
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DARK TECHNO
+http://79.111.14.76:8000/darktechno
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",SPACE MUSIC
+http://79.111.119.111:8000/spacemusic
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DUBSTEP
+http://79.120.39.202:8000/dubstep
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",DRUM'n'BASS
+http://79.111.14.76:8000/drumbass
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",HOUSE
+http://79.120.77.11:8000/house
+#EXTINF:-1 group-title="ELECTRONIC" tvg-logo="https://i.postimg.cc/RhkPq3SW/unnamed.png",HI-TECH
+http://79.120.12.130:8000/hitechpsy
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",SYMPHONY
+http://79.111.14.76:8000/symphony
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL PIANO
+http://79.120.39.202:8000/classpiano
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CONTEMPORARY CLASSICAL
+http://79.111.119.111:8000/contclass
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLAVECIN
+http://213.141.131.10:8000/clavecin
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL GUITAR
+http://213.141.131.10:8000/classguitar
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",SONATAS
+http://213.141.131.10:8000/sonata
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",LUTE
+http://79.120.12.130:8000/lute
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL SYMPHONIC
+http://79.120.77.11:8000/classical
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",VOCAL MUSIC
+http://79.120.39.202:8000/chorus
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",RENAISSANCE MUSIC
+http://213.141.131.10:8000/renaissance
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",VIOLONCELLO
+http://79.120.12.130:8000/cello
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",HARP
+http://213.141.131.10:8000/harp
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CHANTS
+http://213.141.131.10:8000/chants
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CANTATA
+http://79.120.12.130:8000/cantata
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",ORGAN MUSIC
+http://79.120.77.11:8000/organ
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",BAROQUE MUSIC
+http://79.111.14.76:8000/baroque
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",MEDIEVAL MUSIC
+http://213.141.131.10:8000/medieval
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CHRISTIAN SACRED MUSIC
+http://213.141.131.10:8000/sacred
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLASSICAL AVANT-GARDE
+http://213.141.131.10:8000/classavant
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",ORATORIO
+http://79.120.12.130:8000/oratorio
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",OPERA
+http://79.120.39.202:8000/opera
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",STRINGS
+http://79.120.39.202:8000/strings
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",CLARINET
+http://213.141.131.10:8000/clarinet
+#EXTINF:-1 group-title="CLASSICAL" tvg-logo="https://i.postimg.cc/L5tyY9nv/123.jpg",MINIMALISM
+http://213.141.131.10:8000/minimalism
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SMOOTH JAZZ
+http://79.120.39.202:8000/smoothjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ FUNK
+http://79.120.39.202:8000/jazzfunk
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",FREE JAZZ
+http://79.111.14.76:8000/nujazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CONTEMPORARY JAZZ
+http://79.111.119.111:8000/contemporaryjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SOUL JAZZ
+http://79.111.14.76:8000/souljazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",MODERN CREATIVE
+http://79.120.77.11:8000/mcreative
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CHAMBER JAZZ
+http://79.120.39.202:8000/chamberjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",CROSSOVER JAZZ
+http://213.141.131.10:8000/crossoverjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",VIBRAPHONE IN JAZZ
+http://213.141.131.10:8000/vibraphone
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",SWING
+http://79.120.39.202:8000/swing
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",HARD BOP
+http://79.111.14.76:8000/hardbop
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",BOSSA NOVA
+http://79.111.14.76:8000/bossanova
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ POP
+http://79.120.39.202:8000/jazzpop
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",MODAL JAZZ
+http://213.141.131.10:8000/modaljazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",BIG BAND
+http://79.120.39.202:8000/bigband
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",POST BOP
+http://79.111.14.76:8000/postbop
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",PIANO JAZZ
+http://79.111.119.111:8000/pianojazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",AVANT-GARDE JAZZ
+http://79.111.119.111:8000/avantgardejazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",AMBIENT JAZZ
+http://79.120.39.202:8000/darkjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",DIXIELAND
+http://79.120.39.202:8000/dixieland
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",ACID
+http://79.111.14.76:8000/acidjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ FUSION
+http://79.111.119.111:8000/jazzfusion
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",GUITAR JAZZ
+http://79.120.77.11:8000/guitarjazz
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",THIRD STREAM JAZZ
+http://213.141.131.10:8000/thirdstream
+#EXTINF:-1 group-title="JAZZ" tvg-logo="https://i.postimg.cc/DzG1yCWP/jazz3.jpg",JAZZ TRUMPET
+http://213.141.131.10:8000/trumpetjazz
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",ACOUSTIC BLUES
+http://79.111.14.76:8000/acousticblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SOUL
+http://79.120.39.202:8000/soul
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",DELTA BLUES
+http://79.120.77.11:8000/deltablues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SOUL BLUES
+http://79.111.14.76:8000/soulblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",FUNK
+http://79.111.119.111:8000/funk
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",HARP BLUES
+http://79.120.39.202:8000/harpblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",COUNTRY
+http://79.120.77.11:8000/countryblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",PIANO BLUES
+http://79.111.14.76:8000/pianoblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",JUMP BLUES
+http://213.141.131.10:8000/jumpblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",WEST COAST BLUES
+http://79.120.12.130:8000/westcoastblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",SLIDE GUITAR
+http://213.141.131.10:8000/slideguitar
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",CHICAGO BLUES
+http://79.111.14.76:8000/chicagoblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",HARD BLUES
+http://79.120.77.11:8000/heavyblues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",POP SOUL
+http://213.141.131.10:8000/popsoul
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",BLUES
+http://79.120.77.11:8000/blues
+#EXTINF:-1 group-title="BLUES/SOUL/FUNK" tvg-logo="https://i.postimg.cc/wvvHQrhh/Blues.png",TEXAS BLUES
+http://79.111.14.76:8000/texasblues
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",Indian Folk
+http://79.111.14.76:8000/indianfolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",RUSSIAN FOLK MUSIC
+http://79.120.77.11:8000/russianfolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ORTHODOX SPIRITUAL MUSIC
+http://79.111.14.76:8000/orthodox
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",GREEK MUSIC
+http://79.111.119.111:8000/laika
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",GOSPEL / SPIRITUALS MUSIC
+http://79.111.14.76:8000/gospel
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",EUROPEAN FOLK MUSIC
+http://213.141.131.10:8000/europeanfolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FLAMENCO
+http://79.111.14.76:8000/flamenco
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",TANGO
+http://79.120.39.202:8000/tango
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MIDDLE EASTERN
+http://79.111.119.111:8000/middleeast
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",AFRICAN FOLK
+http://79.120.39.202:8000/africanfolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MUSIC OF SIBERIA
+http://79.111.119.111:8000/siberia
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ANDEAN / SOUTH AMERICAN MUSIC
+http://213.141.131.10:8000/andean
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",ZYDECO
+http://213.141.131.10:8000/zydeco
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",AFROBEAT
+http://79.120.39.202:8000/afrobeat
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",CELTIC MUSIC
+http://79.111.14.76:8000/celtic
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",NATIVE AMERICAN MUSIC
+http://79.111.119.111:8000/nativeamerican
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",BALKAN MUSIC
+http://79.120.39.202:8000/balkan
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",CAUCASIAN MUSIC
+http://213.141.131.10:8000/caucasus
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",INDIAN SPIRITUAL MUSIC
+http://213.141.131.10:8000/mantras
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",SLAVIC NEOFOLK MUSIC
+http://213.141.131.10:8000/slavonicneofolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",TRADITIONAL LATIN MUSIC
+http://79.120.39.202:8000/salsa
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FAR EASTERN TRADITIONAL MUSIC
+http://79.111.119.111:8000/fareast
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",JEWISH MUSIC
+http://79.120.39.202:8000/klezmer
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",MEDIEVAL FOLK
+http://213.141.131.10:8000/medievalfolk
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",FADO (PORTUGUESE MUSIC)
+http://213.141.131.10:8000/fado
+#EXTINF:-1 group-title="ETHNIC/FOLK" tvg-logo="https://i.postimg.cc/wTvkhQyD/image.jpg",OCEANIA / AUSTRALIA
+http://213.141.131.10:8000/oceania
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",REGGAE
+http://79.120.39.202:8000/reggae
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",SKA
+http://79.111.119.111:8000/ska
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",DUB MUSIC
+http://79.111.14.76:8000/dub
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",SKA PUNK
+http://79.111.119.111:8000/skapunk
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",DANCEHALL
+http://79.111.14.76:8000/dancehall
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",ROCKSTEADY
+http://79.120.39.202:8000/rocksteady
+#EXTINF:-1 group-title="REGGAE/SKA" tvg-logo="https://i.postimg.cc/QMMpGp1j/6.jpg",ROOTS REGGAE
+http://79.111.119.111:8000/rootsreggae
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC DEATHCORE
+http://79.111.14.76:8000/deathcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",CRUST PUNK
+http://79.120.39.202:8000/crust
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",BEATDOWN/MOSHCORE
+http://79.111.14.76:8000/beatdown
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",RAPCORE
+http://79.111.119.111:8000/rapcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",METALCORE
+http://79.120.39.202:8000/metalcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",POST HARDCORE
+http://79.111.119.111:8000/posthardcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",PROGRESSIVE METALCORE
+http://79.111.14.76:8000/progmetalcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",GRINDCORE
+http://79.120.77.11:8000/grindcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC METALCORE
+http://79.111.14.76:8000/melodicmetalcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MATHCORE
+http://79.120.39.202:8000/mathcore
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",HARDCORE PUNK
+http://213.141.131.10:8000/hardcorepunk
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",MELODIC HARDCORE
+http://79.111.14.76:8000/hardcoremetal
+#EXTINF:-1 group-title="HARDCORE" tvg-logo="https://i.postimg.cc/5NN7NFwk/11.jpg",ELECTRONICORE
+http://79.111.119.111:8000/electronicore
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",HIP-HOP MUSIC
+http://79.120.77.11:8000/hiphop
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",GANGSTA RAP
+http://79.120.39.202:8000/gangstarap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",INSTRUMENTAL HIP-HOP
+http://79.120.77.11:8000/instrumentalhiphop
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",DEUTSCHE HIP-HOP
+http://213.141.131.10:8000/germanrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",CLOUD RAP
+http://213.141.131.10:8000/cloudrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",RUSSIAN RAP
+http://79.120.77.11:8000/rapru
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",EAST COAST RAP
+http://79.111.14.76:8000/eastcoastrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",JAZZ RAP
+http://79.120.39.202:8000/jazzrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",FRENCH HIP-HOP
+http://213.141.131.10:8000/frenchrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",CHICANO RAP
+http://213.141.131.10:8000/chicanorap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",RAP MUSIC
+http://79.120.77.11:8000/rap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",UNDERGROUND RAP
+http://79.111.14.76:8000/undergroundrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",HORRORCORE
+http://79.120.39.202:8000/hardcorerap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",BRITISH HIP-HOP
+http://213.141.131.10:8000/ukhiphop
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",ABSTRACT
+http://79.111.14.76:8000/abstracthiphop
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",SOUTHERN RAP
+http://79.111.119.111:8000/southernrap
+#EXTINF:-1 group-title="HIP-HOP" tvg-logo="https://i.postimg.cc/9MkdmrVs/3.jpg",OLD SCHOOL
+http://213.141.131.10:8000/oldschoolhiphop
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",ALTERNATIVE
+http://79.111.119.111:8000/altcountry
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",HONKY-TONK
+http://213.141.131.10:8000/honkytonk
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",BLUEGRASS
+http://79.111.14.76:8000/bluegrass
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",WESTERN SWING MUSIC
+http://79.120.12.130:8000/westernswing
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",COUNTRY MUSIC
+http://79.120.77.11:8000/country
+#EXTINF:-1 group-title="COUNTRY" tvg-logo="https://i.postimg.cc/hGfwpQC5/2.jpg",COUNTRY POP
+http://79.111.119.111:8000/countrypop
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN SHANSON
+http://79.120.77.11:8000/shansonru
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN POST SHANSON
+http://79.120.77.11:8000/postshanson
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",GYPSY ROMANCES
+http://79.120.77.11:8000/gypsyru
+#EXTINF:-1 group-title="SHANSON" tvg-logo="https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg",RUSSIAN ROMANCE
+http://79.120.77.11:8000/romanceru
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Progressive FLAC (VPN RUS)
+http://89.223.45.5:8000/progressive-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Classical (VPN RUS)
+http://89.223.45.5:8000/nota-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Space FLAC (VPN RUS)
+http://89.223.45.5:8000/space-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR 90s FLAC (VPN RUS)
+http://89.223.45.5:8000/next-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR 80s FLAC (VPN RUS)
+http://89.223.45.5:8000/geny-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Ai-radio.org
+http://ai-radio.org:8000/44.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",JB Radio-2 *Commercial-Free Web Radio
+http://199.189.87.9:10999/flac
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg",Smooth Jazz
+https://jfm1.hostingradio.ru:14536/sjstream.mp3
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg",Smooth Choice Radio
+http://s4.viastreaming.net:8000/;
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg",Sing Sing
+http://edge.singsingmusic.net/singsingweb012
+#EXTINF:-1 group-title="Ambient" tvg-logo="https://i.postimg.cc/3NWY0KZV/30425588dbb82b4e0bd4dd2d5cfcc764.jpg",Chill (Frisky Radio)
+http://chill.friskyradio.com/friskychill_mp3_high
+#EXTINF:-1 group-title="Ambient" tvg-logo="https://i.postimg.cc/3NWY0KZV/30425588dbb82b4e0bd4dd2d5cfcc764.jpg",Anotherplanet Fm
+http://stream.anotherplanet.fm:8000/stream.mp3
+#EXTINF:-1 group-title="Ambient" tvg-logo="https://i.postimg.cc/3NWY0KZV/30425588dbb82b4e0bd4dd2d5cfcc764.jpg",Graal Radio
+https://graalradio.com:8128/future160
+#EXTINF:-1 group-title="Ambient" tvg-logo="https://i.postimg.cc/3NWY0KZV/30425588dbb82b4e0bd4dd2d5cfcc764.jpg",Cassiopeia Station
+https://centaurus.s02.radio-tochka.com:5015/stream
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",CORE RADIO!
+http://194.58.97.117:8000/coreradio
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",BOB - Metal
+http://bob.hoerradar.de/radiobob-metal-mp3-hq
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",RADIO BIZZZZZ
+http://91.121.162.224:9012/stream
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",mETaLmuSicRaDio
+http://radio.m69.co:8000/128K.mp3
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Hot Mix Radio Metal
+http://streamingads.hotmixradio.fm/hotmixradio-metal-128.mp3
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Death FM
+http://hi5.death.fm/;
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",That Metal Station
+https://s5.citrus3.com:8358/stream
+#EXTINF:-1 group-title="Metal" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png",Metal shop
+https://daniel.torontocast.com:1675/stream
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/37071dfd917237cbebb18799ad91c042.png",World Music - Country
+https://pub0202.101.ru:8443/stream/pro/aac/64/78
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/c3fd1870fe3132224f6bd4dec16acb85.png",World Music - France
+https://pub0202.101.ru:8443/stream/pro/aac/64/68
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/6c942783490c404bf0f16e949f3ccb4e.png",World Music - Italia
+https://pub0202.101.ru:8443/stream/pro/aac/64/65
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0d7c082d9072cfab752e1213ea8846f1.png",World Music - Reggae
+https://pub0202.101.ru:8443/stream/pro/aac/64/88
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7ca250febeda9098424ee3c460ca6af7.png",World Music - Армения
+https://pub0202.101.ru:8443/stream/pro/aac/64/60
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2694c8546b14dbbd2eddee7a97b8dec7.png",World Music - Архив Варшавского Договора
+https://pub0202.101.ru:8443/stream/trust/mp3/128/177
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/832eca38770d062906338ca3b80cd269.png",World Music - Кавказ Hits
+https://pub0202.101.ru:8443/stream/pro/aac/64/39
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2177bbd671e33a5e65ebbcb16a5eae2f.png",World Music - Музыка Востока
+https://pub0202.101.ru:8443/stream/pro/aac/64/67
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d6c9085ce4612a13e1cbafc0c4a001d0.jpg",World Music - Немецкая Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/324
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/ce14d2e7ce869ed8026b66d62892c9a7.png",World Music - Русское Регги
+https://pub0202.101.ru:8443/stream/pro/aac/64/44
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/8c9b0ec813802fed28019737cd73d265.png",World Music - Татарская Народная Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/262
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/c9b409512f22e46c16ac7a414ac440f1.png",World Music - Татарская Поп-музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/246
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/1acfbddd14fc96b57b688ae77d27faf5.png",World Music - Украина
+https://pub0202.101.ru:8443/stream/pro/aac/64/66
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b3fdc7e010eaafdb689554544ef42554.png",World Music - Французский Шансон
+https://pub0202.101.ru:8443/stream/pro/aac/64/146
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/afb1e368806b846868dc935384cbd65f.png",World Music - Цыганская Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/61
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2ed042fc15b097a4e2d7780bd63fbca6.png",World Music - Японская Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/62
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/e52d0373271b384f4ca0fe9c72709384.jpg",World Music - Японская Традиционная Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/393
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b6470d3d62a395b41c49fdb9aa0c75c0.gif",Авторадио - Italo Disco
+https://pub0202.101.ru:8443/stream/pro/aac/64/291
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/651eb93c682b41c8810be29a48271810.gif",Авторадио - Дискотека 80-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/288
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/3061fa5820ae2fff2757e82ab07bd99b.gif",Авторадио - Дискотека 90-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/290
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/81512e53e385275210a76478c0a75223.gif",Авторадио - Дискотека СССР
+https://pub0202.101.ru:8443/stream/pro/aac/64/292
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/fa0799c47d8623bfaa10d674585816d8.gif",Авторадио - Музыка Авторадио
+https://pub0202.101.ru:8443/stream/pro/aac/64/2
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/design/images/dynamic/default-dynamic.png",Авторадио - Мурзилки Int.
+https://pub0202.101.ru:8443/stream/pro/aac/64/302
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/9c4061906734d29e4c68a96074e48599.png",Детская - Григорий Гладков
+https://pub0202.101.ru:8443/stream/pro/aac/64/94
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7cd6ef5d6d0054c1f809ba5be33a28ae.png",Детская - Детские Песни
+https://pub0202.101.ru:8443/stream/pro/aac/64/93
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2d4fb7234f89db16bf1781c9e9351810.png",Детская - Детские Сказки
+https://pub0202.101.ru:8443/stream/pro/aac/64/222
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/5e24d8c939c787f1827f0f7b2e7daa35.png",Детская - Колыбельная
+https://pub0202.101.ru:8443/stream/pro/aac/64/95
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/19f8a3674cc8f519f0e4b91917be5fe1.png",Джаз / Блюз - Blues
+https://pub0202.101.ru:8443/stream/pro/aac/64/76
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/abf82daba30460b4edaf8cad2d7a8027.png",Джаз / Блюз - Funk & Soul
+https://pub0202.101.ru:8443/stream/pro/aac/64/84
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/ce0e79af697d4ddda29fef6504b481fb.png",Джаз / Блюз - Jazz
+https://pub0202.101.ru:8443/stream/pro/aac/64/85
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/22e97e8c6220a6ca49dcdba429cc083f.png",Джаз / Блюз - Smooth Jazz
+https://pub0202.101.ru:8443/stream/trust/mp3/128/31
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/cf8e4ac6666ec321e54a63fe8f30fee3.png",Джаз / Блюз - Swing
+https://pub0202.101.ru:8443/stream/pro/aac/64/90
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png",Золотая Коллекция - ABBA
+https://pub0202.101.ru:8443/stream/pro/aac/64/104
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d2ac41989c42ac96d5b88acb6fecd1ba.png",Золотая Коллекция - Adriano Celentano
+https://pub0202.101.ru:8443/stream/pro/aac/64/277
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/95da8eeffe07636996748d23fd8f887b.png",Золотая Коллекция - Boney M.
+https://pub0202.101.ru:8443/stream/pro/aac/64/114
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/10a9ec079b837552c8030237208cd676.png",Золотая Коллекция - Deep Purple
+https://pub0202.101.ru:8443/stream/pro/aac/64/125
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7eeb2f4860de4a03bdcf6dc195088df2.png",Золотая Коллекция - Depeche Mode
+https://pub0202.101.ru:8443/stream/pro/aac/64/105
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/e05642a6de556469eeba77c950216d63.png",Золотая Коллекция - Elton John
+https://pub0202.101.ru:8443/stream/pro/aac/64/142
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0724971a11b543c96d94f0f228cbcd51.png",Золотая Коллекция - Elvis Presley
+https://pub0202.101.ru:8443/stream/pro/aac/64/111
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b1bc4d369dd5b1b5d42e577e2b0097fd.png",Золотая Коллекция - Enigma
+https://pub0202.101.ru:8443/stream/pro/aac/64/175
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/28f7a3234bc9644f51456bb4e6a9cee1.jpg",Золотая Коллекция - Ennio Morricone
+https://pub0202.101.ru:8443/stream/pro/aac/64/395
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb7831b59cad0c74d72061d5a51bea41.png",Золотая Коллекция - Linkin Park
+https://pub0202.101.ru:8443/stream/pro/aac/64/149
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/04253cd8538a11f3c3edb1220e491023.png",Золотая Коллекция - Madonna
+https://pub0202.101.ru:8443/stream/pro/aac/64/128
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png",Золотая Коллекция - Metallica
+https://pub0202.101.ru:8443/stream/pro/aac/64/123
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/93306a074917ec60accd66162266477b.png",Золотая Коллекция - Michael Jackson
+https://pub0202.101.ru:8443/stream/pro/aac/64/52
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png",Золотая Коллекция - Modern Talking
+https://pub0202.101.ru:8443/stream/pro/aac/64/115
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4f585601cc148ee8918922ed54b57a02.png",Золотая Коллекция - Mylene Farmer
+https://pub0202.101.ru:8443/stream/pro/aac/64/166
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2eb66d9f61c5fc72eadc4cdc8f5a2bbe.png",Золотая Коллекция - Pink Floyd
+https://pub0202.101.ru:8443/stream/pro/aac/64/53
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/998ff6a12f567aa0f99e5029fdecebb9.png",Золотая Коллекция - Prince
+https://pub0202.101.ru:8443/stream/pro/aac/64/282
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8cc7a970aa1c62ca87d909ed13544504.png",Золотая Коллекция - Queen
+https://pub0202.101.ru:8443/stream/pro/aac/64/54
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d7d84c94ad02c2f6b4479677ade8eee3.png",Золотая Коллекция - Robbie Williams
+https://pub0202.101.ru:8443/stream/pro/aac/64/138
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7c1ba516f86d0595c452495ab6c59367.png",Золотая Коллекция - Sandra
+https://pub0202.101.ru:8443/stream/pro/aac/64/179
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/05d31f3851985ea99d76d89d5126b3d2.png",Золотая Коллекция - Scorpions
+https://pub0202.101.ru:8443/stream/pro/aac/64/113
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fca1ac0c36643566b09c723ebb8bf6fc.png",Золотая Коллекция - The Beatles
+https://pub0202.101.ru:8443/stream/pro/aac/64/55
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f2a6ffa61cf05674f399f7d0efd42929.png",Золотая Коллекция - The Prodigy
+https://pub0202.101.ru:8443/stream/pro/aac/64/306
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c09d01c7f07eff8d5b50fddb30312d42.png",Золотая Коллекция - The Rolling Stones
+https://pub0202.101.ru:8443/stream/pro/aac/64/117
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/035a5754ef3d9c23100befc7a6f46bc7.png",Золотая Коллекция - U2
+https://pub0202.101.ru:8443/stream/pro/aac/64/109
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/f8f551fa21937abee762f45e9e3d37f8.png",Золотая Коллекция - Агата Кристи
+https://pub0202.101.ru:8443/stream/pro/aac/64/139
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/3823528ff034f42ada0a4705b045be08.png",Золотая Коллекция - Александр Розенбаум
+https://pub0202.101.ru:8443/stream/pro/aac/64/153
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/83468a504095cec9a2c72cad108ddd48.png",Золотая Коллекция - Алиса
+https://pub0202.101.ru:8443/stream/pro/aac/64/137
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/81363bb7a6be3735833eba0be7f697b0.png",Золотая Коллекция - Алла Пугачёва
+https://pub0202.101.ru:8443/stream/pro/aac/64/56
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/81bf4af4bc3dc33ca669099436dabc45.png",Золотая Коллекция - Ария
+https://pub0202.101.ru:8443/stream/pro/aac/64/118
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/79ba3c23b148b80b5b437dbb73d36313.png",Золотая Коллекция - БГ & Аквариум
+https://pub0202.101.ru:8443/stream/pro/aac/64/57
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/e41c5d97f25f1f30d1947b9d7022269e.png",Золотая Коллекция - БИ-2
+https://pub0202.101.ru:8443/stream/pro/aac/64/135
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4ed9478532ba8f720059a2fd99505d75.png",Золотая Коллекция - Виктор Цой и группа «КИНО»
+https://pub0202.101.ru:8443/stream/pro/aac/64/103
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/1de362587fe4a94dc02c6a3a95d684e9.png",Золотая Коллекция - Высоцкий
+https://pub0202.101.ru:8443/stream/pro/aac/64/58
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b2699ed5ae1f0b01b5f8c59917cb48ae.png",Золотая Коллекция - ДДТ
+https://pub0202.101.ru:8443/stream/pro/aac/64/112
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0471cf876f89d14558498f0cf6fe1db7.png",Золотая Коллекция - Елена Ваенга
+https://pub0202.101.ru:8443/stream/pro/aac/64/171
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/afd8edb4b9293fed0ffac12a39176336.png",Золотая Коллекция - Каста
+https://pub0202.101.ru:8443/stream/pro/aac/64/121
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d0a7aa8d531fc7f0fe49ba70b4f6400b.png",Золотая Коллекция - Король и Шут
+https://pub0202.101.ru:8443/stream/pro/aac/64/191
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a5bd93661e4b49a72e684c9717b2638d.png",Золотая Коллекция - Ласковый Май
+https://pub0202.101.ru:8443/stream/pro/aac/64/119
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/8c24d5e3331d89bc0e3fe160263910fc.png",Золотая Коллекция - Любэ
+https://pub0202.101.ru:8443/stream/pro/aac/64/158
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/0cb7d0f9635f339837dc086b3521c32f.png",Золотая Коллекция - Машина Времени
+https://pub0202.101.ru:8443/stream/pro/aac/64/59
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/00e016652c56f9861ab3854d9ce9d8b1.png",Золотая Коллекция - Муслим Магомаев
+https://pub0202.101.ru:8443/stream/pro/aac/64/156
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/929368a5d9728f92300c6c52eefadc27.png",Золотая Коллекция - Наутилус Помпилиус
+https://pub0202.101.ru:8443/stream/pro/aac/64/126
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/38cb2d80a23b4ee6f5ea8f4a415246eb.png",Золотая Коллекция - Парк Горького
+https://pub0202.101.ru:8443/stream/pro/aac/64/182
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/03b2c080b5b3af3a239dc81187f136a9.png",Золотая Коллекция - Пикник
+https://pub0202.101.ru:8443/stream/pro/aac/64/157
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f62c0756d33dfa420622050ddeebb342.png",Золотая Коллекция - Руки Вверх!
+https://pub0202.101.ru:8443/stream/pro/aac/64/163
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/33f0f25e8ebf56bd65d0c48a1223db04.png",Золотая Коллекция - Сплин
+https://pub0202.101.ru:8443/stream/pro/aac/64/129
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b960a40624c01457cbdb08f1ce89e425.png",Золотая Коллекция - Стас Михайлов
+https://pub0202.101.ru:8443/stream/pro/aac/64/154
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/791c050c21ee2cb5f33797d88fad66a9.png",Золотая Коллекция - Филипп Киркоров
+https://pub0202.101.ru:8443/stream/pro/aac/64/116
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/529f449f0fd5552600b56a02447a5c78.png",Золотая Коллекция - Чайф
+https://pub0202.101.ru:8443/stream/pro/aac/64/106
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fdc1f9a8e0e3643412d8c3aec855cda5.png",Золотая Коллекция - Чиж & Co
+https://pub0202.101.ru:8443/stream/pro/aac/64/221
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fb52f0289633629779aa59018506436f.jpg",Каналы Relax FM - Relax Gold
+https://pub0202.101.ru:8443/stream/trust/mp3/128/266
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a60cc57e43ce2c5e09b42dc5094ad849.jpg",Каналы Relax FM - Relax Jazz
+https://pub0202.101.ru:8443/stream/trust/mp3/128/264
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/1ed4872abc7c3250d7e40b9595b7a90c.jpg",Каналы Relax FM - Relax Latino
+https://pub0202.101.ru:8443/stream/trust/mp3/128/265
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/5ae02ff3d98d0b3b5ec4b09f45a0ae90.jpg",Каналы Relax FM - Relax Life
+https://pub0202.101.ru:8443/stream/trust/mp3/128/267
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/d590ba1b92a5b397b31761124fa04999.jpg",Каналы Relax FM - Relax Nature
+https://pub0202.101.ru:8443/stream/trust/mp3/128/263
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/dd29a927a2bccf84e25fe121076a5e74.png",Каналы Relax FM - Relax-Christmas
+https://pub0202.101.ru:8443/stream/trust/mp3/128/258
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b24a6c3ba8aa647d627f161dec00d9c2.jpg",Каналы Детского Радио - Кавер Дети
+https://pub0202.101.ru:8443/stream/pro/aac/64/396
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/50b016f1229bc66e12769c54590c3b58.jpg",Каналы Детского Радио - Кавер Дети
+https://pub0202.101.ru:8443/stream/pro/aac/64/401
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f447c5664ccf27191cec4be7321d122f.png",Каналы Детского Радио - Киномульт
+https://pub0202.101.ru:8443/stream/pro/aac/64/326
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7e0671aae5f31ef2446391ba97cfbb07.png",Каналы Детского Радио - Музыка Детского
+https://pub0202.101.ru:8443/stream/pro/aac/64/332
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/06ea17c5cc5aef6b26ef1140bc9bc697.png",Каналы Детского Радио - Музыка для малышей
+https://pub0202.101.ru:8443/stream/pro/aac/64/327
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/f5b44c341bd4b5ca1bbeeab353f354ed.png",Каналы Детского Радио - Музыка для сна
+https://pub0202.101.ru:8443/stream/pro/aac/64/328
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/7310be4ecfeca946edba2f3d8555f304.png",Каналы Детского Радио - От 12 и старше
+https://pub0202.101.ru:8443/stream/pro/aac/64/404
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/4f68278f607653563891809f56013801.png",Каналы Детского Радио - От 12 и старше
+https://pub0202.101.ru:8443/stream/pro/aac/64/329
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/180a1813cefa41b194289b81c15139b3.png",Каналы Детского Радио - Рок Дети
+https://pub0202.101.ru:8443/stream/pro/aac/64/330
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/488928b5baead5773c1e253a2ac46187.png",Каналы Детского Радио - Рок Дети
+https://pub0202.101.ru:8443/stream/pro/aac/64/403
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/39b1389fbc4fbc31210aef2cc6f0853b.png",Каналы Детского Радио - Танцевальная музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/400
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/99b6aeb0a3069956eedf823674a39784.png",Каналы Детского Радио - Танцевальная музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/331
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/0fd7d202580d0b9e78a2d97bdb67a55b.jpg",Каналы Детского Радио - Улётное лето
+https://pub0202.101.ru:8443/stream/pro/aac/64/394
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/163a82c61bb0fd194e370001c803c081.jpg",Каналы Детского Радио - Хиты Детского радио
+https://pub0202.101.ru:8443/stream/pro/aac/64/402
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/23ed96b2478f62442e0b59b566216c65.jpg",Каналы Детского Радио - Хиты Детского радио
+https://pub0202.101.ru:8443/stream/pro/aac/64/397
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a8c52167c8b0e65ed2c417f1834e9066.png",Классика - NeoClassical
+https://pub0202.101.ru:8443/stream/pro/aac/64/275
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/15d65ab2eeb995c0c7ae49e98cf7f5b8.png",Классика - Pop Classical Music
+https://pub0202.101.ru:8443/stream/pro/aac/64/97
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png",Классика - Классическая Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/98
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/4e4a82116fe1707141073465dc2b5179.png",Классика - Опера
+https://pub0202.101.ru:8443/stream/pro/aac/64/96
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/828a1baf8c6eebfdedcc8ae088c937af.png",Поп - 101 Fresh
+https://pub0202.101.ru:8443/stream/pro/aac/64/148
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f6c26ec105132669689e49eb67985f6b.png",Поп - 90's Gold
+https://pub0202.101.ru:8443/stream/pro/aac/64/75
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/adee9b44c05684c76a6e03560bf431d9.png",Поп - 90's Pop
+https://pub0202.101.ru:8443/stream/pro/aac/64/130
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d9b9da1d46db2bf2dae11eee53194a9f.png",Поп - Cats & Dogs
+https://pub0202.101.ru:8443/stream/pro/aac/64/281
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/ea771afd4094870fefaa517ee34c0cee.png",Поп - Golden 70's
+https://pub0202.101.ru:8443/stream/pro/aac/64/192
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/1992f344bc392c8b93fd0d3988a8f541.png",Поп - Happy Hours
+https://pub0202.101.ru:8443/stream/pro/aac/64/273
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/6329e2a1bb52e189b6863483a0d0e4f2.png",Поп - K-Pop
+https://pub0202.101.ru:8443/stream/pro/aac/64/323
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/b5d991651a4e0950ec3fe7cb02f7334f.png",Поп - Live Hits
+https://pub0202.101.ru:8443/stream/pro/aac/64/86
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/4ab14ae42c32b809e7a0e509099a0af9.png",Поп - Love Songs
+https://pub0202.101.ru:8443/stream/pro/aac/64/29
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/47e12ab12e1c661bf8bd810075c6b5a0.png",Поп - Mainstream
+https://pub0202.101.ru:8443/stream/pro/aac/64/87
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/41689200bb00c7d71738f77c1956d5cd.png",Поп - Radio 101 Classics
+https://pub0202.101.ru:8443/stream/pro/aac/64/283
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/dd9a698e7c8fc949827590a8e504de14.jpg",Поп - В тренде
+https://pub0202.101.ru:8443/stream/pro/aac/64/390
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/f885b2a999deef442a59dbc019af5716.png",Поп - Голос
+https://pub0202.101.ru:8443/stream/pro/aac/64/198
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/88f304e0c406f76d0ccce5b6ee8a8b63.png",Поп - Голос Дети
+https://pub0202.101.ru:8443/stream/pro/aac/64/287
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/4b5f76f198d32f9c22f1bd97680e8954.png",Поп - День знаний
+https://pub0202.101.ru:8443/stream/pro/aac/64/309
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/d9853bfef59376ca66bd32d7dc0cc3da.png",Поп - Евровидение
+https://pub0202.101.ru:8443/stream/pro/aac/64/147
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f7a04fe489d161c4497179a966bc2f92.jpg",Поп - Музыка из сериалов
+https://pub0202.101.ru:8443/stream/pro/aac/64/308
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/2591fb8ec757ee043cc06dea759a62a5.png",Поп - Музыка Летних Фестивалей
+https://pub0202.101.ru:8443/stream/pro/aac/64/285
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/65670ce41cc229eec3c4f716eaa47c30.png",Поп - Мюзиклы
+https://pub0202.101.ru:8443/stream/pro/aac/64/92
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/08af522335d8c09302f16274ac9655a8.png",Поп - На хайпе
+https://pub0202.101.ru:8443/stream/pro/aac/64/286
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/cf39987b4096b164f2781df6ea45b8db.png",Поп - Попса 101
+https://pub0202.101.ru:8443/stream/pro/aac/64/155
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/926b1c0d73f913e363838a364aa6a5b2.png",Поп - Прикосновение
+https://pub0202.101.ru:8443/stream/pro/aac/64/196
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/17fb1439a83af064d7a5db4c0a43722f.png",Поп - Россия Топ 50
+https://pub0202.101.ru:8443/stream/pro/aac/64/34
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/6e04fc32b539405194103a2df9829590.png",Поп - Фабрика Звезд
+https://pub0202.101.ru:8443/stream/pro/aac/64/48
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/188d6b22e9e60d316c59ae4fbe9d7f52.jpg",Радио - Comedy Radio
+https://pub0201.101.ru/stream/air/aac/64/202
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0bc9c6eb4fcc2faba4fede1951d93ca8.jpg",Радио - Crocus City Hall
+https://pub0202.101.ru:8443/stream/trust/mp3/128/213
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7d197a7705c13f1d01e6e4887ea676ba.jpg",Радио - Like FM
+https://pub0202.101.ru:8443/stream/air/aac/64/219
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7a89392c7697677e618424fb235e07c1.jpg",Радио - Детское Радио
+https://pub0201.101.ru/stream/air/aac/64/199
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/5064f0f55451d64fd853af5c27d3079b.jpg",Радио - Комсомольская Правда
+https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/34644589c17a098e6b75edf8b2aed95c.jpg",Радио - Маруся ФМ
+https://pub0201.101.ru/stream/pull/aac/64/301
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/443b3fa9170ff5d167144849965aa90f.jpg",Радио - Радио ENERGY
+https://pub0201.101.ru/stream/air/aac/64/99
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/9798eb19b46f8cea0abb39e6bb32f9c6.jpg",Радио - Радио Romantika
+https://pub0201.101.ru/stream/air/aac/64/101
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/973df9e63668888d973bdd4b507f4141.jpg",Радио - Радио ВЕРА
+https://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/03bd078084772d59a68fd913f44e50dd.jpg",Радио - Радио Зенит
+https://pub0201.101.ru/stream/air/mp3/256/269
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e9e5439ab49d0bd802fb63d89613664b.jpg",Радио - Радио Родных Дорог
+https://stream1.radiord.ru:8000/live96.aac
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c92a02f1b8d7197cef5f8894d024a06e.jpg",Радио - Радиола
+https://radiola.hostingradio.ru/radiola_eka_128.mp3
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/17de8bd3457e33a0c87c8dadef654f93.jpg",Радио - ТНТ Music Radio
+https://tntradio.hostingradio.ru:8027/tntradio128.mp3
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/6498369ba2a6cb33f280b2d418446a2e.jpg",Радио - Юмор FM
+https://pub0302.101.ru:8443/stream/air/aac/64/102
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/f374ced57f4f0e9a1dc136063e26473b.png",Радио по настроению - Агрессивное
+https://pub0202.101.ru:8443/stream/pro/aac/64/388
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c70c99fae946453d996fbef696dd8a9a.png",Радио по настроению - Бодрое
+https://pub0202.101.ru:8443/stream/pro/aac/64/387
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c50ec42cf1af3283c210130aa3897839.png",Радио по настроению - Веселое
+https://pub0202.101.ru:8443/stream/pro/aac/64/389
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/ccd1fab5d841da3cfce94fdcbf859a8f.png",Радио по настроению - Весеннее
+https://pub0202.101.ru:8443/stream/pro/aac/64/382
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/0aee06b618c6d2e7765cfbd9b2625738.png",Радио по настроению - Возвышенное
+https://pub0202.101.ru:8443/stream/pro/aac/64/374
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/f32b0e7ed8fb4ebf782769e1237b6b50.png",Радио по настроению - Грустное
+https://pub0202.101.ru:8443/stream/pro/aac/64/354
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/0cf6926bc31092e2abeca4c7af07a2c7.png",Радио по настроению - Дождь на улице
+https://pub0202.101.ru:8443/stream/pro/aac/64/377
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/6be2613bb9a4be37c06868ee6f8be1f0.png",Радио по настроению - Красивое
+https://pub0202.101.ru:8443/stream/pro/aac/64/356
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2c030b59d9389ca7794c61a2eaa3115d.png",Радио по настроению - Летнее
+https://pub0202.101.ru:8443/stream/pro/aac/64/381
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/3fb1fdba66ee5d0f762646efb94dcc15.png",Радио по настроению - Медитативное
+https://pub0202.101.ru:8443/stream/pro/aac/64/357
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/59374ac2cfdfa1ac349023e5444e9be6.png",Радио по настроению - Меланхоличное
+https://pub0202.101.ru:8443/stream/pro/aac/64/376
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/9d9a10c80aef313af41d91a53b28faaa.png",Радио по настроению - Мечтательное
+https://pub0202.101.ru:8443/stream/pro/aac/64/352
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/3d87c89757266312c6b7911528a95387.png",Радио по настроению - Мистическое
+https://pub0202.101.ru:8443/stream/pro/aac/64/363
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/21ce761f047a66dd146c39736676fcbf.png",Радио по настроению - Новогоднее
+https://pub0202.101.ru:8443/stream/pro/aac/64/384
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/1349f70fba3e03809ae7f648e44fd2f1.png",Радио по настроению - Ностальгическое
+https://pub0202.101.ru:8443/stream/pro/aac/64/386
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a88f2be6c111b5f1a92f604593cf76ae.png",Радио по настроению - Осеннее
+https://pub0202.101.ru:8443/stream/pro/aac/64/385
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/56bb54d0c96d52a45e6bf421a1a9e5f9.png",Радио по настроению - Позитивное
+https://pub0202.101.ru:8443/stream/pro/aac/64/353
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0ffd05ccefdfe66beb8b72935c6c8f81.png",Радио по настроению - Сонное
+https://pub0202.101.ru:8443/stream/pro/aac/64/391
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/6339cef0986c8d082b6242bde78e2b94.png",Радио по настроению - Спокойное
+https://pub0202.101.ru:8443/stream/pro/aac/64/362
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/26cbf9abf367ef15e673cc790adabb72.png",Радио по настроению - Счастливое
+https://pub0202.101.ru:8443/stream/pro/aac/64/351
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/5121ce82a016c3e5d1b888674361335a.png",Радио по настроению - Эпичное
+https://pub0202.101.ru:8443/stream/pro/aac/64/355
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/c0ef77ce74b3e15f01bc56bb4cb4601f.png",Ретро - New York
+https://pub0202.101.ru:8443/stream/pro/aac/64/64
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/1bd49a744a20379857d4088e73ec1982.png",Ретро - ВИА
+https://pub0202.101.ru:8443/stream/pro/aac/64/36
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d4952e5e271b9528d74d9bed59764ef7.png",Ретро - Польское Ретро Plus
+https://pub0202.101.ru:8443/stream/pro/aac/64/165
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a9a806612d5c8fd5ac8c4df1405f9fc1.png",Ретро - СССР 30-50
+https://pub0202.101.ru:8443/stream/pro/aac/64/46
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a08b87621ca530dfeeeeb62ab230b6c2.png",Ретро - СССР 50-70
+https://pub0202.101.ru:8443/stream/pro/aac/64/47
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/7ac1f0ce6694d7b2beb1aa4dd8ec26fe.png",Рок - Alternative
+https://pub0202.101.ru:8443/stream/pro/aac/64/176
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/53680ac8fc56fa8cdec3a5c3f856b258.png",Рок - BritPop
+https://pub0202.101.ru:8443/stream/pro/aac/64/206
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e7f379334e501daee598696890201df8.png",Рок - Indie
+https://pub0202.101.ru:8443/stream/pro/aac/64/152
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/0cba709189c210243e82335802c61e2a.png",Рок - Instrumental Rock
+https://pub0202.101.ru:8443/stream/pro/aac/64/183
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e8a764df08d47d162a1f38aee018983b.jpg",Рок - K-Rock
+https://pub0202.101.ru:8443/stream/pro/aac/64/334
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/cbaa20f3e905657b4c8fb3f42e460492.png",Рок - Metal
+https://pub0202.101.ru:8443/stream/pro/aac/64/211
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/77fa3cc66f2e573db87c03a54dfdf44e.png",Рок - Modern Rock
+https://pub0202.101.ru:8443/stream/pro/aac/64/16
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e476f161efbdf036ab224ce63b2eb745.png",Рок - Rock
+https://pub0302.101.ru:8443/stream/trust/mp3/128/69
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/eaa1bc44116da486c3c1e10f7553e45c.png",Рок - Rock Guitar
+https://pub0202.101.ru:8443/stream/pro/aac/64/70
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b3e13802d41554150bb6a4678198bf4e.png",Рок - Rock Hits
+https://pub0202.101.ru:8443/stream/pro/aac/64/160
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/4fa28a48040c54a4f7b986de42aa9d1c.png",Рок - Rock Remakes
+https://pub0202.101.ru:8443/stream/pro/aac/64/71
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/31a80f599e459d04b346cf968c1e0fc0.png",Рок - Rock'n'Roll
+https://pub0202.101.ru:8443/stream/pro/aac/64/89
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/a913828c23773ac77e572836ab2ee737.png",Рок - Route 101
+https://pub0202.101.ru:8443/stream/pro/aac/64/185
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/599a8e0c1e9ad3d72a14e3f01b185783.png",Рок - Thrash
+https://pub0202.101.ru:8443/stream/pro/aac/64/73
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2f64ea58fd6213393cf0cd57e1efca83.png",Рок - Музыка для паба и бара
+https://pub0202.101.ru:8443/stream/pro/aac/64/321
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/3523de0520a70267c0ec82964939876a.png",Рок - Музыка футбола
+https://pub0202.101.ru:8443/stream/pro/aac/64/280
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/100830f195030d466aad25075ab5031a.png",Рок - Наш Метал
+https://pub0202.101.ru:8443/stream/pro/aac/64/257
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/f9158971b84c3217a145f0302f2b4f0d.png",Рок - Русский Рок
+https://pub0202.101.ru:8443/stream/trust/mp3/128/42
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/2bb7fa992b1be94c4f43fb336113f376.jpg",Русская - 23 Февраля
+https://pub0202.101.ru:8443/stream/pro/aac/64/333
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7886e45ac3459eafe40518bf1ac99bd0.png",Русская - Авторская Песня
+https://pub0202.101.ru:8443/stream/pro/aac/64/35
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/5f71d37873bd68c27a1876150dce2408.png",Русская - Армейские песни
+https://pub0202.101.ru:8443/stream/pro/aac/64/37
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/0bb0bb1a7459e453f29d5305b4c23c4d.png",Русская - День Победы
+https://pub0202.101.ru:8443/stream/pro/aac/64/178
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/daf45299a26a41b1784e5125f361aaa3.png",Русская - Кабаре «Шансон»
+https://pub0202.101.ru:8443/stream/pro/aac/64/49
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e2cc3fc136f494f9630d90bb9ef5c6db.png",Русская - Русские Песни
+https://pub0202.101.ru:8443/stream/pro/aac/64/41
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/dad07925376caffd04c4be6900cea44c.png",Русская - Шансон
+https://pub0202.101.ru:8443/stream/pro/aac/64/50
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/5c0e67428719d75f54858262af6d39e6.png",Рэп / Хип-Хоп - Gangsta & Hip-Hop
+https://pub0202.101.ru:8443/stream/pro/aac/64/8
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/d575931a5aeceb23b39b85298ec7f93e.png",Рэп / Хип-Хоп - Jazz Rap
+https://pub0202.101.ru:8443/stream/pro/aac/64/278
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/design/images/dynamic/default-dynamic.png",Рэп / Хип-Хоп - Lo-fi Hip-Hop
+https://pub0202.101.ru:8443/stream/pro/aac/64/358
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/9c337f0206bbfdee8b7f7b33daab9d92.png",Рэп / Хип-Хоп - R'n'B
+https://pub0202.101.ru:8443/stream/pro/aac/64/15
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/1bff0bcb996a8da51a9db02d4917440e.png",Рэп / Хип-Хоп - Русский Рэп
+https://pub0202.101.ru:8443/stream/pro/aac/64/43
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/1520e0208ac587e685e40edb7dbc5fa2.png",Рэп / Хип-Хоп - Французский Рэп
+https://pub0202.101.ru:8443/stream/pro/aac/64/240
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2e583d92d508fee1d28ab226fe5223e1.png",Танцевальная - Big Room
+https://pub0202.101.ru:8443/stream/trust/mp3/128/220
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/847ba8621d4a3ac18d78a9ff497638f3.png",Танцевальная - Club Dance
+https://pub0302.101.ru:8443/stream/trust/mp3/128/5
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/2e7147952763ca0b6ca083554f5cec77.png",Танцевальная - Disco
+https://pub0202.101.ru:8443/stream/pro/aac/64/80
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/7e39a63e0aabf8191e049d07674ddfe4.png",Танцевальная - Electro
+https://pub0202.101.ru:8443/stream/trust/mp3/128/7
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/82c52129b63ffc4ce28d2761a015e7fe.png",Танцевальная - Euro Hits
+https://pub0202.101.ru:8443/stream/pro/aac/64/82
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0d4e855a2d1367056d2a06636da76ec4.png",Танцевальная - Hot Traxx
+https://pub0202.101.ru:8443/stream/pro/aac/64/9
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/5bf41c944a89f01e84187b1a7d862c71.png",Танцевальная - House
+https://pub0302.101.ru:8443/stream/trust/mp3/128/10
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/fbf6af9828c3b0127c641ac72276fed8.png",Танцевальная - Italo Disco
+https://pub0202.101.ru:8443/stream/pro/aac/64/161
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/5ef5ef8eff970cccfe92a56e3004585d.png",Танцевальная - Latina
+https://pub0302.101.ru:8443/stream/trust/mp3/128/63
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/d53bf92daf4b157261ea1bee38fe1a5e.jpg",Танцевальная - Moombahton & Reggaeton
+https://pub0202.101.ru:8443/stream/pro/aac/64/407
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b331728b621d345fccf327286378bce4.png",Танцевальная - Progressive
+https://pub0302.101.ru:8443/stream/trust/mp3/128/13
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/abea4e8f0fe44e141886cc7319309c71.png",Танцевальная - Radio First
+https://pub0201.101.ru/stream/trust/mp3/128/242
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/75b6d43448a6712ddb18c9e948e4824f.png",Танцевальная - Russian Dance
+https://pub0302.101.ru:8443/stream/trust/mp3/128/17
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/b7848a4129631dc66242011a8ce8114c.png",Танцевальная - Zumba
+https://pub0201.101.ru/stream/trust/mp3/128/259
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/6232bb3f6e045f9a82277323db7777c5.png",Танцевальная - Дискотека 80-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/1
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/44e1880b5899c865fea4f41798297c91.png",Танцевальная - Дискотека 90-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/74
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c34932ae363a2b1386c0136d403a2274.png",Танцевальная - Дискотека СССР
+https://pub0202.101.ru:8443/stream/pro/aac/64/144
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/4893fa285d47a206bf128596c9534907.png",Танцевальная - Лето Non-Stop
+https://pub0201.101.ru/stream/trust/mp3/128/150
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/6d13a565586f16be5b12b4bf477c700a.png",Танцевальная - Россия 90-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/33
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/bfe4173d832c358520e45c018f9b2ffa.png",Фоновая - Ambient
+https://pub0202.101.ru:8443/stream/pro/aac/64/23
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/4cf87ddc40cfac9e4452601119e14019.jpg",Фоновая - Bossa Nova
+https://pub0202.101.ru:8443/stream/pro/aac/64/372
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/9c950d4c8cc56ac8ab8535d22eced788.png",Фоновая - Chillоut
+https://pub0201.101.ru/stream/trust/mp3/128/24
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/18e59e661597a41b54918781ff5f292e.png",Фоновая - Deep House
+https://pub0201.101.ru/stream/trust/mp3/128/173
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/ad72628a946f276f329036edb0085c46.png",Фоновая - Easy Listening
+https://pub0202.101.ru:8443/stream/pro/aac/64/26
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/b861e0479455dff1437a85c157242a74.png",Фоновая - Instrumental
+https://pub0202.101.ru:8443/stream/pro/aac/64/28
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/e4202785da58548650c02d12e733a1a1.png",Фоновая - New Age
+https://pub0202.101.ru:8443/stream/pro/aac/64/120
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/62e6887504f18187d9fa3054b637357e.png",Фоновая - Office Lounge
+https://pub0202.101.ru:8443/stream/pro/aac/64/30
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/21efbbb7d27f00072c8d37cfa63a8b2e.jpg",Фоновая - Piano Covers
+https://pub0202.101.ru:8443/stream/pro/aac/64/375
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/8bd48612cedfb91168422050e9186a27.png",Фоновая - Sex
+https://pub0202.101.ru:8443/stream/pro/aac/64/27
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a94f59034ccd7a1bec0b5d6c92bd19ce.png",Фоновая - Soulful House
+https://pub0201.101.ru/stream/trust/mp3/128/184
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c187a3b95eeb2c3a7ed09466bcbbcda8.jpg",Фоновая - Tropical House
+https://pub0202.101.ru:8443/stream/pro/aac/64/364
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/2227701bbeabfc92606221146917393a.png",Фоновая - Акустика
+https://pub0201.101.ru/stream/trust/mp3/128/164
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/fa98e1f5997a82706c08060255ad97ad.png",Фоновая - Звуки Природы
+https://pub0202.101.ru:8443/stream/pro/aac/64/32
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f60d9a5d15d99d7f3be9ff87b3244710.jpg",Фоновая - Песни о любви
+https://pub0202.101.ru:8443/stream/pro/aac/64/325
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/7e8dc7a54c3c24000b67c212a27cd141.png",Фоновая - Саундтреки
+https://pub0202.101.ru:8443/stream/pro/aac/64/25
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/96f91b027020fc8e396a1f4f8e6b19e9.png",Фоновая - Тантра
+https://pub0202.101.ru:8443/stream/pro/aac/64/241
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/f631d3d5f33bf346b162f2bbddb86b82.png",Электроника - Breakbeat
+https://pub0202.101.ru:8443/stream/pro/aac/64/4
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/e38247100d0946d2e980644829565b7b.png",Электроника - Chillstep
+https://pub0202.101.ru:8443/stream/pro/aac/64/260
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/17a6aecf4a46b1576ab968294c502820.png",Электроника - Cyber Space
+https://pub0202.101.ru:8443/stream/pro/aac/64/79
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/556e5347edac86cff51347fa58d21cb8.png",Электроника - Drum & Bass
+https://pub0202.101.ru:8443/stream/pro/aac/64/6
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/41719dffbc98e37985fe1acfb956ba84.png",Электроника - DubStep
+https://pub0202.101.ru:8443/stream/pro/aac/64/136
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8ca059e06a46a5d92237f6d94169c6ac.png",Электроника - Electronic
+https://pub0202.101.ru:8443/stream/pro/aac/64/132
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/c39b2068da8faa64562f54039242eaf1.png",Электроника - Liquid Funk
+https://pub0202.101.ru:8443/stream/pro/aac/64/272
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/ab4b7af32528897500752795348a9aa7.png",Электроника - Rave
+https://pub0202.101.ru:8443/stream/pro/aac/64/151
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8ab26a6647cd32792886be998822ff59.jpg",Электроника - Synthwave
+https://pub0202.101.ru:8443/stream/pro/aac/64/350
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/2dcf253a72cb525a0d8a142174162731.png",Электроника - Tech House
+https://pub0201.101.ru/stream/trust/mp3/128/170
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/0ac386f34f96d6e64133fa02ef012669.png",Электроника - Techno
+https://pub0202.101.ru:8443/stream/trust/mp3/128/18
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/b4d83686c2220936ece7e3f46309530f.png",Электроника - Trance
+https://pub0201.101.ru/stream/trust/mp3/128/19
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/3d1f076f260ce0e87174006077c3fb31.png",Электроника - Trap
+https://pub0202.101.ru:8443/stream/pro/aac/64/193
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/57ca8ec5f525e59b5f65772c91453342.png",Этническая - Духовная Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/38
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/1e3c88d05152cfe60cdd43f3880f4b8b.png",Этническая - Русские Народные
+https://pub0202.101.ru:8443/stream/pro/aac/64/40
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/86ba99d84b49c5eb824abe347da8d080.png",Этническая - Этника
+https://pub0202.101.ru:8443/stream/pro/aac/64/51
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/46f58ba68445ef89af8352949a40d18c.png",Юмор - Анекдоты
+https://pub0202.101.ru:8443/stream/trust/mp3/128/20
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn0.101.ru/vardata/modules/channel/image/88e375b01a379e011c57c80788d32fc0.png",Юмор - Классика Жанра
+https://pub0202.101.ru:8443/stream/trust/mp3/128/21
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/36bce59115f0c243c40820eb17305d0d.png",Юмор - Мурзилки Int.
+https://pub0202.101.ru:8443/stream/pro/aac/64/3
+#EXTINF:-1 group-title="101.ru" tvg-logo="https://cdn1.101.ru/vardata/modules/channel/image/c45bf7698dea64d8e3cf525f9d964816.png",Юмор - Юмор Non-Stop
+https://pub0202.101.ru:8443/stream/trust/mp3/128/22
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",24/7
+https://myradio24.org/68047
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Радио АТМОСФЕРА
+https://listen5.myradio24.com/atmo
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",RADIOPOWER
+https://myradio24.org/listen128
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Dushevnoe radio
+https://listen1.myradio24.com/171028
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Радио МИР Благовещенск 106.3FM
+https://myradio24.org/6509
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Soundeo FM
+https://listen7.myradio24.com/93299
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Baby Sleep White Noise
+https://live.radiospinner.com/bbyslpwhtns-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Gay Dance
+https://live.radiospinner.com/gaydnc-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Taxi Hit
+https://live.radiospinner.com/txht-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Звуки дождя
+https://live.radiospinner.com/rain-and-calm-96
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Tiesto
+https://hls-01-radiorecord.hostingradio.ru/record-tiesto/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",David Guetta
+https://hls-01-radiorecord.hostingradio.ru/record-guetta/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Armin van Buuren
+https://hls-01-radiorecord.hostingradio.ru/record-armin/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Radio Record
+https://hls-01-radiorecord.hostingradio.ru/record-ps/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Party 24/7
+https://hls-01-radiorecord.hostingradio.ru/record-party/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Rock
+https://hls-01-radiorecord.hostingradio.ru/record-rock/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",60-Dance
+https://hls-01-radiorecord.hostingradio.ru/record-cadillac/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",70-Dance
+https://hls-01-radiorecord.hostingradio.ru/record-1970/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Record 80х
+https://hls-01-radiorecord.hostingradio.ru/record-1980/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Organic
+https://hls-01-radiorecord.hostingradio.ru/record-organic/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",CHILL HOUSE
+https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Lo-Fi
+https://hls-01-radiorecord.hostingradio.ru/record-lofi/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Dream Pop
+https://hls-01-radiorecord.hostingradio.ru/record-dreampop/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Ambient
+https://hls-01-radiorecord.hostingradio.ru/record-ambient/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Innocence
+https://hls-01-radiorecord.hostingradio.ru/record-ibiza/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Deep
+https://hls-01-radiorecord.hostingradio.ru/record-deep/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Tech House
+https://hls-01-radiorecord.hostingradio.ru/record-techouse/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Russian mix
+https://hls-01-radiorecord.hostingradio.ru/record-rus/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Chill-Out
+https://hls-01-radiorecord.hostingradio.ru/record-chil/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Маятник Фуко
+https://hls-01-radiorecord.hostingradio.ru/record-mf/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Black Rap
+https://hls-01-radiorecord.hostingradio.ru/record-yo/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Trancemission
+https://hls-01-radiorecord.hostingradio.ru/record-tm/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Megamix
+https://hls-01-radiorecord.hostingradio.ru/record-mix/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Big Hits
+https://hls-01-radiorecord.hostingradio.ru/record-bighits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Remix
+https://hls-01-radiorecord.hostingradio.ru/record-gold/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Russian Hits
+https://hls-01-radiorecord.hostingradio.ru/record-russianhits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",SuperDiskoteka90
+https://hls-01-radiorecord.hostingradio.ru/record-sd90/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Russian Gold
+https://hls-01-radiorecord.hostingradio.ru/record-russiangold/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Bass House
+https://hls-01-radiorecord.hostingradio.ru/record-jackin/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Vip House
+https://hls-01-radiorecord.hostingradio.ru/record-vip/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Trance Classics
+https://hls-01-radiorecord.hostingradio.ru/record-trancehits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",House Hits
+https://hls-01-radiorecord.hostingradio.ru/record-househits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",EDM
+https://hls-01-radiorecord.hostingradio.ru/record-club/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Minimal Tech
+https://hls-01-radiorecord.hostingradio.ru/record-mini/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Tropical
+https://hls-01-radiorecord.hostingradio.ru/record-trop/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",House Classics
+https://hls-01-radiorecord.hostingradio.ru/record-houseclss/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",DnB Classics
+https://hls-01-radiorecord.hostingradio.ru/record-drumhits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",EDM Classics
+https://hls-01-radiorecord.hostingradio.ru/record-edmhits/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Future House
+https://hls-01-radiorecord.hostingradio.ru/record-fut/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Trap
+https://hls-01-radiorecord.hostingradio.ru/record-trap/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Rap Classics
+https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Progressive
+https://hls-01-radiorecord.hostingradio.ru/record-progr/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Breaks
+https://hls-01-radiorecord.hostingradio.ru/record-brks/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Trancehouse
+https://hls-01-radiorecord.hostingradio.ru/record-trancehouse/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Rap Hits
+https://hls-01-radiorecord.hostingradio.ru/record-rap/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",GOA/PSY
+https://hls-01-radiorecord.hostingradio.ru/record-goa/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Dream Dance
+https://hls-01-radiorecord.hostingradio.ru/record-dream/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Uplifting
+https://hls-01-radiorecord.hostingradio.ru/record-uplift/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Electro
+https://hls-01-radiorecord.hostingradio.ru/record-elect/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Future Bass
+https://hls-01-radiorecord.hostingradio.ru/record-fbass/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Neurofunk
+https://hls-01-radiorecord.hostingradio.ru/record-neurofunk/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Dancecore
+https://hls-01-radiorecord.hostingradio.ru/record-dc/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Liquid Funk
+https://hls-01-radiorecord.hostingradio.ru/record-liquidfunk/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Eurodance
+https://hls-01-radiorecord.hostingradio.ru/record-eurodance/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Dubstep
+https://hls-01-radiorecord.hostingradio.ru/record-dub/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Technopop
+https://hls-01-radiorecord.hostingradio.ru/record-technopop/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Techno
+https://hls-01-radiorecord.hostingradio.ru/record-techno/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Hardstyle
+https://hls-01-radiorecord.hostingradio.ru/record-teo/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Tecktonik
+https://hls-01-radiorecord.hostingradio.ru/record-tecktonik/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Midtempo
+https://hls-01-radiorecord.hostingradio.ru/record-mt/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Synthwave
+https://hls-01-radiorecord.hostingradio.ru/record-synth/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Old School
+https://hls-01-radiorecord.hostingradio.ru/record-pump/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Hard Bass
+https://hls-01-radiorecord.hostingradio.ru/record-hbass/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Darkside
+https://hls-01-radiorecord.hostingradio.ru/record-darkside/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Hypnotic
+https://hls-01-radiorecord.hostingradio.ru/record-hypno/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Moombahton
+https://hls-01-radiorecord.hostingradio.ru/record-mmbt/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",2-step
+https://hls-01-radiorecord.hostingradio.ru/record-2step/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Groove/Tribal
+https://hls-01-radiorecord.hostingradio.ru/record-groovetribal/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Christmas
+https://hls-01-radiorecord.hostingradio.ru/record-christmas/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Rave FM
+https://hls-01-radiorecord.hostingradio.ru/record-rave/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Jungle
+https://hls-01-radiorecord.hostingradio.ru/record-jungle/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Complextro
+https://hls-01-radiorecord.hostingradio.ru/record-complextro/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",ГОП FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Руки Вверх!
+https://hls-01-radiorecord.hostingradio.ru/record-rv/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Веснушка FM
+https://hls-01-radiorecord.hostingradio.ru/record-deti/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Медляк FM
+https://hls-01-radiorecord.hostingradio.ru/record-mdl/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Нафталин FM
+https://hls-01-radiorecord.hostingradio.ru/record-naft/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Гастрабайтер FM
+https://hls-01-radiorecord.hostingradio.ru/record-gast/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Симфония FM
+https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
+#EXTINF:-1 group-title="1 FM" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Fashion TV Radio
+http://strm112.1.fm/ftv_mobile_mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rock
+http://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",РуРок
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Folk-Rock
+https://zaycevfm.cdnvideo.ru/ZaycevFM_folk_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Disco
+http://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Club
+http://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",K-Pop
+http://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Pop
+http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Relax
+http://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",R'n'B
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rus
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Шансон
+http://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Метал
+https://zaycevfm.cdnvideo.ru/ZaycevFM_metal_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",New Rock
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rock_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайчата
+https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rap
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Новый Год
+https://zaycevfm.cdnvideo.ru/ZaycevFM_newyear_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Bass
+https://zaycevfm.cdnvideo.ru/ZaycevFM_bass_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Love
+https://zaycevfm.cdnvideo.ru/ZaycevFM_holiday_256.mp3
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Classic
+https://zaycevfm.cdnvideo.ru/ZaycevFM_classic_256.mp3
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4626d19.jpg",1 FM
+https://str6.pcradio.ru/moya_udmurt-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62c306bcce2cc.jpg",164FM - Твой Регион
+https://str6.pcradio.ru/rad_sttv164-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d731d75e.jpg",5 (Казань)
+https://str6.pcradio.ru/tatarradio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d61d89c9.jpg",ARSU - Anime Radio
+https://str6.pcradio.ru/animeradio_su-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c758bd76.jpg",Blow Back Radio
+https://str6.pcradio.ru/blow47_com-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d47b99.jpg",Chillout Radio Streaming
+https://str6.pcradio.ru/rad_chlltrd-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c712e215.jpg",Cosmic Waves - Chill
+https://str6.pcradio.ru/cosmicwaves_chill-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c7125a7c.jpg",Cosmic Waves - Progressive
+https://str6.pcradio.ru/cosmicwa_progress-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d73d3076.jpg",Crocus City Hall Radio
+https://str6.pcradio.ru/crocus_city-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d03cad0e.jpg",Dance Boom
+https://str6.pcradio.ru/dance_boom-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c7622018.jpg",Dancefloor
+https://str6.pcradio.ru/dancefloor_live-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c41b660f.jpg",Delight Radio
+https://str6.pcradio.ru/rad_dlig-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c41eed34.jpg",Dens Radio Tver
+https://str6.pcradio.ru/rad_myr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3e8e524.jpg",DRUMFUNK.RU
+https://str6.pcradio.ru/rad_drmfnk-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c901b824.jpg",Dubstep Light Radio
+https://str6.pcradio.ru/dubstep_light-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbfa4320.jpg",Edem UKV
+https://str6.pcradio.ru/edem_ukv-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c428c126.jpg",Energy (Омск)
+https://str6.pcradio.ru/rad_enerom-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d32d7e.jpg",Enjoy Radio (Архангельск)
+https://str6.pcradio.ru/rad_enjyrd-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ccaccc82.jpg",Excite Bit
+https://str6.pcradio.ru/excitebit_vgm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c41ae9aa.jpg",FM Free
+https://str6.pcradio.ru/rad_radfree-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d1dc96b4.jpg",Freedom
+https://str6.pcradio.ru/freedom_radio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c9ee57ac.jpg",Gimadut Radio Book
+https://str6.pcradio.ru/gimadut_book-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62a1306be5c43.jpg",Gold Radio
+https://str6.pcradio.ru/rad_gldrad-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c714ee01.jpg",Gospel Radio Nebesa
+https://str6.pcradio.ru/gospel_nebesa-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61cbf4552dfde.jpg",GTF Fusion
+https://str6.pcradio.ru/rad_gtffsn-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c63020a9.jpg",HardRockFM
+https://str6.pcradio.ru/hardrockfm_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d40df341.jpg",HipHopBy
+https://str6.pcradio.ru/hiphop_by-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61d7bc49ad562.jpg",Hit Dance
+https://str6.pcradio.ru/rad_htdnc-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62c3eb1c56215.jpg",HyperYaderi Radio
+https://str6.pcradio.ru/rad_hprydrr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d543e90a.jpg",Instyle
+https://str6.pcradio.ru/instyleradio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbd319a0.jpg",iRadio
+https://str6.pcradio.ru/iradio_pro-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ce4d7977.jpg",JamZONE - Для Тех Кому Не По
+https://str6.pcradio.ru/jamzone_dtknp-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ce4cfbd7.jpg",JamZONE - КАВЕРадио
+https://str6.pcradio.ru/jamzone_cover-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5a41bae.jpg",Kids Stars
+https://str6.pcradio.ru/kids_stars-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c49355da.jpg",KIPO91
+https://str6.pcradio.ru/kipo91_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c6d930e4.jpg",Kovalev FM
+https://str6.pcradio.ru/kovalev_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbd7e3b9.jpg",Leproradio
+https://str6.pcradio.ru/leproradio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cc7db464.jpg",M.Deep Radio
+https://str6.pcradio.ru/rad_mde-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ccd57ac6.jpg",Maxxx Radio
+https://str6.pcradio.ru/maxxx_radio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d48bb5.jpg",MFM 105.0 (Гродно)
+https://str6.pcradio.ru/rad_mfm105fmb-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cf0348fe.jpg",Minsk House
+https://str6.pcradio.ru/minsk_house_by-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c4cf25ad.jpg",Modul FM
+https://str6.pcradio.ru/modul_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c584f2df.jpg",NDH FM Online
+https://str6.pcradio.ru/ndh_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3f1eefe.jpg",NDRadio
+https://str6.pcradio.ru/rad_nshdl-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d6f1bbb5.jpg",Nostalgia FM 98.6
+https://str6.pcradio.ru/nostalgiafm_986-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cf307fc0.jpg",OK-радио (Калининград)
+https://str6.pcradio.ru/ok_radio_kal-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d34a7822.jpg",Piano Relax Radio
+https://str6.pcradio.ru/piano_relax_radio_pcradio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3f55931.jpg",POWER FM (Россия)
+https://str6.pcradio.ru/rad_rupwr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cba8e14e.jpg",PRG Radio
+https://str6.pcradio.ru/prgradio_com-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61cbf4552cf26.jpg",ProficaMag - магазин красоты
+https://str6.pcradio.ru/proficamag-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3f8ba40.jpg",Queer HD Radio
+https://str6.pcradio.ru/rad_qrhd-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62bc957a6ed10.jpg",Radio 9Plus
+https://str6.pcradio.ru/rad_rd9plsr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c6200bf8.jpg",Radio ANNA-News
+https://str6.pcradio.ru/anna_news-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d792a73d.jpg",Radio Cafe
+https://str6.pcradio.ru/radio_cafe-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5b9a2d8.jpg",Radio LUCH!
+https://str6.pcradio.ru/luch_exclam-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c4c08eda.jpg",Radio VEGA
+https://str6.pcradio.ru/vegaradio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/628d02d3e714e.jpg",RADIO24.RU
+https://str6.pcradio.ru/rad_rd24r-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5874695.jpg",RadioMIX
+https://str6.pcradio.ru/radiomix_dance-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c74235fa.jpg",Republic Radio 102.4
+https://str6.pcradio.ru/republic_radio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/629fd22a2c0a5.jpg",Rock Space Station
+https://str6.pcradio.ru/rad_rckspcsttn-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c49ee524.jpg",RockEusRoll Irratia
+https://str6.pcradio.ru/rad_rocke-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3f7366f.jpg",RSG iRadio
+https://str6.pcradio.ru/rad_rsgiird-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbac9067.jpg",Sputnik Mundo
+https://str6.pcradio.ru/sputnik_mundo-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbbbed7e.jpg",SpyNetStation - Dark Side
+https://str6.pcradio.ru/spynet_dark-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d54a431c.jpg",Synth Radio
+https://str6.pcradio.ru/synth_radio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cb106d61.jpg",TFM
+https://str6.pcradio.ru/tfm_belarus-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cbcc4d3d.jpg",Ultima.FM
+https://str6.pcradio.ru/ultima_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cea0904d.jpg",Ural Sound FM
+https://str6.pcradio.ru/uralsound_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d5c5ce.jpg",Vinil FM
+https://str6.pcradio.ru/rad_vnlfmr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62910ec60f029.jpg",Voices of the Univerce
+https://str6.pcradio.ru/rad_csspvcsnvrc-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4c45dfc.jpg",Wargaming FM - Основной
+https://str6.pcradio.ru/wargaming_fm_1-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4c4fdc1.jpg",Wargaming FM - Основной (только музыка)
+https://str6.pcradio.ru/wargaming_fm_2-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d561edbd.jpg",WikiSpeak
+https://str6.pcradio.ru/radio_wikispeak-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5a18906.jpg",Академия Stars
+https://str6.pcradio.ru/akademia_stars-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29e5c21.jpg",Акунин - История Российского государства
+https://str6.pcradio.ru/akunin_history-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29bcf5e.jpg",Акунин - Приключения магистра
+https://str6.pcradio.ru/akunin_magistr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d299982f.jpg",Акунин - Приключения Э. Фандорина
+https://str6.pcradio.ru/Akunin_Erast-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29c4cf6.jpg",Акунин - Провинціальный детективъ
+https://str6.pcradio.ru/akunin_pelagia-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29d06d5.jpg",Акунин - Смерть на брудершафт
+https://str6.pcradio.ru/akunin_brudershaft-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29de6cd.jpg",Акунин - цикл Жанры
+https://str6.pcradio.ru/akunin_genres-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d29d7d2d.jpg",Анатолий Брусникин (Борис Акунин)
+https://str6.pcradio.ru/brusnikin-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d6158385.jpg",АссА
+https://str6.pcradio.ru/radioassa_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62bdbaf76c08b.jpg",Будка Радио
+https://str6.pcradio.ru/rad_bdkrdr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c68b1be6.jpg",Бумбокс Радио (Boombox)
+https://str6.pcradio.ru/boomboxradio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d5471f97.jpg",Вилган
+https://str6.pcradio.ru/vilgan_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c4b9bf1c.jpg",Возвращение
+https://str6.pcradio.ru/returning_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d01be247.jpg",Волна FM
+https://str6.pcradio.ru/volnafm_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4ba5a9a.jpg",Волхов-VFM
+https://str6.pcradio.ru/volhov_vfm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/6291264e235d1.jpg",Всесоюзное Радио
+https://str6.pcradio.ru/rad_csspsttnsr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d288d188.jpg",Гамаюн
+https://str6.pcradio.ru/raga_rf-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d5758905.jpg",Диалог
+https://str6.pcradio.ru/radio_dialog_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cd9c8256.jpg",Дорожное (Оренбург)
+https://str6.pcradio.ru/dorozhnoe_oren-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d56918c4.jpg",Другая Астрахань
+https://str6.pcradio.ru/astrdr_com-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ceaa82f1.jpg",Железо FM 99.0
+https://str6.pcradio.ru/fefm_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cd876f2b.jpg",Интерволна Next
+https://str6.pcradio.ru/Intervolna_che_next-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/6208c6f410307.jpg",Калейдоскоп РОК
+https://str6.pcradio.ru/rad_kljdskprck-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d1dd9dc6.jpg",Клетка
+https://str6.pcradio.ru/kletka_verhova-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c4ba2b78.jpg",Красавина
+https://str6.pcradio.ru/krasavina-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d641a9b2.jpg",Легкие Люди
+https://str6.pcradio.ru/legkieludi_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d488f63d.jpg",Мега Радио
+https://str6.pcradio.ru/megaradio_pro-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d499efe6.jpg",Мелодии века
+https://str6.pcradio.ru/melodii_veka-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d482f54c.jpg",Модель для сборки 2 - MDS станция
+https://str6.pcradio.ru/mdsst_ru_2-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4836240.jpg",Модель для сборки 3 - MDS станция
+https://str6.pcradio.ru/mdsst_ru_3-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d32661aa.jpg",Мурзилки Интернешнл
+https://str6.pcradio.ru/Murzilki_International-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ce64c03d.jpg",Нара ФМ (Nara FM)
+https://str6.pcradio.ru/rad_nar-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d3e8f6.jpg",Новая Жизнь
+https://str6.pcradio.ru/rad_nvyzhzn-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d01b5bd1.jpg",Норд FM
+https://str6.pcradio.ru/nordfm_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d790eee0.jpg",Прибой
+https://str6.pcradio.ru/priboy_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cf490904.jpg",Приозерск FM
+https://str6.pcradio.ru/priozersk_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c49c3679.jpg",Радио 50
+https://str6.pcradio.ru/radio50_vk-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d6447609.jpg",Радио Disney
+https://str6.pcradio.ru/radio_disney_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d04ce810.jpg",Радио VBC
+https://str6.pcradio.ru/radiovbc_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c64d1241.jpg",Радио Амичи
+https://str6.pcradio.ru/amici_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d49773f2.jpg",Радио Би Эй
+https://str6.pcradio.ru/radio_ba-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09ce9b3183.jpg",Радио Ваня (Москва)
+https://str6.pcradio.ru/vanya_moscow-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d4b4a968.jpg",Радио День
+https://str6.pcradio.ru/radioday_fm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c3f07575.jpg",Радио Миллениум
+https://str6.pcradio.ru/rad_mllnm-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c411fab5.jpg",Радио На Востоке 95.8 FM (Гусев)
+https://str6.pcradio.ru/rad_guvos-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c8089391.jpg",Радио Радио
+https://str6.pcradio.ru/radioradio_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c42b953e.jpg",Радио Рекорд (Новосибирск)
+https://str6.pcradio.ru/rad_recns-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d1bff2.jpg",Радио Сентябрь
+https://str6.pcradio.ru/rad_sptmbr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c4877eb2.jpg",Радио Шансон (Иркутск)
+https://str6.pcradio.ru/shanson_irkut-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/62ba21b075173.jpg",Радио Экстрим
+https://str6.pcradio.ru/rad_rdkstrmr-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09cea2f76b.jpg",Радио Юрган
+https://str6.pcradio.ru/yurgan_radio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d1f7e9b0.jpg",Радиоканал Мелодия
+https://str6.pcradio.ru/melodia_spb-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d409d061.jpg",Радио-Радио
+https://str6.pcradio.ru/radio_radio-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5a1dc98.jpg",Ретро Stars
+https://str6.pcradio.ru/retro_stars-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c48c65de.jpg",Рок-Омлет
+https://str6.pcradio.ru/rad_omlet-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/627dae2d559eb.jpg",Русская Дискотека
+https://str6.pcradio.ru/rad_rdisctk-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d6f63fe5.jpg",Русские Песни
+https://str6.pcradio.ru/rusongsru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d78aab65.jpg",Старое радио - Детское
+https://str6.pcradio.ru/staroe_deti-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c8ce2d2d.jpg",Старт FM 104.5
+https://str6.pcradio.ru/start_saransk-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d3f8ef23.jpg",Стимул
+https://str6.pcradio.ru/stimul_yur-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d656707f.jpg",Феникс FM
+https://str6.pcradio.ru/phoenixfm_ru-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c5a3c4b4.jpg",Шансон Stars
+https://str6.pcradio.ru/shanson_stars-med
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09c7546772.jpg",Юное Радио
+https://str6.pcradio.ru/yunoe_radio-med
+#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Ретро FM
+http://cast.radiogroup.com.ua:8000/retro
+#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Classic Radio
+https://online.radioplayer.ua/RadioClassic_HD
+#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Просто Радио Перец FM
+http://62.80.190.246:8000/PRK128
+#EXTINF:-1 ,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 ,Russian Music Box HD
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 ,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 ,Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 ,Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 ,MIXM TV
+http://89.179.247.144/mixm.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.volgogradfm.ru:8000/rockarsenal
+#EXTINF:-1 ,#EXTGRP:Радио
+http://16bitfm.com:8000/cafe_mp3_192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://gmedia54.fvds.ru:8000/rusradio_nsk_low
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-radiofortwo.cdnvideo.ru/radiofortwo
+#EXTINF:-1 ,#EXTGRP:Радио
+https://pub0302.101.ru:8443/stream/air/aac/64/101
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.intervolna.ru:8001/radio128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://staroeradio.ru:8000/detskoe128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://go.dnbfm.ru:8000/play
+#EXTINF:-1 ,#EXTGRP:Радио
+http://dor2server.streamr.ru:8000/dor_64_no
+#EXTINF:-1 ,#EXTGRP:Радио
+http://emgspb.hostingradio.ru/eldoradio64.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://emg02.hostingradio.ru/ep-light128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://emg02.hostingradio.ru/ep-new128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://213.189.208.146:8005/Garagefm192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.kunelradio.ru:8000/128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio-holding.ru:9000/marusya_default
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.mds-station.com:8000/01-mds
+#EXTINF:-1 ,#EXTGRP:Радио
+http://ic2.christiannetcast.com/nlradio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://93.189.147.117:8000/nostalgiafm.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.ofr.fm:8000/show/mp3/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.ofr.fm:8008/jazz/mp3/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.ofr.fm:8012/rock/mp3/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.radiopassazh.ru:8005/aac-48
+#EXTINF:-1 ,#EXTGRP:Радио
+http://188.254.50.254:8000/pilot_dance_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.prodjradio.net:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/186mph-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/300kmh-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/channel5-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/deep-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/fullmoon-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/mini-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/mixadancefm-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/pop-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/toonu-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/top100-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.promodj.com:8000/vata-192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://62.183.34.109:8000/radio107.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://206.223.161.107:80/192k
+#EXTINF:-1 ,#EXTGRP:Радио
+http://disney2.streamr.ru:8060/disney
+#EXTINF:-1 ,#EXTGRP:Радио
+http://play.fnoobtechno.com:2199/tunein/fnoobtechno320.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://www.grad-petrov.ru:8093/mp3-40
+#EXTINF:-1 ,#EXTGRP:Радио
+http://onair.krone.at/kronehit-dance.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.mixnews.lv/MixFM
+#EXTINF:-1 ,#EXTGRP:Радио
+http://energy80s.ice.infomaniak.ch/energy80s-high.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://energy90s.ice.infomaniak.ch/energy90s-high.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://energydance.ice.infomaniak.ch/energydance-high.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://energyrock.ice.infomaniak.ch/energyrock-high.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.175.27.162:9000/aacp64
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.radiosibir.ru:8090/HQ
+#EXTINF:-1 ,#EXTGRP:Радио
+http://svobodanews.fvds.ru:8000/svoboda128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_90
+#EXTINF:-1 ,#EXTGRP:Радио
+http://91.203.176.214:8000/vesnafm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.radiogora.ru:8000/electro320
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.radiogora.ru:8000/hitmix128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.rusongs.ru/ru-mp3-128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://vdfm.ru:8000/rusradio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://213.59.4.27:8000/stream48.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.volgogradfm.ru:8000/sputnik_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://staroeradio.ru:8000/ices128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://51.255.127.128:8032/stream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://174.36.206.197:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://46.105.180.202:8103/autodj
+#EXTINF:-1 ,#EXTGRP:Радио
+http://79.98.49.5:8132/pravda
+#EXTINF:-1 ,#EXTGRP:Радио
+http://78.41.94.37:8332/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://cdn.radio1.news:8000/rtvp_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://ic.radio10.live/stream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://62.183.34.109:8000/radio107_320.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.161.fm:8000/256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://16bitfm.com:8000/idea_mp3_192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://16bitfm.com:8000/main_mp3_192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://212.19.18.133:8000/stream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://95.104.192.220:8001/radio2x2.ogg
+#EXTINF:-1 ,#EXTGRP:Радио
+http://81.23.194.18:8010/radio3.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.42fm.ru:8000/stealkill-320
+#EXTINF:-1 ,#EXTGRP:Радио
+http://91.202.68.50:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://europaplus.hostingradio.ru:8014/radiosept320.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-radio7-alone.emgsound.ru/16/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-radio7-love.emgsound.ru/8/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-radio7-happiness.emgsound.ru/10/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://87.255.90.94:8000/320
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.99-1.ru:8000/99i1_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream01.radiocon.ru:8000/bobjazz
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/moscowfmen128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s.djstation.ru/stream192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://dls-fm.ru:8000/dls
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.219.34.117:8008/NEWENERGY_256k
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s02.radio-tochka.com:4500/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://m4m128.hostingradio.ru:8074/m4m128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s02.radio-tochka.com:5060/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nashe1.hostingradio.ru:80/jazz-256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/sjstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/jvstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://cast.loungefm.com.ua/loungefm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://cast.loungefm.com.ua/acoustic128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.volna.top/makkirus128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.gubernia.com:8000/radio4
+#EXTINF:-1 ,#EXTGRP:Радио
+http://vtsu.org.ua:8000/vtsu-dance
+#EXTINF:-1 ,#EXTGRP:Радио
+https://stream.mixadance.fm/mixadance
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.zenolive.com/y1ckzttu1ceuv
+#EXTINF:-1 ,#EXTGRP:Радио
+http://194.87.111.252:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/powerhit128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.rpfm.ru:9000/premium192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio-remix.ru:8000/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://revolutionradio.ru:8000/live.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-studio21.cdnvideo.ru/S21_1
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.radiovbc.ru:8000/Radio256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://player.vfmradio.ru/stream.ogg
+#EXTINF:-1 ,#EXTGRP:Радио
+http://wargaming.fm/1.256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://yumfm.hostingradio.ru:8020/yumfm128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://free.radioheart.ru:8000/zone2000
+#EXTINF:-1 ,#EXTGRP:Радио
+http://78.140.208.20:8800/radio_ihit
+#EXTINF:-1 ,#EXTGRP:Радио
+http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.alfafm.ru:8000/alfa_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.mediacdn.ru/ashkadar.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s1.radioheart.ru:8001/radiotemryuk_128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.borneo.ru:8888/bv128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.blysk.com.ua:8000/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.borneo.ru:8888/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen1.myradio24.com:9000/2724
+#EXTINF:-1 ,#EXTGRP:Радио
+http://buu.hostingradio.ru:8005/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-radiovanya.cdnvideo.ru/radiovanya
+#EXTINF:-1 ,#EXTGRP:Радио
+http://91.214.128.125:64000/vatan
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.vaticanwebradio.org/channel3.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://server.rpr.dp.ua:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://94.250.249.126:8000/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://194.58.90.144:8025/xstream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen6.myradio24.com:9000/vitfmdance
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.vtv.by:8000/radio_vitebsk_128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://217.24.181.164:8000/stream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://vzradio.ru:8000/fallback
+#EXTINF:-1 ,#EXTGRP:Радио
+http://vtsu.org.ua:8000/vtsu-pop
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.vyshka24.ru/256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://gamaun.online:8020/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s1.radioheart.ru:8001/radiogomel
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.alania.net:8000/radiocity
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.gorodfm.ru:8000/gorodfm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.gorvolna.ru:8000/gorvolna
+#EXTINF:-1 ,#EXTGRP:Радио
+http://195.138.81.134:8000/radio2-256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://www.grad-petrov.ru:8093/aac
+#EXTINF:-1 ,#EXTGRP:Радио
+http://www.gubernia-media.ru:8000/gubernia
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s3.radioheart.ru:8013/nonstop
+#EXTINF:-1 ,#EXTGRP:Радио
+http://62.109.3.230/dom_druzhby.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.179.72.53:8070/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://217.20.173.105:8100/best
+#EXTINF:-1 ,#EXTGRP:Радио
+http://94.102.16.36:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://195.88.63.114:8000/zaoblakami
+#EXTINF:-1 ,#EXTGRP:Радио
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://91.219.74.220:8000/IvanovoFM.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://77.87.97.62:8086/ingradio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.intervolna.ru:8001/radio192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://ice.interra.fm:8000/barix
+#EXTINF:-1 ,#EXTGRP:Радио
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1 ,#EXTGRP:Радио
+http://kamwa.ru:8002/kamwa-mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.kamchatkalive.ru:8100/rock
+#EXTINF:-1 ,#EXTGRP:Радио
+http://79.120.77.11:8002/gothicmetal
+#EXTINF:-1 ,#EXTGRP:Радио
+http://79.120.77.11:8002/hardtrance
+#EXTINF:-1 ,#EXTGRP:Радио
+http://79.120.77.11:8002/poprock
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.rikt.ru:8000/trk-kvant
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen6.myradio24.com:9000/5390
+#EXTINF:-1 ,#EXTGRP:Радио
+http://more.fm:8000/KSBusiness256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radiokingisepp.ru:8000/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/rcstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/cvstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/pcstream.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.kometa.fm:8000/kometa_donetsk_inet.ogg
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.kometa.fm:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s4.radioheart.ru:8023/nonstop
+#EXTINF:-1 ,#EXTGRP:Радио
+http://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://84.22.142.130:8000/arstream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://212.75.194.94:8000/KuzbassFM
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://av.bimradio.ru:8066/kurai_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dcatk.pro/radio.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio-server.imfurry.ru:8000/iceleo192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s1.radioheart.ru:8001/radiolivny
+#EXTINF:-1 ,#EXTGRP:Радио
+http://a2.radioheart.ru:8015/admin
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.radiom.org.ua:8020/mp3_high
+#EXTINF:-1 ,#EXTGRP:Радио
+http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream128.melodiafm.spb.ru:8000/melodia128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://media.luga.ru:8002/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radiomv.hostingradio.ru/radiomv256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://217.23.126.106:8002/radio2.mir
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/moscowtalk128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.myudm.ru:10010/efir
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/gold
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/myata_hits
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/myata
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.radionestandart.ru:8200/128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.nikatv.ru/;.mp4
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s01.radio-tochka.com:4840/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.nostalgiatv.ru:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://213.177.106.78:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.oldxit.ru:8000/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.olimpfm.ru:8000/olimp_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.106i9fm.ru:8000/106i9_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.radiopassazh.ru/mp3-128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://streamer.radiovseti.ru:8000/320
+#EXTINF:-1 ,#EXTGRP:Радио
+http://cdn.pifm.ru/mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.pilotfm.ru:8000/pilot_dance_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.pilotfm.ru:8000/pilot_lounge_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.pilotfm.ru:8000/pilot_secret_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream.hoster.by:8081/pilotfm/pilot/icecast.audio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/ppr128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/ppr_90.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/ru-wave.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-piterfm.cdnvideo.ru/piterfm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.podsolnuh.media:8000/radio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1 ,#EXTGRP:Радио
+http://inhold.org:8000/primvolna-artem
+#EXTINF:-1 ,#EXTGRP:Радио
+http://213.141.133.1:8000/stream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://62.192.226.178:8000/stream.ogg
+#EXTINF:-1 ,#EXTGRP:Радио
+http://play.radioradio.ru/mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.radio7.su:9000/deti256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://212.66.37.40:8000/radiorepublic
+#EXTINF:-1 ,#EXTGRP:Радио
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://hls-01-sanremo.emgsound.ru/5/128/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://stream1.radiord.ru:8000/live96.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nashe1.hostingradio.ru:80/rock-256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/rock00.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/rock70.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/rock80.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/rock90.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/metal.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://jfm1.hostingradio.ru:14536/prog.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.rockarsenal.ru:8000/rockarsenal
+#EXTINF:-1 ,#EXTGRP:Радио
+http://de.streams.radioplayer.by:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.radiorocks.cdnvideo.ru/roks.stream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 ,#EXTGRP:Радио
+http://listen.rusongs.ru:8005/ru-mp3-128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://91.201.117.219:8000/stream
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.223.45.5:8000/next-160
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.223.45.5:8000/progressive-160
+#EXTINF:-1 ,#EXTGRP:Радио
+http://89.223.45.5:8000/space-160
+#EXTINF:-1 ,#EXTGRP:Радио
+http://213.59.4.27:8000/silver128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.radioc.ru:8000/radioc
+#EXTINF:-1 ,#EXTGRP:Радио
+http://185.108.196.182:8090/HQ
+#EXTINF:-1 ,#EXTGRP:Радио
+http://178.172.150.248:2530/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://82.146.46.30:8000/radiosok-msk
+#EXTINF:-1 ,#EXTGRP:Радио
+http://solfm.ru:8000/deep128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://solfm.ru:8000/rock128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://solfm.ru:8000/rap128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.sputnikfm.ru:8000/sputnik_mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://62.109.3.230/stalingrad.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://85.95.185.19:8000/live
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.stranafm.cdnvideo.ru/stranafm_256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radiotakt.com.ua:8000/takt.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/tvsradio
+#EXTINF:-1 ,#EXTGRP:Радио
+http://176.65.38.3:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://dotru.trkeurasia.ru:8000/dotru128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.radioulitka.ru:8000/ulitka_192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://194.190.130.64:8001/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nashe1.hostingradio.ru:80/ultra-256
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.mediacdn.ru/fm_na_donu.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.focus-radio.net:8100/sofia
+#EXTINF:-1 ,#EXTGRP:Радио
+http://air.volna.top/HypeFM
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.trkeurasia.ru:8000/hit128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://navigator-rg.dynalias.org:8005/hit-navigator.ogg
+#EXTINF:-1 ,#EXTGRP:Радио
+http://188.93.129.110:8000/fm1018
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.4duk.ru/4duk256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://spb.radioshock.ru:80/radioshock
+#EXTINF:-1 ,#EXTGRP:Радио
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://193.254.227.55:8000/Radio-LineIn
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.dline-media.com/etalon
+#EXTINF:-1 ,#EXTGRP:Радио
+http://ugra.cdnradio.ru/radiougra
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.mediacdn.ru/uldash.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online.uniton.ru:8300/RadioUniton192
+#EXTINF:-1 ,#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/unost
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.yasenbit.net:8000/yasenbit192k
+#EXTINF:-1 ,#EXTGRP:Радио
+http://s1.radioheart.ru:8017/nonstop
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online1.gkvr.ru:8000/radiola_srt_128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://online1.gkvr.ru:8000/radiola_eka_128.mp3
+#EXTINF:-1 ,#EXTGRP:Радио
+http://46.20.71.66:8000/fm
+#EXTINF:-1 ,#EXTGRP:Радио
+http://195.91.237.50:8000/detskoe128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://195.91.237.50:8000/music128
+#EXTINF:-1 ,#EXTGRP:Радио
+http://195.13.200.164:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://109.198.108.42:8000/;
+#EXTINF:-1 ,#EXTGRP:Радио
+http://188.128.117.99:8000/olimp
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/18190sCountry
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181chilledout
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181Eagle
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181Lite90s
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181MellowGold
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181Salsa
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181Super70s
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181TechnoClub
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181TheBreeze
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181TrueRB
+#EXTINF:-1 ,#EXTGRP:Радио
+http://radio.krasview.ru:8000/181VocalJazz
+#EXTINF:-1 ,#EXTGRP:Радио
+http://nr6.newradio.it:9231/stream.mp3
+#EXTINF:-1 group-title="Украіна" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
+http://cast.nrj.in.ua/nrj
+#EXTINF:-1 ,Радио Люкс HD
+https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Радио Люкс FM [UA] (Веб-камера)
+http://streamvideol1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/chunklist_b1392000.m3u8
+#EXTINF:-1 ,Радио Джем FM [UA] (Веб-камера)
+https://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+#EXTINF:-1 ,Радио Маяк
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Радио МАЯК
+https://a635216413-s81121.cdn.ngenix.net/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/158/108_d20190315164730.smil/chunklist_b1800000_pd2635000.m3u8
+#EXTINF:-1 ,Радио Маяк [RU] (Веб-камера)
+http://cdnmg.secure.live.rtr-vesti.ru/live/mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Радио Мелодия [RU]
+https://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
+#EXTINF:-1 ,Радио Вести FM [RU]
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+#EXTINF:-1 ,1 Music Channel RO
+http://clientportal.link:80/cNoBg752/wFOmwE72/14597
+#EXTINF:-1 ,1HD
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 ,4 Fun Dance PL
+http://clientportal.link:80/cNoBg752/wFOmwE72/16291
+#EXTINF:-1 ,AIVA HD
+http://194.190.78.91:8080/aivaya/index.m3u8
+#EXTINF:-1 ,Backus TV Music
+https://playlist.wasd.tv/live/1626854/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 ,CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 ,DANCE TV TECHNO
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 ,DMC MUSIC TV
+https://m3url.ru/dmc-music.m3u
+#EXTINF:-1 ,Eska TV Extra PL
+http://clientportal.link:80/cNoBg752/wFOmwE72/11182
+#EXTINF:-1 ,Europa Plus TV
+http://78.25.155.47:1309/channel/Evropa_plus.ts
+#EXTINF:-1 ,FR: M6 Music
+http://iptvtree.net:8080/b12515fa/f176763b4e/224
+#EXTINF:-1 ,FR: MCM Pop
+http://iptvtree.net:8080/b12515fa/f176763b4e/8027
+#EXTINF:-1 ,FR: MCM TOP
+http://iptvtree.net:8080/b12515fa/f176763b4e/223
+#EXTINF:-1 ,FR: MTV Hits France
+http://iptvtree.net:8080/b12515fa/f176763b4e/47249
+#EXTINF:-1 ,FR: NRJ Hits
+http://iptvtree.net:8080/b12515fa/f176763b4e/221
+#EXTINF:-1 ,FR: TRACE Caribbean
+http://iptvtree.net:8080/b12515fa/f176763b4e/11843
+#EXTINF:-1 ,FR: TRACE Latina
+http://iptvtree.net:8080/b12515fa/f176763b4e/32392
+#EXTINF:-1 ,FR: TRACE Toca
+http://iptvtree.net:8080/b12515fa/f176763b4e/7560
+#EXTINF:-1 ,Impact TV Dance
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+#EXTINF:-1 ,Kiss Kiss Tv HD
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
+#EXTINF:-1 ,Kiss TV RO
+http://clientportal.link:80/cNoBg752/wFOmwE72/14600
+#EXTINF:-1 ,LA MEGA MUNDIAL HD
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 ,Latino HD
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 ,MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8
+#EXTINF:-1 ,MCN6 MUSIC CHANNEL
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 ,MI Ritmo TV
+http://59514edd5dd8e.streamlock.net:1935/lax/lax/chunklist.m3u8
+#EXTINF:-1 ,MIXM TV
+http://89.179.247.144/mixm.m3u8?token=iptv.org.ua
+#EXTINF:-1 ,MOOZ DANCE
+https://canale.live/mtv.m3u8/?id=moozdance
+#EXTINF:-1 ,MTV BEATS
+http://103.199.160.87:2082/kccl_02/mtvbeats/index.m3u8
+#EXTINF:-1 ,MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 ,MTV Europe CZ
+http://clientportal.link:80/XDphWzkI72085/AA7DO24288/14269
+#EXTINF:-1 ,MTV SPANKIN NEW
+http://dmi3y-tv.ru/hls/CH_MTVSPANKINNEW.m3u8
+#EXTINF:-1 ,MTV YO HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 ,MUZZIK ZZ 4000
+https://muzzik-live.morescreens.com/mts-a6/chunklist.m3u8
+#EXTINF:-1 ,Magic TV (ROM)
+https://tv.broadcasting.ro/memfs/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 ,Mooz RO
+http://clientportal.link:80/cNoBg752/wFOmwE72/18332
+#EXTINF:-1 ,Music Box Gold
+http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:-1 ,Music Box Russian
+http://193.33.240.8:8080/music-box-ru/index.m3u8
+#EXTINF:-1 ,Music TV
+http://dancehits80.denvs.ru:8080/playlist.m3u8
+#EXTINF:-1 ,Muzzone
+http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+#EXTINF:-1 ,PMC ROYALE
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 ,POWER +
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 ,PROKOP TV HITS HD
+http://37trdlpj.otttv.pw/iptv/425EWL2BTT2UN4/18148/index.m3u8
+#EXTINF:-1 ,PROKOP TV ROCK HD
+http://37trdlpj.otttv.pw/iptv/425EWL2BTT2UN4/19270/index.m3u8
+#EXTINF:-1 ,PlanetaTV 90s (720p)
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1 ,Polo TV FHD PL
+http://clientportal.link:80/cNoBg752/wFOmwE72/13517
+#EXTINF:-1 ,Portal Foxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,Power TV PL
+http://clientportal.link:80/cNoBg752/wFOmwE72/15187
+#EXTINF:-1 ,RADIO MAXIMA 94.9 FM SB
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 ,RTL 102.5 Napule
+http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b2816000.m3u8
+#EXTINF:-1 ,Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 ,Retro Plus TV 2
+http://59f1cbe63db89.streamlock.net:1935/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 ,Rtl Classics
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/playlist.m3u8
+#EXTINF:-1 ,TVO HD
+https://eu1.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 ,Top New Radio
+https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 ,U TV RO
+http://clientportal.link:80/cNoBg752/wFOmwE72/14579
+#EXTINF:-1 ,UK: 4Music
+http://iptvtree.net:8080/b12515fa/f176763b4e/4749
+#EXTINF:-1 ,UK: Clubland TV
+http://iptvtree.net:8080/b12515fa/f176763b4e/144752
+#EXTINF:-1 ,UK: Lolly Kids
+http://iptvtree.net:8080/b12515fa/f176763b4e/265254
+#EXTINF:-1 ,UK: Now 70s
+http://iptvtree.net:8080/b12515fa/f176763b4e/65074
+#EXTINF:-1 ,UK: Now 80s
+http://iptvtree.net:8080/b12515fa/f176763b4e/4738
+#EXTINF:-1 ,US: Club MTV
+http://iptvtree.net:8080/b12515fa/f176763b4e/4734
+#EXTINF:-1 ,US: MTV Classic
+http://iptvtree.net:8080/b12515fa/f176763b4e/290680
+#EXTINF:-1 ,US: MTV Live USA
+http://iptvtree.net:8080/b12515fa/f176763b4e/15452
+#EXTINF:-1 ,US: MTV U
+http://iptvtree.net:8080/b12515fa/f176763b4e/57018
+#EXTINF:-1 ,US: Music Choice Dance EDM
+http://iptvtree.net:8080/b12515fa/f176763b4e/192207
+#EXTINF:-1 ,US: Music Choice Indie
+http://iptvtree.net:8080/b12515fa/f176763b4e/66097
+#EXTINF:-1 ,US: Music Choice Kidz Bop
+http://iptvtree.net:8080/b12515fa/f176763b4e/66104
+#EXTINF:-1 ,US: Music Choice Kidz Only
+http://iptvtree.net:8080/b12515fa/f176763b4e/66105
+#EXTINF:-1 ,US: Music Choice Max
+http://iptvtree.net:8080/b12515fa/f176763b4e/66084
+#EXTINF:-1 ,US: Music Choice Mexican
+http://iptvtree.net:8080/b12515fa/f176763b4e/66101
+#EXTINF:-1 ,US: Music Choice Musica URBANa
+http://iptvtree.net:8080/b12515fa/f176763b4e/66094
+#EXTINF:-1 ,US: Music Choice Pop & Country
+http://iptvtree.net:8080/b12515fa/f176763b4e/66083
+#EXTINF:-1 ,US: Music Choice Pop Hits
+http://iptvtree.net:8080/b12515fa/f176763b4e/66082
+#EXTINF:-1 ,US: Music Choice Pop Latino
+http://iptvtree.net:8080/b12515fa/f176763b4e/66090
+#EXTINF:-1 ,US: Music Choice R&B Soul
+http://iptvtree.net:8080/b12515fa/f176763b4e/66079
+#EXTINF:-1 ,US: Music Choice Rap
+http://iptvtree.net:8080/b12515fa/f176763b4e/63184
+#EXTINF:-1 ,US: Music Choice Teen Beats
+http://iptvtree.net:8080/b12515fa/f176763b4e/66077
+#EXTINF:-1 ,US: Music Choice Throwback Jamz
+http://iptvtree.net:8080/b12515fa/f176763b4e/66100
+#EXTINF:-1 ,US: Music Choice Todays Country
+http://iptvtree.net:8080/b12515fa/f176763b4e/66076
+#EXTINF:-1 ,US: Music Choice Tropicales
+http://iptvtree.net:8080/b12515fa/f176763b4e/148267
+#EXTINF:-1 ,US: Radio U TV
+http://iptvtree.net:8080/b12515fa/f176763b4e/166262
+#EXTINF:-1 ,VOX Music TV PL
+http://clientportal.link:80/cNoBg752/wFOmwE72/15174
+#EXTINF:-1 ,ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 ,ZU TV RO
+http://clientportal.link:80/cNoBg752/wFOmwE72/23853
+#EXTINF:-1 ,Radiocentras
+http://84.46.205.13:80/rc128.mp3
+#EXTINF:-1 ,Power Hit Radio
+http://power-stream.tv3.lt:8000/PHR.mp3
+#EXTINF:-1 ,Zip FM
+http://84.46.205.13:80/zipfm128.mp3
+#EXTINF:-1 ,Pulsas
+http://195.12.190.55:8000/stream
+#EXTINF:-1 ,RS2
+http://77.79.33.225:8000/rs2.lt.aac
+#EXTINF:-1 ,A2
+http://213.197.178.50:8000/A2stereo
+#EXTINF:-1 ,Neringa FM
+http://185.11.24.72:8000/neringa_ogg
+#EXTINF:-1 ,RadijoGAMA
+http://212.24.99.134:8000/live
+#EXTINF:-1 ,Easy FM
+http://netradio.ziniuradijas.lt/easyfm_64.mp3
+#EXTINF:-1 ,Lietuvos Radijas
+http://82.135.234.195:8000/lr.mp3
+#EXTINF:-1 ,LRT Opus
+http://82.135.234.195:8000/opus3.mp3
+#EXTINF:-1 ,LRT Klasika
+http://82.135.234.195:8000/klasika.mp3

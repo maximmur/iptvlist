@@ -1,0 +1,2027 @@
+#EXTM3U
+#EXTINF:-1 ,StSD+ 16.9 Egrisi GE
+http://176.74.80.162:8099/Amedia1/index.m3u8
+#EXTINF:-1 group-title="Отечественное",Мосфильм. Золотая коллекция
+http://178.212.236.2:80/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="Микс",Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Comedy Central English
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 ,StSD+ 16.9 Ракета.Иркутск RU
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 ,Кино ТВ r
+http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
+#EXTINF:-1 ,Кинопоказ HD
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="Микс",Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 ,CINEMAN
+http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужское кино
+http://45.144.31.195:8022/playlist.m3u8
+#EXTINF:-1 group-title="Женское",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 ,Золотая коллекция
+http://46.151.151.245:10002/play/a0bi
+#EXTINF:-1 group-title="Хиты",Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 ,Olsib TV VHS
+http://46.18.107.105:8409/iptv/channel/2.m3u8
+#EXTINF:-1 group-title="Микс",FlixSnip
+http://79.143.20.110:8000/play/40
+#EXTINF:-1 group-title="Комедии",Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 ,Kino7 Baltic
+http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1 ,Kino 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1 ,SuperPlus
+http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 group-title="Отечественное",Любимое кино
+http://91.233.215.250:7272/JS7lUbMstASMl0r
+#EXTINF:-1 ,Super Baltic
+http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1 ,Hollywood hd
+http://95.67.12.89:9016
+#EXTINF:-1 ,Наше любимое кино UA
+http://95.67.12.89:9023
+#EXTINF:-1 ,Дорама HD
+http://95.67.12.89:9037
+#EXTINF:-1 ,Bollywood HD
+http://95.67.12.89:9046
+#EXTINF:-1 ,KINO LIVING
+http://95.67.12.89:9089
+#EXTINF:-1 ,Кино 1 VHS
+http://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 ,StSD+ 16.9 RuslanaTV
+http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
+#EXTINF:-1 ,ДОМ КИНО
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1 ,Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Микс",Киномикс
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Премьеры",Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Семейное",Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Женское",Киносвидание
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Мужское",Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Микс",Русский бестселлер
+http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
+#EXTINF:-1 ,Viju+ TV1000
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Комедии",Comedy Central
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 ,Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 ,Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Страшное",НСТ
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 group-title="Микс",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://t.me/freeneo_net
+https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
+#EXTINF:-1 ,Бэтмен: Убийственная шутка (2016)
+https://hye1eaipby4w.takedwn.ws/05_29_18/05/29/19/CFpfHY29/1080_n1H1dNKe.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Гнев материнский (2023)
+https://hye1eaipby4w.takedwn.wss/09_20_23/09/20/16/EC2K2JZH/6KCMKELQ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Грабитель Виски (2017)
+https://hye1eaipby4w.takedwn.ws/01_08_19/01/08/11/7Xsd3CL7/1080_hvggNH9h.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Кубо. Легенда о самурае (2016)
+https://hye1eaipby4w.takedwn.ws/05_29_18/05/29/18/12HHl4t5/1080_2gllJaF0.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Маленький Манхэттен (2005)
+https://hye1eaipby4w.takedwn.ws/07_06_18/07/06/17/SK8N1Ekw/1080_SQo7CbbL.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Новизна (2017)
+https://hye1eaipby4w.takedwn.ws/08_31_18/08/31/19/PDFJHoTR/1080_7p5jGHCd.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Особенности национальной рыбалки (2006)
+https://hye1eaipby4w.takedwn.ws/07_05_18/07/05/07/E1Y9wDtw/1080_MweBfhjv.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Развод в большом городе (2012)
+https://hye1eaipby4w.takedwn.ws/07_07_18/07/07/08/tRNugRKW/1080_AFjOHZBm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,рассказанные на ночь (2019)
+https://hye1eaipby4w.takedwn.ws/03_26_20/03/26/17/FXNNL3EG/AFGTE4Y4.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Частная война (2018)
+https://hye1eaipby4w.takedwn.ws/03_29_19/03/29/09/F2xn71aY/1080_KYwhnguc.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,Прорубь (2017)
+http://hls.kinoprofi.org/hls/Prorub_2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Геошторм (2017)
+http://mn.kinoprofi.org/hls/GeoStorm.2O17.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,В гостях у Элис (2017)
+http://mn.kinoprofi.org/hls/V.GoStyAX.U.ELLice.2O17.D.HDRip./playlist.m3u8
+#EXTINF:-1 ,Статус Брэда (2017)
+http://mn.kinoprofi.org/hls/Brads.Status.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Валериан и город тысячи планет (2017)
+http://mn.kinoprofi.org/hls/Valerian.and.the.City.of.a.Thousand.Planets.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Kingsman: Золотое кольцо (2017)
+http://mn.kinoprofi.org/hls/Kingsman.The.Golden.Circle.2017.Dt.Rip/playlist.m3u8
+#EXTINF:-1 ,24 часа на жизнь (2017)
+http://hls.kinoprofi.org/hls/24.Chasa.Jizn.2O17.D.hd/playlist.m3u8
+#EXTINF:-1 ,Похищение (2016)
+http://mn.kinoprofi.org/hls/Kidnap.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Наемник (2017)
+http://mn.kinoprofi.org/hls/American.assassin.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Роковое искушение (2017)
+http://mn.kinoprofi.org/hls/P0k0B0je.1CkuWeH1e.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Скрюченный домишко (2017)
+http://mn.kinoprofi.org/hls/Crooked.House2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Человек человеку волк (2016)
+http://hls.kinoprofi.org/hls/Dog.Eat.Dog.2016/playlist.m3u8
+#EXTINF:-1 ,Мадам (2017)
+http://mn.kinoprofi.org/hls/M4d4M.2O17.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Аритмия (2017)
+http://mn.kinoprofi.org/hls/Aritmija.2017.HDrip/playlist.m3u8
+#EXTINF:-1 ,Три сестры (2017)
+http://hls.kinoprofi.org/hls/3.sister.2017.O.HDrip/playlist.m3u8
+#EXTINF:-1 ,Салют-7 (2017)
+http://mn.kinoprofi.org/hls/Salyut.7.2017.O.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ветреная река (2017)
+http://mn.kinoprofi.org/hls/Vetrenaja.reka.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Злодейка (2017)
+http://hls.kinoprofi.org/hls/The.Villainess.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тюльпанная лихорадка (2017)
+http://mn.kinoprofi.org/hls/Tulip.fever.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Обет молчания (2017)
+http://hls.kinoprofi.org/hls/Acts.Of.Vengeance.2017.BDRip.L/playlist.m3u8
+#EXTINF:-1 ,Вероника (2017)
+http://hls.kinoprofi.org/hls/Veronica_2017_HDRip.Xi/playlist.m3u8
+#EXTINF:-1 ,Песнь моря (2015)
+http://mn.kinoprofi.org/hls/Pesn.Morya.HDRip/playlist.m3u8
+#EXTINF:-1 ,Одержимость (2014)
+http://mn.kinoprofi.org/hls/Oderzhimostj.2014.P/playlist.m3u8
+#EXTINF:-1 ,Крутые меры (2016)
+http://mn.kinoprofi.org/hls/Krutiye.Meri.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ивановы (2016)
+http://bk-hls.kinoprofi.org/hls/Ivanovi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Удача Логана (2017)
+http://mn.kinoprofi.org/hls/Logan.lucky.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Его собачье дело (2017)
+http://mn.kinoprofi.org/hls/Once.Upon.a.Time.in.Venice.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Проклятие Аннабель: Зарождение зла (2017)
+http://mn.kinoprofi.org/hls/Annabelle.Creation.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,На глубине 6 футов (2017)
+http://mn.kinoprofi.org/hls/Ha.gLu61He.6.fut0B.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Джульетта (2016)
+http://mn.kinoprofi.org/hls/Julietta.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гоголь. Начало (2017)
+http://mn.kinoprofi.org/hls/Gogol.Nahalo.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Город кошек (2017)
+http://hls.kinoprofi.org/hls/gorod-koshek2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Человек – швейцарский нож (2016)
+http://mn.kinoprofi.org/hls/Chelovek.Shveycarskiy.Noj.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Повелители снов (2016)
+http://mn.kinoprofi.org/hls/Poveliteli.Snow.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Любовь не по размеру (2016)
+http://mn.kinoprofi.org/hls/Lubov.ne.po.Razmeru.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Девятая жизнь Луи Дракса (2016)
+http://mn.kinoprofi.org/hls/Devyataya.Jizn.Lui.Draxa.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кровный отец (2016)
+http://mn.kinoprofi.org/hls/Krovniy.Otec.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Месть: История любви (2017)
+http://mn.kinoprofi.org/hls/vozmezdie-istoriya-lyubvi-vengeance2017d2Hdrip.m3u8
+#EXTINF:-1 ,Капитан Фантастик (2016)
+http://mn.kinoprofi.org/hls/Kapitan.Fantastik.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Винсент (2017)
+http://mn.kinoprofi.org/hls/Loving.Vincent.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Взаперти (2016)
+http://mn.kinoprofi.org/hls/Shut.In.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Страх глубины/47 метров (2017)
+http://mn.kinoprofi.org/hls/C1H1aja.6e3dHa.2O17.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бахубали (2015)
+http://mn.kinoprofi.org/hls/Bahubali.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Грейсфилд (2017)
+http://mn.kinoprofi.org/hls/Graysfil.20117.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Голем (2017)
+http://mn.kinoprofi.org/hls/The.Limehouse.Golem.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Война против всех (2016)
+http://mn.kinoprofi.org/hls/voina.protiv.vsex.2016.BDRi/playlist.m3u8
+#EXTINF:-1 ,Джиперс Криперс 3 (2017)
+http://hls.kinoprofi.org/hls/Djiperz.Cripers.3.2O17.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ужас Амитивилля: Пробуждение (2017)
+http://hls.kinoprofi.org/hls/Amityville.The.Awakening.2017.hdRip/playlist.m3u8
+#EXTINF:-1 ,Черная вода (2017)
+http://hls.kinoprofi.org/hls/Chernaya.Voda.2017.HDrip/playlist.m3u8
+#EXTINF:-1 ,Бабушка лёгкого поведения (2017)
+http://hls.kinoprofi.org/hls/Babushka.lyogkogo.povedeniya.2017hdrip/playlist.m3u8
+#EXTINF:-1 ,Время первых (2017)
+http://mn.kinoprofi.org/hls/Vremya_pervyh_2017_WEB-DLRip/playlist.m3u8
+#EXTINF:-1 ,Афера под прикрытием (2016)
+http://mn.kinoprofi.org/hls/afera.po.2O16.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,2:22 (2017)
+http://mn.kinoprofi.org/hls/2.22.BDRip/playlist.m3u8
+#EXTINF:-1 ,Призрачная красота (2016)
+http://mn.kinoprofi.org/hls/Prizrachnaya2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Финансовый монстр (2016)
+http://mn.kinoprofi.org/hls/M0ney.Monster.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Любовь с ограничениями (2017)
+http://hls.kinoprofi.org/hls/LuboFF.s.ograniheniyami.BDRip/playlist.m3u8
+#EXTINF:-1 ,Духless 2 (2015)
+http://hls.kinoprofi.org/hls/dyxLess.2.2015_HDRip__[scarabey.org]/playlist.m3u8
+#EXTINF:-1 ,Любовь и страсть. Далида (2017)
+http://hls.kinoprofi.org/hls/Dalida.2016.D.HdRip/playlist.m3u8
+#EXTINF:-1 ,Самый счастливый день в жизни Олли Мяки (2017)
+http://hls.kinoprofi.org/hls/Olli.Myaki.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Отпетые напарники / По следу (2017)
+http://mn.kinoprofi.org/hls/Po.sledu.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Коммивояжер (2017)
+http://mn.kinoprofi.org/hls/Kommivoyader.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Шальная карта (2015)
+http://mn.kinoprofi.org/hls/Dikaya.Karta.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гангстердам (2017)
+http://hls.kinoprofi.org/hls/Gangsterdam.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,О теле и душе (2017)
+http://mn.kinoprofi.org/hls/O.TeLe.i.Dushe.2O17.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гремлин (2017)
+http://hls.kinoprofi.org/hls/Gremlin.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Афера по-английски (2017)
+http://mn.kinoprofi.org/hls/Afera.po.Angliyski.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Свет в океане (2016)
+http://mn.kinoprofi.org/hls/Svet.v.Okeane.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Реальная белка 2 (2017)
+http://hls.kinoprofi.org/hls/RaeLLnaYa.BaLLka.2.2O17/playlist.m3u8
+#EXTINF:-1 ,Любой ценой (2016)
+http://mn.kinoprofi.org/hls/Luboy.Cenoy.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Брюс Ли: Рождение Дракона (2017)
+http://hls.kinoprofi.org/hls/BRuuce.Lee.DraGon.2O17.hdrip/playlist.m3u8
+#EXTINF:-1 ,Заложники (2017)
+http://mn.kinoprofi.org/hls/Zalohniki.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Затмение (2017)
+http://hls.kinoprofi.org/hls/Zatmenie.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Виктория и Абдул (2017)
+http://hls.kinoprofi.org/hls/Victoria.and.Abdul.2017/playlist.m3u8
+#EXTINF:-1 ,Телохранитель киллера (2017)
+http://mn.kinoprofi.org/hls/The.Hitmans.BodyGuard2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Приди и найди меня (2016)
+http://mn.kinoprofi.org/hls/Naydi.Menya.Esli.Smojeh.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Неудобная планета (2017)
+http://hls.kinoprofi.org/hls/An.Inconvenient.Sequel.Truth.to.Power.2017hdrip/playlist.m3u8
+#EXTINF:-1 ,Реальный Рокки (2017)
+http://hls.kinoprofi.org/hls/Chuck.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вечность (2016)
+http://mn.kinoprofi.org/hls/Vechnost.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Прогулка (2015)
+http://mn.kinoprofi.org/hls/Progulka.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Приключения медведя Бригсби (2017)
+http://hls.kinoprofi.org/hls/Brigsby.Bear.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ублюдок 2 (2017)
+http://hls.kinoprofi.org/hls/yblydok.2.2017.P.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 ,Игра для иммигрантов (2017)
+http://hls.kinoprofi.org/hls/Immigration,Game.2017.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 ,Полицейский с половиной: Новобранец (2017)
+http://hls.kinoprofi.org/hls/Cop.and.a.Half.New.Recruit.2017.DVDRip/playlist.m3u8
+#EXTINF:-1 ,Группа «Лейкопластырь» (2017)
+http://hls.kinoprofi.org/hls/plastur.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Смурфики. Затерянная деревня (2017)
+http://mn.kinoprofi.org/hls/Smurfiki.zateryanaya.Derevnya.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Могучие рейнджеры (2017)
+http://mn.kinoprofi.org/hls/Power.Rangers.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чужой: Завет (2017)
+http://mn.kinoprofi.org/hls/Jujoy.Zavet.2006.HDRip.P/playlist.m3u8
+#EXTINF:-1 ,Малыш на драйве (2017)
+http://mn.kinoprofi.org/hls/Baby.Driver.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Человек-паук: Возвращение домой (2017)
+http://mn.kinoprofi.org/hls/Jelovek.Pauk.Homecoming.2017.P.HDrip/playlist.m3u8
+#EXTINF:-1 ,Планета обезьян: Война (2017)
+http://mn.kinoprofi.org/hls/War.for.the.Planet.of.the.Apes.2017.BDRip.1080p_720/playlist.m3u8
+#EXTINF:-1 ,Темная башня (2017)
+http://mn.kinoprofi.org/hls/The.Dark.Tower.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Сделано в Америке (2017)
+http://mn.kinoprofi.org/hls/Amerekan.made.2O17.P.HDTV.1O8OP_KOSHARA/playlist.m3u8
+#EXTINF:-1 ,Хорошее время (2017)
+http://mn.kinoprofi.org/hls/Good.Time.2O17.P.WEB-DL.1O8Oр/playlist.m3u8
+#EXTINF:-1 ,Эмоджи фильм (2017)
+http://mn.kinoprofi.org/hls/The.Emoji.Movie.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Счастливого дня смерти (2017)
+http://mn.kinoprofi.org/hls/Happy.Death.Day.d.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Банда котиков (2017)
+http://hls.kinoprofi.org/hls/Banda.kotikov.2015.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Роден (2017)
+http://hls.kinoprofi.org/hls/Rodin.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,чтобы свести счеты (2017)
+http://hls.kinoprofi.org/hls/Bad.Day.for.the.Cut.2017.P.WEB-DL.1O8Op/playlist.m3u8
+#EXTINF:-1 ,Никогда здесь не была (2017)
+http://hls.kinoprofi.org/hls/Never.Here.2017.WEBDL.720p/playlist.m3u8
+#EXTINF:-1 ,Воспоминания убийцы (2017)
+http://hls.kinoprofi.org/hls/Memoir.of.a.Murder.2017.WEBDL.720p/playlist.m3u8
+#EXTINF:-1 ,1922 (2017)
+http://hls.kinoprofi.org/hls/1922.2017.WEBDLRip.720p/playlist.m3u8
+#EXTINF:-1 ,Месть Человека-кролика (2017)
+http://hls.kinoprofi.org/hls/Bunnyman.Vengeance.2017.MVO.WEBDL.720p/playlist.m3u8
+#EXTINF:-1 ,Игровая площадка (2017)
+http://hls.kinoprofi.org/hls/igrovaya-ploschadka-2017-HDrip/playlist.m3u8
+#EXTINF:-1 ,Дом моих кошмаров (2017)
+http://hls.kinoprofi.org/hls/Bethany.2017.P.hdrip/playlist.m3u8
+#EXTINF:-1 ,Команда мечты (2016)
+http://hls.kinoprofi.org/hls/Komanda.Mechti_2016_HDRip/playlist.m3u8
+#EXTINF:-1 ,Лоурайдеры (2016)
+http://hls.kinoprofi.org/hls/Lowriders.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Не твоё тело (2017)
+http://mn.kinoprofi.org/hls/Ne.tvojo.telo.2O17.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мама (2017)
+http://hls.kinoprofi.org/hls/mama-2017/playlist.m3u8
+#EXTINF:-1 ,Венецианские львы (2016)
+http://hls.kinoprofi.org/hls/Leoni.2015HDRip/playlist.m3u8
+#EXTINF:-1 ,Вспомнить заново (2017)
+http://mn.kinoprofi.org/hls/Rememory.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Шкатулка (2017)
+http://hls.kinoprofi.org/hls/Shkatulka.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Побег из библиотеки мистера Лимончелло (2017)
+http://hls.kinoprofi.org/hls/pobeg-iz-biblioteki-mistera-limonchello-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Кровавый балет (2015)
+http://hls.kinoprofi.org/hls/Ballet.of.Blood.2016.P.HDrip/playlist.m3u8
+#EXTINF:-1 ,Техасская резня бензопилой: Кожаное лицо (2017)
+http://mn.kinoprofi.org/hls/Leatherface.2017.D.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 ,Рейс 1942 (2015)
+http://hls.kinoprofi.org/hls/Reis.1942.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Машина войны (2017)
+http://mn.kinoprofi.org/hls/War.Machine.2017.1080p.HDrip/playlist.m3u8
+#EXTINF:-1 ,Дом призраков (2017)
+http://hls.kinoprofi.org/hls/Dom.Prizrakov.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Стеклянный замок (2017)
+http://hls.kinoprofi.org/hls/The.Glass.Castle.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,План 9 (2015)
+http://hls.kinoprofi.org/hls/Plan.9.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Под водой (2015)
+http://hls.kinoprofi.org/hls/Pod.Vodoy.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лунатик (2017)
+http://hls.kinoprofi.org/hls/lunatik-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Где деньги (2017)
+http://hls.kinoprofi.org/hls/gde-dengi-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Истории семьи Майровиц (2017)
+http://hls.kinoprofi.org/hls/istorii-semi-mayrovic-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Лазарь (2015)
+http://hls.kinoprofi.org/hls/lazar-2015/playlist.m3u8
+#EXTINF:-1 ,Любым способом (2017)
+http://hls.kinoprofi.org/hls/lyubym-sposobom-2017/playlist.m3u8
+#EXTINF:-1 ,Жребий (2017)
+http://hls.kinoprofi.org/hls/zhrebiy-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Авантюристы (2017)
+http://hls.kinoprofi.org/hls/avantyuristy-2017-hd/playlist.m3u8
+#EXTINF:-1 ,Покрась это черным (2016)
+http://hls.kinoprofi.org/hls/dobav-chernogo-2016/playlist.m3u8
+#EXTINF:-1 ,Тим Талер (2017)
+http://hls.kinoprofi.org/hls/tim-taler-2017/playlist.m3u8
+#EXTINF:-1 ,Её тайна (2016)
+http://hls.kinoprofi.org/hls/ee-tayna-2016/playlist.m3u8
+#EXTINF:-1 ,Игра Джеральда (2017)
+http://mn.kinoprofi.org/hls/Geralds.Game.2017.BDrip.1080p/playlist.m3u8
+#EXTINF:-1 ,Принцесса-лягушка: Тайна волшебной комнаты (2017)
+http://mn.kinoprofi.org/hls/Princessa.lyagyshka.2017.D.HDRip-bez-reklami-perevod/playlist.m3u8
+#EXTINF:-1 ,Ложные признания (2017)
+http://hls.kinoprofi.org/hls/lozhnye-priznaniya-2016-hd-rekl/playlist.m3u8
+#EXTINF:-1 ,Франкенштейн (2015)
+http://hls.kinoprofi.org/hls/frankenshteyn-2015-HD-mnogogolos/playlist.m3u8
+#EXTINF:-1 ,Тачки 3 (2017)
+http://mn.kinoprofi.org/hls/Cars.3.2017.WEB-DL.1080p.ExKinoRay/playlist.m3u8
+#EXTINF:-1 ,Обветшалый (2015)
+http://hls.kinoprofi.org/hls/Obvetshalyj.2015.P.BDRip.1.46Gb_by_Twi7ter/playlist.m3u8
+#EXTINF:-1 ,Гэбриэл (2014)
+http://hls.kinoprofi.org/hls/Gabriel.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вредитель (2015)
+http://hls.kinoprofi.org/hls/Vreditel.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Моди (2016)
+http://hls.kinoprofi.org/hls/Modi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,3 вещи (2017)
+http://hls.kinoprofi.org/hls/3.Veshi.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Двуличный любовник (2017)
+http://mn.kinoprofi.org/hls/l.amant.double.2017.P.BDRip.72Op_Koshara/playlist.m3u8
+#EXTINF:-1 ,Антиматерия (2016)
+http://hls.kinoprofi.org/hls/AntiMateriya.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Звук (2017)
+http://hls.kinoprofi.org/hls/Zvuk.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Преисподняя (2017)
+http://hls.kinoprofi.org/hls/Preispodnya.2017.L1.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ежик Бобби: Колючие приключения (2017)
+http://mn.kinoprofi.org/hls/Ejik.bobi.Koluchie.priklucheniye.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Клятва (2017)
+http://hls.kinoprofi.org/hls/klyatva-2016-1080p/playlist.m3u8
+#EXTINF:-1 ,Акулий торнадо 5: Глобальное роение (2017)
+http://mn.kinoprofi.org/hls/Sharknado.5.global.swarming.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,6 дней (2017)
+http://mn.kinoprofi.org/hls/6.Days.2017.BDRip.1.46Gb.L.MegaPeer/playlist.m3u8
+#EXTINF:-1 ,Заклятье. Наши дни (2017)
+http://hls.kinoprofi.org/hls/zaklyate-nashi-dni-2017/playlist.m3u8
+#EXTINF:-1 ,Напарник (2017)
+http://hls.kinoprofi.org/hls/naparnik-2017/playlist.m3u8
+#EXTINF:-1 ,Мой убийца (2016)
+http://hls.kinoprofi.org/hls/moy-ubiyca-2016/playlist.m3u8
+#EXTINF:-1 ,Леди Макбет (2017)
+http://hls.kinoprofi.org/hls/ledi-makbet-2016/playlist.m3u8
+#EXTINF:-1 ,Над глубиной: Хроника выживания (2017)
+http://mn.kinoprofi.org/hls/Cage.Diver.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Улетные девочки (2017)
+http://mn.kinoprofi.org/hls/Uletnie.Devochki.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Холлеры (2016)
+http://hls.kinoprofi.org/hls/Holleri.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дом рассады (2017)
+http://hls.kinoprofi.org/hls/Dom.rassadi.l2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,История призрака (2017)
+http://hls.kinoprofi.org/hls/Istoriya.Prizraka.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Плохая партия (2016)
+http://hls.kinoprofi.org/hls/Plohaya.Partiya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ненависть (2017)
+http://hls.kinoprofi.org/hls/Nenavist.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Свадьба Уайлд (2017)
+http://hls.kinoprofi.org/hls/Svadba.Uayld.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Культ Чаки (2017)
+http://mn.kinoprofi.org/hls/Kult.Jaki.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Секс-Трип (2017)
+http://mn.kinoprofi.org/hls/Seks.Trip.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Капитан Подштанник: Первый эпический фильм (2017)
+http://mn.kinoprofi.org/hls/Kapitan.Podshatniki.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Восстание (2017)
+http://hls.kinoprofi.org/hls/Vosstaniye.L2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,От этого песок становится красным (2016)
+http://hls.kinoprofi.org/hls/Ot.etogo.pesok.krasnim.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вечеринка на яхте (2017)
+http://hls.kinoprofi.org/hls/Vecherinka.na.yahte.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Черчилль (2017)
+http://hls.kinoprofi.org/hls/Cherchill.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Красная таблетка (2016)
+http://hls.kinoprofi.org/hls/Krasnaya.Tabletka.2016.L2.HDrip/playlist.m3u8
+#EXTINF:-1 ,Дочь и мать её (2017)
+http://mn.kinoprofi.org/hls/Doch.i.Mat.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мистер Штайн идёт в онлайн (2017)
+http://mn.kinoprofi.org/hls/Mister.Shtayn.idet.v.onlain.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Атомика (2017)
+http://hls.kinoprofi.org/hls/Atomika.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чёрный снег (2017)
+http://hls.kinoprofi.org/hls/Jerniy.Sneg.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Последняя ярость (2017)
+http://hls.kinoprofi.org/hls/Poslednya.Yarost.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Жизнь продолжается (2015)
+http://hls.kinoprofi.org/hls/Jizn.Prodoljaetsya.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Книга Генри (2017)
+http://mn.kinoprofi.org/hls/The.Book.of.Henry.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Убить Гюнтера (2017)
+http://hls.kinoprofi.org/hls/Ubit.Guntera.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Любовь к большому городу (2016)
+http://hls.kinoprofi.org/hls/Lubov.k.bolshomy.gorodu.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Это – ваша смерть (2017)
+http://hls.kinoprofi.org/hls/Eto.vasha.smert.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Полина (2016)
+http://hls.kinoprofi.org/hls/Polina.2016.L1.HDRip/playlist.m3u8
+#EXTINF:-1 ,Король Гаваны (2015)
+http://mn.kinoprofi.org/hls/Korol.Gavani.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Очень плохие девчонки (2017)
+http://hls.kinoprofi.org/hls/Ochen.plohie.devchonki.2017.BDRip/playlist.m3u8
+#EXTINF:-1 ,Задом наперед (2015)
+http://hls.kinoprofi.org/hls/Zadom.Napered.2015.DVDRip/playlist.m3u8
+#EXTINF:-1 ,Бушвик (2017)
+http://mn.kinoprofi.org/hls/Bushvik.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Моя кузина Рэйчел (2017)
+http://mn.kinoprofi.org/hls/Moya.Kuzina.Reachel.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гнездо дракона 2: Трон эльфов (2016)
+http://mn.kinoprofi.org/hls/Gnezdo.Drakona.2.Tron.elfa.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тетрадь смерти (2017)
+http://mn.kinoprofi.org/hls/Death.Note.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дом (2017)
+http://mn.kinoprofi.org/hls/The.House.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Нерв (2016)
+http://mn.kinoprofi.org/hls/Nerv.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мумия (2017)
+http://mn.kinoprofi.org/hls/Mumiyie.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кто убил старину Робина (2017)
+http://hls.kinoprofi.org/hls/Kto.ubil.starinu.Robina.2017.hDRip/playlist.m3u8
+#EXTINF:-1 ,Сердце дракона 4 (2017)
+http://hls.kinoprofi.org/hls/Serdce.Drakona.4.HDRip.2017/playlist.m3u8
+#EXTINF:-1 ,Бог войны (2017)
+http://hls.kinoprofi.org/hls/Bog.Voynii.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Скрижали судьбы (2017)
+http://mn.kinoprofi.org/hls/Skrijali.Sudbi.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Стражи Галактики. Часть 2 (2017)
+http://mn.kinoprofi.org/hls/Stragi.Galaktiki.2.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Звёздный десант: Предатель Марса (2017)
+http://mn.kinoprofi.org/hls/Zvezdni.Desant.Predatel.Marsa.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Норман: Умеренный взлет и трагическое падение нью-йоркского посредника (2017)
+http://hls.kinoprofi.org/hls/Norman.Umerenniy.Vzlet.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Темный рассвет (2016)
+http://mn.kinoprofi.org/hls/Temniy.Rassvet.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Несколько женщин (2016)
+http://mn.kinoprofi.org/hls/Neskolko.jenjin.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чё за..! (2017)
+http://mn.kinoprofi.org/hls/Che.za.2017.wtf.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Удивительный Волшебник из Лапы (2015)
+http://mn.kinoprofi.org/hls/Udivitelniy.VOlshebnik.iz.Lapi.L1.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гадкий я 3 (2017)
+http://mn.kinoprofi.org/hls/Gadkiy.Ya.3.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Связь (2015)
+http://hls.kinoprofi.org/hls/Svyaz.2013.HDRip/playlist.m3u8
+#EXTINF:-1 ,Развод по-французски (2017)
+http://mn.kinoprofi.org/hls/Razvod.po.Francuzki.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сырое (2016)
+http://hls.kinoprofi.org/hls/Siroe.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тихий приют (2016)
+http://hls.kinoprofi.org/hls/Tihiy.Priut.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Трансфигурация (2017)
+http://hls.kinoprofi.org/hls/Transfiguraciya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Одержимость (2016)
+http://hls.kinoprofi.org/hls/Oderjimost.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дэйв сделал лабиринт (2017)
+http://mn.kinoprofi.org/hls/Dave.Made.a.Maze.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Аннабель Хупер и призраки Нантакета (2016)
+http://hls.kinoprofi.org/hls/Annabel.Huber.Prizraki.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Шакалы (2017)
+http://hls.kinoprofi.org/hls/Shakali.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Их звездный час (2016)
+http://hls.kinoprofi.org/hls/Ih.zvezdniy.jas.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Стоянка (2017)
+http://hls.kinoprofi.org/hls/Stoyanka.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+http://mn.kinoprofi.org/hls/Piratiyo.Karib.P.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мой ангел (2017)
+http://hls.kinoprofi.org/hls/Moy.Angel.P.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Акулий торнадо 4: Пробуждение (2016)
+http://hls.kinoprofi.org/hls/Akuliy.Tornado.4.Probujdeniye.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лобановский навсегда (2017)
+http://hls.kinoprofi.org/hls/Lobanovskiy.Navsegda.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Зеленая комната (2015)
+http://mn.kinoprofi.org/hls/Zelenaya.Komnata.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Волки (2016)
+http://hls.kinoprofi.org/hls/Volkii.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Голышом (2017)
+http://mn.kinoprofi.org/hls/Golishom.P.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,1+1. Нарушая правила (2017)
+http://mn.kinoprofi.org/hls/Odin.plus.odin.Naryshaya.Pravila.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,затаившийся дракон: Меч судьбы (2016)
+http://hls.kinoprofi.org/hls/Kradushiysya.Tigr.Zataivshiysya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Пустынная бухта (2016)
+http://hls.kinoprofi.org/hls/Pustinaya.Buhta.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вспомнить всё: Похищение / Возвращение (2017)
+http://hls.kinoprofi.org/hls/Vspomnit.Vsyo.Pohishenie.L2.2017.HDDRip/playlist.m3u8
+#EXTINF:-1 ,Как быть латинским любовником (2017)
+http://hls.kinoprofi.org/hls/Kak.bit.Latinskim.Lyubovnikom.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бильярдная братия (2016)
+http://hls.kinoprofi.org/hls/Biliardnaya.Bratiya.l2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Требуется водитель (2016)
+http://hls.kinoprofi.org/hls/Trebuyetsa.Voditel.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Грязная ложь (2016)
+http://hls.kinoprofi.org/hls/Gryaznaya.Loj.L2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Контракт на убийство (2016)
+http://hls.kinoprofi.org/hls/Kontrakt.na.Ubiystvo.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Пробуждение Зодиака (2017)
+http://hls.kinoprofi.org/hls/Probujdeniye.Zodiaka.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Война волков (2015)
+http://mn.kinoprofi.org/hls/Voyna.Volkov.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ловкость (2016)
+http://mn.kinoprofi.org/hls/Lovkost.2016.P.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Меган Ливи (2017)
+http://hls.kinoprofi.org/hls/Megan.Livi.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лимон (2017)
+http://hls.kinoprofi.org/hls/Limon.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Черный кот Рудольф (2016)
+http://hls.kinoprofi.org/hls/Jil.bil.Kot.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Контракт (2015)
+http://hls.kinoprofi.org/hls/Kontrakt.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Пугающая кампания (2016)
+http://hls.kinoprofi.org/hls/Pugayushaya.Kompaniya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Город тусклых огней (2016)
+http://hls.kinoprofi.org/hls/Gorod.tusklih.Ogney.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Стена (2017)
+http://hls.kinoprofi.org/hls/Stena.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Уик-энд всех девушек (2015)
+http://hls.kinoprofi.org/hls/UikEnd.Vshe.Devushek.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Боке (2017)
+http://hls.kinoprofi.org/hls/Bokeh.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Охранник (2017)
+http://hls.kinoprofi.org/hls/Ohrannikk.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Первое убийство (2017)
+http://hls.kinoprofi.org/hls/Pervoe.Ubiystvo.2017.HDRip.P/playlist.m3u8
+#EXTINF:-1 ,Студент (2017)
+http://hls.kinoprofi.org/hls/Student.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Последняя семья (2016)
+http://hls.kinoprofi.org/hls/Poslednya.Semya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Прочь (2017)
+http://mn.kinoprofi.org/hls/Proch.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Горы и камни (2017)
+http://hls.kinoprofi.org/hls/Gori.i.Kamni.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Невероятная Джессика Джеймс (2017)
+http://hls.kinoprofi.org/hls/Neveroyatnaya.Djessica.Djames.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чудеса в Париже (2017)
+http://mn.kinoprofi.org/hls/Judesa.v.Parije.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ограды (2016)
+http://mn.kinoprofi.org/hls/Ogradi.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Этажом ниже (2015)
+http://hls.kinoprofi.org/hls/Etajom.Nije.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Передельщик (2017)
+http://hls.kinoprofi.org/hls/Kill.Switch.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Непостижимое (2017)
+http://hls.kinoprofi.org/hls/Nepostejimoye.L2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лего Скуби-ду: Улетный пляж (2017)
+http://hls.kinokrad.co/hls/Lego.Scoobi.Doo.Uletniy.2017.L2.HDRip./playlist.m3u8
+#EXTINF:-1 ,Мисс Стивенс (2016)
+http://hls.kinoprofi.org/hls/Miss.Stivens.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ласточки и амазонки (2016)
+http://hls.kinoprofi.org/hls/Lastochki.i.amazonki.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Зеро 3 (2017)
+http://hls.kinoprofi.org/hls/Zero.3.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Телейос (2017)
+http://mn.kinoprofi.org/hls/Teleios.L2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Восстановление (2016)
+http://hls.kinoprofi.org/hls/Vosstanovleniye.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Невидимый гость (2016)
+http://hls.kinoprofi.org/hls/Nevidimiy.Gost.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Безумные соседи (2017)
+http://hls.kinoprofi.org/hls/Bezumnue.Sosedi.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Манифесто (2017)
+http://hls.kinoprofi.org/hls/Manifesto.2016.L2.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Форсаж 8 (2017)
+http://mn.kinoprofi.org/hls/Forsagigke.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Всё или ничего (2017)
+http://hls.kinoprofi.org/hls/Vsyo.ili.Nichego.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Встреча выпускников 3: Крестины (2016)
+http://hls.kinoprofi.org/hls/Vstrecha.Vipusknikov.3.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Питбуль. Новые порядки (2016)
+http://hls.kinoprofi.org/hls/Pitbul.Novie.Poryadki.2016.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Обитель зла: Вендетта (2017)
+http://mn.kinoprofi.org/hls/Resident.Evil.Vendetta.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мистер Шесть (2015)
+http://hls.kinoprofi.org/hls/Mister.Shest.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Безбашенный Ник (2016)
+http://hls.kinoprofi.org/hls/Bezbasheniy.Nik.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Блэкберн (2015)
+http://hls.kinoprofi.org/hls/BlackBurn.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Нам нужно поговорить (2016)
+http://hls.kinoprofi.org/hls/Nam.Nujno.Pogovorit.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Слепец (2017)
+http://hls.kinoprofi.org/hls/Slepec.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Я и ты (2017)
+http://hls.kinoprofi.org/hls/Ya.u.tiy.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Хэвенхёрст (2017)
+http://hls.kinoprofi.org/hls/Havenhurst.L2.HDRip.2016/playlist.m3u8
+#EXTINF:-1 ,По ту сторону надежды (2017)
+http://hls.kinoprofi.org/hls/Po.tu.storonu.nadejdi.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бараны (2015)
+http://mn.kinoprofi.org/hls/Barani.2015.P.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Уилсон (2017)
+http://hls.kinoprofi.org/hls/Uilson.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дамское чтиво (2016)
+http://mn.kinoprofi.org/hls/Damskoe.Chtivo.L21.HDRip/playlist.m3u8
+#EXTINF:-1 ,Во всем виноват енот (2017)
+http://mn.kinoprofi.org/hls/Vo.Vsem.Vinovatr.Enotishe.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Саутсайд с тобой (2016)
+http://hls.kinoprofi.org/hls/Sautsayt.s.toboy.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Офицер Доун (2016)
+http://hls.kinoprofi.org/hls/Oficer.Daun.2016.L1.HDRip/playlist.m3u8
+#EXTINF:-1 ,Корпорация «Страх» (2016)
+http://hls.kinoprofi.org/hls/Korporaciya.Strah.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Резня на мельнице (2016)
+http://hls.kinoprofi.org/hls/Reznya.na.Melnice.L1.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Я не серийный убийца (2016)
+http://hls.kinoprofi.org/hls/Ya.ne.seriyniy.ubiyca.L1.2016.HRip/playlist.m3u8
+#EXTINF:-1 ,Столик №19 (2017)
+http://hls.kinoprofi.org/hls/Stolik.19.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Антропоид (2016)
+http://mn.kinoprofi.org/hls/Anthropoid.2016.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Живое (2017)
+http://mn.kinoprofi.org/hls/Jivoe.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,любимая (2016)
+http://hls.kinoprofi.org/hls/Klyanus.toboy.lubimaya.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Моя земля (2016)
+http://hls.kinoprofi.org/hls/Moya.zemlya.20115.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Институт (2017)
+http://mn.kinoprofi.org/hls/Institutishe.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Одарённая (2017)
+http://mn.kinoprofi.org/hls/Odatenaya.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Найденные в Остине (2017)
+http://mn.kinoprofi.org/hls/Naydeniye.v.ostine.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Наследники 2 (2017)
+http://hls.kinoprofi.org/hls/Nasledniki.2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кусо (2017)
+http://hls.kinoprofi.org/hls/Kuso.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Спецназ: В осаде (2017)
+http://hls.kinoprofi.org/hls/Speznac.v.Osade.2017.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Хижина (2017)
+http://mn.kinoprofi.org/hls/Hijina.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Гиппопотам (2017)
+http://mn.kinoprofi.org/hls/Gippopatamm.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вскармливание (2017)
+http://hls.kinoprofi.org/hls/Vskarmlivaniye.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Озеро Элис (2017)
+http://hls.kinoprofi.org/hls/Ozero.Elis.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Жизнь (2017)
+http://hls.kinoprofi.org/hls/Jizn.Life.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Джек отправляется домой (2016)
+http://mn.kinoprofi.org/hls/Jack.Otpravlyaetsa.Domoy.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Я и мои друзья против зомби-апокалипсиса (2015)
+http://hls.kinoprofi.org/hls/Me.and.My.Mates.vs.The.Zombie.Apocalypse.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Любовь (2017)
+http://hls.kinoprofi.org/hls/Lubov.Amar.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Это всего лишь конец света (2016)
+http://mn.kinoprofi.org/hls/Eto.vsego.konec.sveta.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вечно молодой (2017)
+http://mn.kinoprofi.org/hls/Vechno.Molodoy.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Почетный гражданин (2017)
+http://mn.kinoprofi.org/hls/Pochetniy.Gragdanin.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Зип и Зап на острове Капитана (2016)
+http://hls.kinoprofi.org/hls/Zip.Zap.Na.ostrove.Kapitana.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,11:55 (2016)
+http://hls.kinoprofi.org/hls/Odinadcat.55.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Война дронов (2016)
+http://hls.kinoprofi.org/hls/Voyna.Dronov.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Последнее лицо (2016)
+http://hls.kinoprofi.org/hls/Poslednee.Lico.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,который боялся заката (2014)
+http://hls.kinoprofi.org/hls/Gorod.Boyalsa.zakataa.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Эксперимент Belko (2017)
+http://mn.kinoprofi.org/hls/The.belko.experiment.2016.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Том и Джерри: Вилли Вонка и шоколадная фабрика (2017)
+http://mn.kinoprofi.org/hls/Tom.i.Jeri.Vili.Vonk.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Аврил и поддельный мир (2015)
+http://mn.kinoprofi.org/hls/Avril.i.poddelniy.mir.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сладкая жизнь (2016)
+http://mn.kinoprofi.org/hls/Sladkaya.Jizn.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дрон (2017)
+http://mn.kinoprofi.org/hls/Dron.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Фабрика футбольных хулиганов (2015)
+http://mn.kinoprofi.org/hls/Fabrika.futbolnih.huliganov.2014.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мегрэ расставляет сети (2016)
+http://mn.kinoprofi.org/hls/Megre.rasstavlyaet.seti.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ларри Гэй: Стюард-отступник / Суперстюард (2017)
+http://mn.kinoprofi.org/hls/Lari.Stuard.Otstupnik.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Томбой (2017)
+http://mn.kinoprofi.org/hls/Tomboy.P.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Седьмой пациент (2016)
+http://mn.kinoprofi.org/hls/Sedmoy.Pacient.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сахара (2017)
+http://mn.kinoprofi.org/hls/Sahara.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Блам! (2017)
+http://mn.kinoprofi.org/hls/Blam.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Плохое сердце Бастера (2016)
+http://mn.kinoprofi.org/hls/Plohoe.Serdce.Bastera.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сальный душитель (2016)
+http://mn.kinoprofi.org/hls/Salniy.Dushitel.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Отвергнутая (2016)
+http://mn.kinoprofi.org/hls/Otvergnytaya.L2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Конец дня (2016)
+http://mn.kinoprofi.org/hls/Konec.dnya.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Босс-молокосос (2017)
+http://mn.kinoprofi.org/hls/Boss.Molokosos.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Влюбленные и медведь (2017)
+http://mn.kinoprofi.org/hls/Vlubka.i.Medved.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Телохранитель (2016)
+http://mn.kinoprofi.org/hls/Telohrenitel.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Темный странник (2015)
+http://mn.kinoprofi.org/hls/Temniy.Strannik.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Я знаю ты там (2016)
+http://mn.kinoprofi.org/hls/Ya.znau.ti.tam.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Когда я снова проживу свою жизнь (2015)
+http://mn.kinoprofi.org/hls/Kogda.ya.snova.Projivu.P.2015.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Пакт 2 (2014)
+http://mn.kinoprofi.org/hls/Pakt.2.P.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,В фокусе (2016)
+http://mn.kinoprofi.org/hls/V.Fokuse.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Поваренная книга алхимика (2016)
+http://mn.kinoprofi.org/hls/Povarenaya.Kniga.Alhimika.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Черная бабочка (2017)
+http://mn.kinoprofi.org/hls/Chernaya.Babochka.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Калифорнийский дорожный патруль (2017)
+http://mn.kinoprofi.org/hls/Kaliforniyskiy.Dorojniy.Patril.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Альфа и Омега: Путешествие в медвежье королевство (2017)
+http://mn.kinoprofi.org/hls/Alfa.i.Omega.Korolevstvo.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Злодей (2014)
+http://mn.kinoprofi.org/hls/Zlodej.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,Песня за песней (2017)
+http://mn.kinoprofi.org/hls/Song.To.Song.2017.P.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Челюсть (2017)
+http://hls.kinoprofi.org/hls/Jelust.2017.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Влюбленные одиночки (2017)
+http://mn.kinoprofi.org/hls/Sex.Doll.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Один безумный круиз (2015)
+http://mn.kinoprofi.org/hls/Odin.Bezumnii.Kruiz.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Человек-комар (2016)
+http://hls.kinoprofi.org/hls/Jelovek.Komar.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Возьми меня штурмом (2017)
+http://mn.kinoprofi.org/hls/Vozmi.Menya.Jturmom.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мальчишник в Паттайе (2017)
+http://mn.kinoprofi.org/hls/Malchishnik.v.Pataiye.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Джеки (2017)
+http://mn.kinoprofi.org/hls/Djakie.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Пассажиры (2016)
+http://mn.kinoprofi.org/hls/Passagiri.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Великая стена (2017)
+http://mn.kinoprofi.org/hls/The.Great.Wall.2016.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Одни (2017)
+http://hls.kinoprofi.org/hls/Odni.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ограбление в Хаттон Гарден (2017)
+http://hls.kinoprofi.org/hls/Ogrableniye.v.Haton.Garden.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Не вешайте трубку (2016)
+http://mn.kinoprofi.org/hls/Ne.Veshayte.Trubku.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Логан (2017)
+http://mn.kinoprofi.org/hls/Loganishe.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мохаве (2015)
+http://mn.kinoprofi.org/hls/Mohave.2015.P.DRip/playlist.m3u8
+#EXTINF:-1 ,Тимбукту (2014)
+http://mn.kinoprofi.org/hls/Timbuktu.2014.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кооперация (2017)
+http://hls.kinoprofi.org/hls/Kooperaciya.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Исключение (2016)
+http://hls.kinoprofi.org/hls/Isklucheniye.2016.HDrip/playlist.m3u8
+#EXTINF:-1 ,Премьера (2016)
+http://hls.kinoprofi.org/hls/Premiera.2016.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Обдолбанный в Бруклине (2016)
+http://hls.kinoprofi.org/hls/Obdolbaniy.v.brookline.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Никита Кожемяка (2017)
+http://mn.kinoprofi.org/hls/Nikita.Kojemyaka.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вымогательство (2017)
+http://mn.kinoprofi.org/hls/Vimogatelstvo.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Красавица и чудовище (2017)
+http://mn.kinoprofi.org/hls/Krasavica.i.Judovsihe.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Жизнь кабачка (2017)
+http://hls.kinoprofi.org/hls/Jizn.Kabachka.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Рейд: Пуля в голове (2017)
+http://mn.kinoprofi.org/hls/Reid.Pulya.v.GOlove.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Король бельгийцев (2017)
+http://hls.kinoprofi.org/hls/Korol.Belgiycev.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,приключение продолжается (2015)
+http://hls.kinoprofi.org/hls/Belle.i.Sebastian.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Захочу и соскочу (2017)
+http://hls.kinoprofi.org/hls/Zahochu.i.Soskochu.2017.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Дуэль братьев. История Adidas и Puma (2016)
+http://hls.kinoprofi.org/hls/Duel.Bratiev.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Прикончи их всех (2017)
+http://hls.kinoprofi.org/hls/Prikonchi.ih.Vseh.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Битва преподов (2017)
+http://mn.kinoprofi.org/hls/Bitva.Prepodov.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Альтернативные реальности (2015)
+http://mn.kinoprofi.org/hls/Alternativniye.Realnosti.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мы продолжаем (2016)
+http://mn.kinoprofi.org/hls/Mi.Prodoljaem.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Железнодорожные тигры (2016)
+http://mn.kinoprofi.org/hls/Jeleznodorojniye.Tigry.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Первенец (2016)
+http://mn.kinoprofi.org/hls/Pervenec.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Рождение нации (2017)
+http://mn.kinoprofi.org/hls/Rojdeniye.Nacii.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Однажды в Германии (2017)
+http://mn.kinoprofi.org/hls/Odnajdi.v.Germanii.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Северянин (2016)
+http://hls.kinoprofi.org/hls/Severyanin.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лавинг (2016)
+http://hls.kinoprofi.org/hls/Loving.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кукурузный остров (2014)
+http://hls.kinoprofi.org/hls/Kukuruzniy.Ostrov.L2.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,Реальная цена моды (2015)
+http://mn.kinoprofi.org/hls/Realnaya.Cena.Modi.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мина (2016)
+http://hls.kinoprofi.org/hls/Mina.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бонобо (2014)
+http://hls.kinoprofi.org/hls/Bonodo.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бык из Бронкса (2016)
+http://hls.kinoprofi.org/hls/Bik.iz.Bronksa.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Против природы 2: Выжить в Серенгети (2016)
+http://mn.kinoprofi.org/hls/Protiv.Pridio.2.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Поркпай (2017)
+http://mn.kinoprofi.org/hls/Pork.Pie.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Трио в перьях (2017)
+http://mn.kinoprofi.org/hls/Trio.v.Periah.2017.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Железное поколение 2 (2017)
+http://hls.kinoprofi.org/hls/Jeleznoye.Pokoleniye.2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Золотые годы (2016)
+http://hls.kinoprofi.org/hls/Zolotie.Godi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лекарство от здоровья (2017)
+http://mn.kinoprofi.org/hls/Llekarstvo.ot.Zdoroviya.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ученик мастера (2016)
+http://hls.kinoprofi.org/hls/Uchenik.Mastera.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Женщины ХХ века (2016)
+http://mn.kinoprofi.org/hls/Jenjini.20.Veka.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Голос из камня (2017)
+http://mn.kinoprofi.org/hls/Golos.iz.Kamniya.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Диван Сталина (2016)
+http://mn.kinoprofi.org/hls/Divano.Stalino.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Фильм Спасение (2015)
+http://mn.kinoprofi.org/hls/Spaseniye.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Соединенные штаты любви (2016)
+http://hls.kinoprofi.org/hls/Soedineniye.Shtati.Lubvi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Винсент и Рокси (2016)
+http://hls.kinoprofi.org/hls/Vincent.i.Roxi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Робопёс. Авиационный (2017)
+http://hls.kinoprofi.org/hls/RoboDog.Aviacioniy.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Вырой две могилы (2014)
+http://hls.kinoprofi.org/hls/Viroy.Dve.Mogili.2014.HDRip/playlist.m3u8
+#EXTINF:-1 ,В лесах Сибири (2016)
+http://hls.kinoprofi.org/hls/V.Lesah.Sibiri.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чёрная комната (2016)
+http://hls.kinoprofi.org/hls/Chernaya.Komnata.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Только на одну ночь (2016)
+http://hls.kinoprofi.org/hls/Tolko.na.odnu.Noch.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Последнее слово (2017)
+http://hls.kinoprofi.org/hls/Poslednee.Slovo.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,128 ударов сердца в минуту (2015)
+http://mn.kinoprofi.org/hls/128.Udarov.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Зона 51 (2015)
+http://mn.kinoprofi.org/hls/Zona.51.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Путь на юг (2017)
+http://mn.kinoprofi.org/hls/Put.na.Ug.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,День патриота (2016)
+http://mn.kinoprofi.org/hls/Den.Patriota.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бун: Охотник за головами (2017)
+http://hls.kinoprofi.org/hls/Bun.Ohotnik.za.Golovami.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Столица похищений (2016)
+http://hls.kinoprofi.org/hls/Stolica.Pohisheniy.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Видели ночь (2017)
+http://mn.kinoprofi.org/hls/Videli.Noch.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Смертельное пробуждение (2016)
+http://hls.kinoprofi.org/hls/Smertelnoye.Probujdeniye.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Красавчик (2017)
+http://hls.kinoprofi.org/hls/Krasavchik.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Эволюция 626-й (2017)
+http://hls.kinoprofi.org/hls/Evoluciya.626.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Жизнь на этих скоростях (2017)
+http://hls.kinoprofi.org/hls/Jizn.na.Etih.Skorostyah.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Всегда сияй (2016)
+http://hls.kinoprofi.org/hls/Vsegda.Siyai.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Форсаж ярости (2017)
+http://hls.kinoprofi.org/hls/Forsag.Yarosti.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Маленькие мужчины (2016)
+http://hls.kinoprofi.org/hls/Malenkiye.Mujini.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Транс-Пекос (2016)
+http://mn.kinoprofi.org/hls/Trans.Pekos.2016.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Т2 Трейнспоттинг / На игле 2 (2017)
+http://mn.kinoprofi.org/hls/Na.Igle.2.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,На пятьдесят оттенков темнее (2017)
+http://mn.kinoprofi.org/hls/Na.Petdesyat.Ottenkov.Temnee.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Отступление (2015)
+http://mn.kinoprofi.org/hls/Otstupleniye.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Соль и пламя (2016)
+http://hls.kinoprofi.org/hls/Sol.i.Plamya.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ирис (2016)
+http://hls.kinoprofi.org/hls/Iris.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кража (2017)
+http://hls.kinoprofi.org/hls/Kraja.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Макс 2: Герой Белого Дома (2017)
+http://hls.kinoprofi.org/hls/Maks.2.Geroy.Belogo.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Коробочки (2017)
+http://hls.kinoprofi.org/hls/Korobochki.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Страна улыбок (2017)
+http://hls.kinoprofi.org/hls/Strana.Ulibok.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Собачья жизнь (2017)
+http://hls.kinoprofi.org/hls/Sobachya.Jizn.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Если б я была мужчиной (2017)
+http://mn.kinoprofi.org/hls/Esli.b.ya.bila.Mujinoy.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Идеаль (2017)
+http://mn.kinoprofi.org/hls/Ideal.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Комик (2017)
+http://mn.kinoprofi.org/hls/Komik.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Плесень с планеты Ксонадер (2015)
+http://mn.kinoprofi.org/hls/The.Mildew.from.Planet.Xonader.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бику (2015)
+http://mn.kinoprofi.org/hls/Biku.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Темная сторона Луны (2015)
+http://mn.kinoprofi.org/hls/Die.dunkle.Seite.des.Mondes.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Лондон 1920 (2016)
+http://mn.kinoprofi.org/hls/London.1920.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Летний лагерь (2015)
+http://mn.kinoprofi.org/hls/Summer.Camp.2015.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Доверие (2016)
+http://mn.kinoprofi.org/hls/Doverie.2O16.D.HDRip/playlist.m3u8
+#EXTINF:-1 ,Арес (2016)
+http://mn.kinoprofi.org/hls/Ares.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Микроб и Бензин (2015)
+http://mn.kinoprofi.org/hls/Mikrob.i.Benzin.2015.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Лайкни меня (2016)
+http://mn.kinoprofi.org/hls/Laikni.Menya.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Терродактиль (2016)
+http://mn.kinoprofi.org/hls/Terrordactyl.2016.L2.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Сезон охоты (2016)
+http://mn.kinoprofi.org/hls/Fair.Chase.2016.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Праведник в маске (2016)
+http://mn.kinoprofi.org/hls/Pravednik.v.Maske.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Большой толстый лгун 2 (2017)
+http://mn.kinoprofi.org/hls/Bolshoy.Tolstiy.Lgun.2.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тень (2017)
+http://hls.kinoprofi.org/hls/The.Shadow.Effect.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ип Ман 3 (2015)
+http://mn.kinoprofi.org/hls/Yip.Man.3.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Прикосновение огнем (2015)
+http://mn.kinoprofi.org/hls/Touched.with.Fire.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Убей или умри (2015)
+http://mn.kinoprofi.org/hls/Kill.or.Be.Killed.2015.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Киану (2016)
+http://mn.kinoprofi.org/hls/Kianu.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Воскрешение Гевина Стоуна (2017)
+http://hls.kinoprofi.org/hls/Voskreshenie.Gevina.Stouna.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Озабоченный (2017)
+http://hls.kinoprofi.org/hls/Ozabocheniy.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кем мы становимся (2015)
+http://mn.kinoprofi.org/hls/Sorgenfri.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Хранитель тьмы (2015)
+http://mn.kinoprofi.org/hls/Keeper.of.Darkness.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Биркебейнеры (2016)
+http://mn.kinoprofi.org/hls/Birkebeinerne.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мой Ангел-Хранитель (2016)
+http://mn.kinoprofi.org/hls/Moy.Angel.Hranitel.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Молодой Мессия (2016)
+http://mn.kinoprofi.org/hls/Molodoy.Messia.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Киборг X (2016)
+http://mn.kinoprofi.org/hls/Cyborg.X.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,В тисках (2015)
+http://mn.kinoprofi.org/hls/Gridlocked.2015.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Ночной сторож (2016)
+http://hls.kinoprofi.org/hls/Nojnoy.Storoj.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Призраки Элоиз (2017)
+http://mn.kinoprofi.org/hls/Prizraki.Eloiz.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Жуткая история (2017)
+http://hls.kinoprofi.org/hls/Jutkaya.Istoriya.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Массовое убийство в Виллиске (2016)
+http://hls.kinoprofi.org/hls/Massovoye.Ubiystvo.v.Villiske.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Скрытые фигуры (2017)
+http://mn.kinoprofi.org/hls/Skritie.Figuri.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Не убивай его (2016)
+http://hls.kinoprofi.org/hls/Ne.Ubivay.Ego.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Чосонский маг (2015)
+http://mn.kinoprofi.org/hls/The.Magician.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Принимаем только наличные (2015)
+http://mn.kinoprofi.org/hls/Cash.Only.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мифика: Некромант (2015)
+http://mn.kinoprofi.org/hls/Mifika.Nekromant.2015.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Беглецы от времени (2016)
+http://mn.kinoprofi.org/hls/Siganitalja.2016.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Сумрак (2015)
+http://mn.kinoprofi.org/hls/Dusk.2015.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Редукторы (2016)
+http://mn.kinoprofi.org/hls/Reduktori.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сорняки в огне (2016)
+http://hls.kinoprofi.org/hls/Sornyaki.v.Ogne.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Путешествие на Запад: Демоны (2017)
+http://hls.kinoprofi.org/hls/Puteshestvie.na.Zapad.Demoni.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Ночные охранники (2017)
+http://hls.kinoprofi.org/hls/Nojniye.Ohraniki.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Сплит (2017)
+http://mn.kinoprofi.org/hls/Split.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Основатель (2016)
+http://mn.kinoprofi.org/hls/Osnovatel.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Клинический случай (2017)
+http://mn.kinoprofi.org/hls/Klinicheskiy.Sluchay.20017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Три воспоминания моей юности (2015)
+http://hls.kinoprofi.org/hls/Trie.Vospominaniya.moye.Unosti.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Хроник (2015)
+http://hls.kinoprofi.org/hls/Hronik.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тараз (2016)
+http://hls.kinoprofi.org/hls/Taraz.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Снайпер: Специальный отряд (2016)
+http://mn.kinoprofi.org/hls/Sniper.Special.Ops.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Специальные корреспонденты (2016)
+http://mn.kinoprofi.org/hls/Special.Correspondents.2016.HDRip.L2/playlist.m3u8
+#EXTINF:-1 ,Азиатский связной (2016)
+http://mn.kinoprofi.org/hls/The.Asian.Connection.2016.L2.HDRIp/playlist.m3u8
+#EXTINF:-1 ,Шальное ранение (2015)
+http://mn.kinoprofi.org/hls/Shalnoye.Raneniye.2015.HDRip/playlist.m3u8
+#EXTINF:-1 ,Манхэттенская ночь (2016)
+http://mn.kinoprofi.org/hls/Manhetenskaya.Noch.2016.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Искры и угольки (2015)
+http://mn.kinoprofi.org/hls/Iskri.i.Ugolki.2015.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Мисс Слоун (2016)
+http://mn.kinoprofi.org/hls/Miss.SLoun.2016.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Смертельные гонки 2050 (2016)
+http://mn.kinoprofi.org/hls/Smertleniye.Gonki.2050.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,Обитель зла: Последняя глава (2017)
+http://mn.kinoprofi.org/hls/Obitel.Zla.Posled.Glava.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Тёмные киноплёнки (2017)
+http://hls.kinoprofi.org/hls/Temniye.Kinoplenki.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Волки у двери (2016)
+http://hls.kinoprofi.org/hls/Volki.u.Dveri.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кубо. Легенда о самурае (2016)
+http://mn.kinoprofi.org/hls/Kubo.Legenda.o.Samurae.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Хакер (2015)
+http://mn.kinoprofi.org/hls/Hacker.2014.L2.HDRip/playlist.m3u8
+#EXTINF:-1 ,Кроссы (2016)
+http://hls.kinoprofi.org/hls/Krosi.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Бойцовский женский клуб (2016)
+http://hls.kinoprofi.org/hls/Boycovskiy.Jenskiy.Klub.2016.HDRip/playlist.m3u8
+#EXTINF:-1 ,Нейл Страйкер и тиран времени (2017)
+http://hls.kinoprofi.org/hls/Neil.Straiker.i.Tiran.Vremeni.2017.HDRip/playlist.m3u8
+#EXTINF:-1 ,Стрэттон: Первое задание (2017)
+http://mn.kinoprofi.org/hls/Stratton.2017.P.HDRip/playlist.m3u8
+#EXTINF:-1 ,A1 HD
+http://109.248.236.41:4433/udp/238.1.1.97:1234
+#EXTINF:-1 ,A2
+http://ott-cdn.ucom.am/s33/03.m3u8
+#EXTINF:-1 ,A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 ,A2
+http://92.43.140.249/s33/04.m3u8
+#EXTINF:-1 ,A2
+http://stream.euroasia.lfstrm.tv/amedia_2/1/index.m3u8
+#EXTINF:-1 ,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1 ,A2
+http://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1 ,A2
+http://ott-cdn.ucom.am/s33/01.m3u8
+#EXTINF:-1 ,CTC-LOVE+0
+http://178.159.52.230:34040/udp/239.255.11.88:1234
+#EXTINF:-1 ,Enter Film
+http://46.37.210.19:34040/udp/238.39.40.94:5000
+#EXTINF:-1 ,Kino TV
+http://109.171.48.206:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Kino TV
+http://83.246.208.142:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Kino TV
+http://83.246.208.36:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Kino TV
+http://83.246.207.183:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Kino TV
+http://83.246.203.138:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Kino TV
+http://178.159.52.230:34040/udp/239.255.11.30:1234
+#EXTINF:-1 ,Kino TV
+http://83.246.208.8:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,MGM
+http://128.72.51.4:4022/udp/233.33.210.193:5050
+#EXTINF:-1 ,MGMHD
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/209/index.m3u8
+#EXTINF:-1 ,MGMHD
+http://830a5f58.ottv.biz/iptv/Y47CBW6AEW7296/915/209/index.m3u8
+#EXTINF:-1 ,Muzhskoe Kino
+http://83.246.203.138:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Muzhskoe Kino
+http://83.246.208.8:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Muzhskoe Kino
+http://109.171.48.206:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Muzhskoe Kino
+http://83.246.208.142:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Muzhskoe Kino
+http://83.246.208.36:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,MUZHSKOE KINO
+http://83.246.207.183:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Paramount Channel
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+#EXTINF:-1 ,Rus Roman
+http://83.246.178.37:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Rus Roman
+http://109.171.48.206:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,RUS ROMAN
+http://83.246.248.212:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.142:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.203.138:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.8:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.8:81/udp/239.54.6.172:1234
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.178.37:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.142:81/udp/239.54.6.172:1234
+#EXTINF:-1 ,Russkiy Bestseller
+http://109.171.48.206:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.203.138:81/udp/239.54.6.172:1234
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.207.183:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.36:81/udp/239.54.6.172:1234
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.208.36:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Russkiy Bestseller
+http://83.246.207.183:81/udp/239.54.6.172:1234
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.208.8:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.203.138:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.178.37:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.208.36:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.208.142:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://109.171.48.206:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.207.183:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Russkiy detektiv
+http://83.246.178.37:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Sony
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+#EXTINF:-1 ,Sony
+http://158.46.88.95:4022/udp/239.255.42.42:1234
+#EXTINF:-1 ,Sony
+http://158.46.88.95:4022/udp/239.255.42.93:1234
+#EXTINF:-1 ,Sony
+http://128.72.51.4:4022/udp/233.33.210.159:5050
+#EXTINF:-1 ,Sony
+http://128.69.96.195:4022/udp/233.33.210.159:5050
+#EXTINF:-1 ,Sony
+http://158.46.88.95:4022/udp/239.255.42.48:1234
+#EXTINF:-1 ,Sony
+http://158.46.9.154:7781/udp/239.255.42.42:1234
+#EXTINF:-1 ,Sony
+http://158.46.9.154:7781/udp/239.255.42.93:1234
+#EXTINF:-1 ,Sony HD
+http://83.246.208.36:81/udp/239.54.6.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.208.142:81/udp/239.54.6.128:1224
+#EXTINF:-1 ,Sony HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/203.ts
+#EXTINF:-1 ,Sony HD
+http://83.246.203.138:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.207.183:81/udp/239.54.6.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.207.183:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.203.138:81/udp/239.54.6.128:1224
+#EXTINF:-1 ,Sony HD
+http://109.171.48.206:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.208.142:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.178.37:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.208.8:81/udp/239.54.6.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.208.36:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,Sony HD
+http://83.246.208.8:81/udp/239.54.7.128:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://158.46.101.216:81/udp/239.255.42.48:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://158.46.64.79:81/udp/239.255.42.48:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://46.181.116.168:81/udp/239.255.42.48:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://158.46.65.248:81/udp/239.255.42.48:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://46.241.33.155:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://109.171.48.206:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://37.193.58.164:4022/udp/239.1.4.7:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.207.183:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.36:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.36:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.142:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.203.138:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.207.183:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.203.138:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.142:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.178.37:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://31.220.160.251:4022/udp/239.45.2.40:1234
+#EXTINF:-1 ,SONY SCI-FI
+http://46.241.53.194:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://46.50.212.27:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.8:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://83.246.208.8:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://46.241.54.27:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://46.241.34.6:81/udp/239.54.6.50:1224
+#EXTINF:-1 ,SONY SCI-FI
+http://128.72.51.4:4022/udp/233.33.210.139:5050
+#EXTINF:-1 ,SONY SCI-FI
+http://46.241.34.6:81/udp/239.54.7.50:1224
+#EXTINF:-1 ,Sony SET
+http://158.46.245.158:81/udp/239.255.42.42:1234
+#EXTINF:-1 ,SONY TURBO
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.142:81/udp/239.54.6.41:1224
+#EXTINF:-1 ,SONY TURBO
+http://109.171.48.206:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.36:81/udp/239.54.6.41:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.203.138:81/udp/239.54.6.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.36:81/udp/239.54.6.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.36:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.203.138:81/udp/239.54.6.41:1224
+#EXTINF:-1 ,SONY TURBO
+http://46.241.33.155:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://46.241.54.27:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.207.183:81/udp/239.54.6.41:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.8:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.8:81/udp/239.54.6.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.8:81/udp/239.54.6.41:1224
+#EXTINF:-1 ,SONY TURBO
+http://46.50.212.27:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://46.241.53.194:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://46.241.34.6:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.142:81/udp/239.54.6.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.207.183:81/udp/239.54.6.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.207.183:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.208.142:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TURBO
+http://83.246.203.138:81/udp/239.54.7.54:1224
+#EXTINF:-1 ,SONY TВ
+http://31.220.160.251:4022/udp/239.45.2.39:1234
+#EXTINF:-1 ,TB3
+http://178.163.63.56:4022/udp/234.0.0.171:2000
+#EXTINF:-1 ,TB3
+http://94.251.20.169:81/udp/239.54.5.121:1224
+#EXTINF:-1 ,TB3
+http://178.163.12.35:4022/udp/234.0.0.171:2000
+#EXTINF:-1 ,TB3 +4
+http://46.241.54.27:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://46.50.212.27:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://46.241.53.194:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://46.241.34.6:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://109.171.48.206:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://46.241.33.155:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TB3 +4
+http://109.171.12.144:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.8:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.36:81/udp/239.54.7.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.207.183:81/udp/239.54.7.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.142:81/udp/239.54.7.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.142:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.8:81/udp/239.54.7.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.203.138:81/udp/239.54.7.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.207.183:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.203.138:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Ru Kino
+http://83.246.208.36:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.241.53.194:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.50.212.27:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.241.54.27:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.241.34.6:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.241.33.155:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://ott-cdn.ucom.am/s95/03.m3u8
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://109.248.236.41:4433/udp/238.1.1.44:1234
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/101/index.m3u8
+#EXTINF:-1 ,TV 1000 Russkoe Kino
+http://46.241.79.183:81/udp/239.54.5.112:1234
+#EXTINF:-1 ,TV 1000 Русское Кино
+http://88.216.48.14:80/tv1000ru/live.m3u8
+#EXTINF:-1 ,TV Pro (С.Петербург)
+http://rtmp.lovedrink.ru/hls/ch1.m3u8
+#EXTINF:-1 ,TV1000
+http://stream.euroasia.lfstrm.tv/tv1000/index.m3u8
+#EXTINF:-1 ,TV1000
+http://158.46.65.248:81/udp/239.255.42.49:1234
+#EXTINF:-1 ,TV1000
+http://158.46.88.95:4022/udp/239.255.42.49:1234
+#EXTINF:-1 ,TV1000
+http://158.46.64.79:81/udp/239.255.42.49:1234
+#EXTINF:-1 ,TV1000
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1 ,TV1000
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:-1 ,TV1000
+http://83.246.208.142:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.207.183:81/udp/239.54.7.91:1234
+#EXTINF:-1 ,TV1000
+http://46.241.65.10:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://ott-cdn.ucom.am/s90/03.m3u8
+#EXTINF:-1 ,TV1000
+http://109.248.236.41:4433/udp/238.1.1.41:1234
+#EXTINF:-1 ,TV1000
+http://46.241.79.183:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://109.171.12.144:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://158.46.101.216:81/udp/239.255.42.49:1234
+#EXTINF:-1 ,TV1000
+http://213.59.140.53:9996/play/TV1000/index.m3u8
+#EXTINF:-1 ,TV1000
+http://83.246.203.138:81/udp/239.54.7.91:1234
+#EXTINF:-1 ,TV1000
+http://128.72.51.4:4022/udp/233.33.220.195:5050
+#EXTINF:-1 ,TV1000
+http://83.246.203.138:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.207.183:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://46.241.33.155:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.208.142:81/udp/239.54.7.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.208.36:81/udp/239.54.7.91:1234
+#EXTINF:-1 ,TV1000
+http://31.220.160.251:4022/udp/239.45.2.46:1234
+#EXTINF:-1 ,TV1000
+http://176.111.64.8:1234/udp/224.1.1.92:1234
+#EXTINF:-1 ,TV1000
+http://158.46.9.154:7781/udp/239.255.42.49:1234
+#EXTINF:-1 ,TV1000
+http://85.12.236.130:81/udp/239.99.17.198:1234
+#EXTINF:-1 ,TV1000
+http://83.246.208.36:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://46.241.53.194:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://46.50.212.27:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.208.8:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000
+http://83.246.208.8:81/udp/239.54.7.91:1234
+#EXTINF:-1 ,TV1000
+http://46.241.54.27:81/udp/239.54.5.91:1234
+#EXTINF:-1 ,TV1000 Action
+http://46.50.212.27:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://46.241.53.194:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.8:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.8:81/udp/239.54.7.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://46.241.54.27:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.203.138:81/udp/239.54.7.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.203.138:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.207.183:81/udp/239.54.7.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.207.183:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://31.220.160.251:4022/udp/239.45.2.47:1234
+#EXTINF:-1 ,TV1000 Action
+http://176.111.64.8:1234/udp/224.1.1.97:1234
+#EXTINF:-1 ,TV1000 Action
+http://158.46.9.154:7781/udp/239.255.42.46:1234
+#EXTINF:-1 ,TV1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.142:81/udp/239.54.7.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://158.46.101.216:81/udp/239.255.42.46:1234
+#EXTINF:-1 ,TV1000 Action
+http://stream.euroasia.lfstrm.tv/tv1000_action/index.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://46.241.33.155:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://158.46.65.248:81/udp/239.255.42.46:1234
+#EXTINF:-1 ,TV1000 Action
+http://109.248.236.41:4433/udp/238.1.1.43:1234
+#EXTINF:-1 ,TV1000 Action
+http://158.46.64.79:81/udp/239.255.42.46:1234
+#EXTINF:-1 ,TV1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.36:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.142:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://92.43.140.249/s91/04.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://46.241.79.183:81/udp/239.54.5.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://ott-cdn.ucom.am/s91/01.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://213.59.140.53:9996/play/TV1000_Action/index.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://83.246.208.36:81/udp/239.54.7.111:1234
+#EXTINF:-1 ,TV1000 Action
+http://158.46.88.95:4022/udp/239.255.42.46:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://158.46.65.248:81/udp/239.255.42.44:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://158.46.101.216:81/udp/239.255.42.44:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://158.46.64.79:81/udp/239.255.42.44:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://158.46.88.95:4022/udp/239.255.42.44:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://176.111.64.8:1234/udp/224.1.1.91:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://158.46.9.154:7781/udp/239.255.42.44:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://79.135.77.75:81/udp/239.195.240.221:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://213.59.140.53:9996/play/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1 ,ULTRAHD CINEMA
+http://85.112.114.12:8080/ch799/playlist.m3u8
+#EXTINF:-1 ,XXI
+http://178.163.12.35:4022/udp/234.0.0.187:2000
+#EXTINF:-1 ,XXI
+http://178.163.61.138:4022/udp/234.0.0.187:2000
+#EXTINF:-1 ,XXI
+http://178.163.63.56:4022/udp/234.0.0.187:2000
+#EXTINF:-1 ,Дом Кино Премиум
+http://88.216.48.14:80/domkinoprem/live.m3u8
+#EXTINF:-1 ,Дом Кино Премиум
+http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+http://128.72.51.4:4022/udp/233.33.220.193:5050
+#EXTINF:-1 ,ЕВРОКИНО
+http://178.163.61.138:4022/udp/234.0.0.176:2000
+#EXTINF:-1 ,ЕВРОКИНО
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/549/index.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+http://178.163.63.56:4022/udp/234.0.0.176:2000
+#EXTINF:-1 ,ЕВРОКИНО
+http://stream.euroasia.lfstrm.tv/eurokino/1/index.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+http://109.248.236.41:4433/udp/238.1.1.49:1234
+#EXTINF:-1 ,Звезда
+http://178.163.12.35:4022/udp/234.0.0.237:2000
+#EXTINF:-1 ,Звезда
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+#EXTINF:-1 ,Звезда
+http://178.163.61.138:4022/udp/234.0.0.237:2000
+#EXTINF:-1 ,Звезда
+https://cdn-01.bonus-tv.ru:8090/zvezda/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,Звезда
+http://176.101.224.21:8080/udp/239.195.32.17:1234
+#EXTINF:-1 ,Звезда
+http://37.235.175.164:81/udp/225.50.66.57:1234
+#EXTINF:-1 ,Звезда
+http://178.163.63.56:4022/udp/234.0.0.237:2000
+#EXTINF:-1 ,Звезда
+http://37.235.148.210:81/udp/225.50.66.57:1234
+#EXTINF:-1 ,Звезда
+http://37.235.213.174:81/udp/225.50.66.57:1234
+#EXTINF:-1 ,Звезда
+http://188.242.247.183:81/udp/239.239.2.6:5239
+#EXTINF:-1 ,Звезда
+http://94.251.20.169:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,Звезда
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.zvezda
+#EXTINF:-1 ,Звезда
+http://158.46.88.95:4022/udp/239.255.42.239:1234
+#EXTINF:-1 ,Звезда
+http://79.135.77.75:81/udp/239.195.240.45:1234
+#EXTINF:-1 ,Звезда
+http://83.246.178.37:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Звезда
+http://109.70.184.20:8080/udp/239.195.32.17:1234
+#EXTINF:-1 ,Звезда
+http://109.248.236.41:4433/udp/238.1.1.2:1234
+#EXTINF:-1 ,Звезда
+http://158.46.9.154:7781/udp/239.255.42.239:1234
+#EXTINF:-1 ,Звезда
+http://176.111.64.8:1234/udp/224.1.1.18:1234
+#EXTINF:-1 ,Звезда
+http://31.220.160.251:4022/udp/239.45.1.138:1234
+#EXTINF:-1 ,Звезда
+http://128.72.51.4:4022/udp/233.33.210.85:5050
+#EXTINF:-1 ,Звезда
+http://ott-cdn.ucom.am/s85/03.m3u8
+#EXTINF:-1 ,Звезда
+http://gorod.tv/s/live/19/86.169.51.136/0/0.m3u8
+#EXTINF:-1 ,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 ,Звезда
+http://188.242.243.225:81/udp/239.239.2.6:5239
+#EXTINF:-1 ,Звезда
+https://cdn-01.bonus-tv.ru:8090/zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Звезда +3
+http://46.241.53.194:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,Звезда +3
+http://46.50.212.27:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,Звезда +3
+http://46.241.54.27:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,Звезда +3
+http://46.241.33.155:81/udp/239.54.5.17:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://178.159.52.230:34040/udp/239.255.11.89:1234
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://83.246.208.8:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://46.241.54.27:81/udp/239.54.7.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://83.246.207.183:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://109.248.236.41:4433/udp/238.1.1.106:1234
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://109.248.236.41:4433/udp/238.1.1.105:1234
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://83.246.203.138:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://46.241.65.10:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://46.241.33.155:81/udp/239.54.7.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://83.246.208.36:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://83.246.208.142:81/udp/239.54.6.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://79.135.77.75:81/udp/239.195.240.49:1234
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://46.241.53.194:81/udp/239.54.7.154:1224
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://46.50.212.27:81/udp/239.54.7.154:1224
+#EXTINF:-1 ,Иллюзион
+http://109.248.236.41:4433/udp/238.1.1.104:1234
+#EXTINF:-1 ,Иллюзион +
+http://46.241.54.27:81/udp/239.54.7.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://83.246.208.8:81/udp/239.54.6.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://46.50.212.27:81/udp/239.54.7.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://46.241.53.194:81/udp/239.54.7.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://178.163.12.35:4022/udp/234.0.0.175:2000
+#EXTINF:-1 ,Иллюзион +
+http://178.163.61.138:4022/udp/234.0.0.175:2000
+#EXTINF:-1 ,Иллюзион +
+http://83.246.203.138:81/udp/239.54.6.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://83.246.208.36:81/udp/239.54.6.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://178.163.63.56:4022/udp/234.0.0.175:2000
+#EXTINF:-1 ,Иллюзион +
+http://83.246.207.183:81/udp/239.54.6.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://46.241.33.155:81/udp/239.54.7.162:1224
+#EXTINF:-1 ,Иллюзион +
+http://128.72.51.4:4022/udp/233.33.210.175:5050
+#EXTINF:-1 ,Иллюзион +
+http://stream.euroasia.lfstrm.tv/illusion_plus/1/index.m3u8
+#EXTINF:-1 ,Иллюзион +
+http://83.246.208.142:81/udp/239.54.6.162:1224
+#EXTINF:-1 ,КИНОСЕМЬЯ
+http://86.57.225.245:7015/play/a00p
+#EXTINF:-1 ,КИНОСЕМЬЯ
+http://109.248.236.41:4433/udp/238.1.1.52:1234
+#EXTINF:-1 ,КИНОСЕМЬЯ
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/125/index.m3u8
+#EXTINF:-1 ,КИНОСЕМЬЯ
+http://86.57.225.245:7015/play/a00p$OPT:network-caching=1000
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://178.159.52.230:34040/udp/239.255.11.7:1234
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://109.248.236.41:4433/udp/238.1.1.57:1234
+#EXTINF:-1 ,КИНОХИТ
+http://86.57.225.245:7015/play/a00o
+#EXTINF:-1 ,КИНОХИТ
+http://109.248.236.41:4433/udp/238.1.1.53:1234
+#EXTINF:-1 ,КИНОХИТ
+http://86.57.225.245:7015/play/a00o$OPT:network-caching=1000
+#EXTINF:-1 ,КИНОХИТ
+http://85.12.236.130:81/udp/239.99.17.202:1234
+#EXTINF:-1 ,Кино
+http://128.72.51.4:4022/udp/233.33.210.202:5050
+#EXTINF:-1 ,Кино
+http://128.72.51.4:4022/udp/233.33.220.17:5050
+#EXTINF:-1 ,Кино
+http://128.69.96.195:4022/udp/233.33.210.202:5050
+#EXTINF:-1 ,Кино
+http://128.69.96.195:4022/udp/233.33.220.17:5050
+#EXTINF:-1 ,Кино
+http://128.72.51.4:4022/udp/233.33.210.201:5050
+#EXTINF:-1 ,Кино
+http://hls.goodgame.ru/hls/114023.m3u8
+#EXTINF:-1 ,Кино тв
+http://46.241.54.27:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Кино тв
+http://83.246.208.8:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://46.50.212.27:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Кино тв
+http://95.28.222.72:81/udp/233.33.210.103:5050
+#EXTINF:-1 ,Кино тв
+http://176.15.175.49:81/udp/233.33.210.103:5050
+#EXTINF:-1 ,Кино тв
+http://46.241.53.194:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Кино тв
+http://83.246.208.142:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://79.135.77.75:81/udp/239.195.240.28:1234
+#EXTINF:-1 ,Кино тв
+http://83.246.203.138:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://83.246.207.183:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://31.220.160.251:4022/udp/239.45.2.32:1234
+#EXTINF:-1 ,Кино тв
+http://178.163.63.56:4022/udp/234.0.0.154:2000
+#EXTINF:-1 ,Кино тв
+http://178.163.61.138:4022/udp/234.0.0.154:2000
+#EXTINF:-1 ,Кино тв
+http://94.251.20.169:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Кино тв
+http://46.241.33.155:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,Кино тв
+http://83.246.208.36:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://178.163.12.35:4022/udp/234.0.0.154:2000
+#EXTINF:-1 ,Кино тв
+http://46.241.65.10:81/udp/239.54.6.102:1224
+#EXTINF:-1 ,Кино тв
+http://128.72.51.4:4022/udp/233.33.210.229:5050
+#EXTINF:-1 ,КиноМеню HD
+http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+#EXTINF:-1 ,КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 ,КиноМикс
+http://178.163.63.56:4022/udp/234.0.0.222:2000
+#EXTINF:-1 ,КиноМикс
+http://37.235.213.174:81/udp/225.50.69.3:1234
+#EXTINF:-1 ,КиноМикс
+http://86.57.225.245:7015/play/a005$OPT:network-caching=1000
+#EXTINF:-1 ,КиноМикс
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1 ,КиноМикс
+http://109.248.236.41:4433/udp/238.1.1.42:1234
+#EXTINF:-1 ,КиноМикс
+http://178.163.61.138:4022/udp/234.0.0.222:2000
+#EXTINF:-1 ,Кинопремьера
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+#EXTINF:-1 ,Киносерия
+http://178.163.12.35:4022/udp/234.0.0.119:2000
+#EXTINF:-1 ,Любимое кино
+http://178.163.61.138:4022/udp/234.0.0.177:2000
+#EXTINF:-1 ,Любимое кино
+http://178.163.63.56:4022/udp/234.0.0.177:2000
+#EXTINF:-1 ,Мужское кино
+http://86.57.225.245:7015/play/a00r
+#EXTINF:-1 ,Мужское кино
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/164/index.m3u8
+#EXTINF:-1 ,Мужское кино
+http://83.246.208.142:81/udp/239.54.6.1:1224
+#EXTINF:-1 ,Мужское кино
+http://83.246.203.138:81/udp/239.54.6.1:1224
+#EXTINF:-1 ,Мужское кино
+http://83.246.207.183:81/udp/239.54.6.1:1224
+#EXTINF:-1 ,Мужское кино
+http://109.248.236.41:4433/udp/238.1.1.74:1234
+#EXTINF:-1 ,Мужское кино
+http://83.246.208.36:81/udp/239.54.6.1:1224
+#EXTINF:-1 ,Мужское кино
+http://46.241.33.155:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Мужское кино
+http://178.163.61.138:4022/udp/234.0.0.213:2000
+#EXTINF:-1 ,Мужское кино
+http://178.163.63.56:4022/udp/234.0.0.213:2000
+#EXTINF:-1 ,Мужское кино
+http://83.246.208.8:81/udp/239.54.6.1:1224
+#EXTINF:-1 ,Мужское кино
+http://178.159.52.230:34040/udp/239.255.11.86:1234
+#EXTINF:-1 ,Мужское кино
+http://46.241.54.27:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Мужское кино
+http://46.241.53.194:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,Мужское кино
+http://46.50.212.27:81/udp/239.54.7.1:1224
+#EXTINF:-1 ,НТВ + Наше кино
+http://128.72.51.4:4022/udp/233.33.210.182:5050
+#EXTINF:-1 ,НТВ Сериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+#EXTINF:-1 ,Наше любимое кино
+http://79.135.77.75:81/udp/239.195.195.15:1234
+#EXTINF:-1 ,ОСТРОСЮЖЕТНОЕ HD
+http://0dd0ac98.ottv.biz/iptv/N7WN8AA7LC8CK9/904/index.m3u8
+#EXTINF:-1 ,ОСТРОСЮЖЕТНОЕ HD
+http://91dfeb88.iptvzone.me/iptv/HNLQCSQVPM3MYC/904/index.m3u8
+#EXTINF:-1 ,ОСТРОСЮЖЕТНОЕ HD
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/904/index.m3u8
+#EXTINF:-1 ,Ретро ТВ
+http://stream.euroasia.lfstrm.tv/retro/1/index.m3u8
+#EXTINF:-1 ,Ретро ТВ
+http://88.216.48.14:80/retro/live.m3u8
+#EXTINF:-1 ,Родное Кино
+http://86.57.225.245:7015/play/a00j
+#EXTINF:-1 ,Родное Кино
+http://86.57.225.245:7015/play/a00j$OPT:network-caching=1000
+#EXTINF:-1 ,Родное Кино
+http://37.235.213.174:81/udp/225.50.69.1:1234
+#EXTINF:-1 ,Родное кино
+http://79.135.77.75:81/udp/239.195.195.20:1234
+#EXTINF:-1 ,Русский Бестселлер
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/905/index.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://109.171.33.133:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Русский Бестселлер
+http://46.241.33.155:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Русский Бестселлер
+http://178.163.63.56:4022/udp/234.0.0.250:2000
+#EXTINF:-1 ,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/03.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/01.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://37.235.213.174:81/udp/225.50.64.8:1234
+#EXTINF:-1 ,Русский Бестселлер
+http://31.220.160.251:4022/udp/239.45.2.36:1234
+#EXTINF:-1 ,Русский Бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+#EXTINF:-1 ,Русский Бестселлер
+http://178.163.61.138:4022/udp/234.0.0.250:2000
+#EXTINF:-1 ,Русский Бестселлер
+http://79.135.77.75:81/udp/239.195.240.136:1234
+#EXTINF:-1 ,Русский Бестселлер
+http://46.241.54.27:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Русский Бестселлер
+http://46.50.212.27:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Русский Бестселлер
+http://46.241.53.194:81/udp/239.54.7.33:1224
+#EXTINF:-1 ,Русский детектив
+http://46.241.53.194:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Русский детектив
+http://46.241.33.155:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Русский детектив
+http://46.50.212.27:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Русский детектив
+http://83.246.208.8:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Русский детектив
+http://46.241.54.27:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Русский детектив
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/907/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://31.220.160.251:4022/udp/239.45.2.44:1234
+#EXTINF:-1 ,Русский детектив
+http://83.246.203.138:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Русский детектив
+http://83.246.208.142:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Русский детектив
+http://83.246.207.183:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Русский детектив
+http://83.246.208.36:81/udp/239.54.6.32:1224
+#EXTINF:-1 ,Русский детектив
+http://176.53.229.40:4022/udp/233.166.172.184:1234
+#EXTINF:-1 ,Русский детектив
+http://46.241.34.6:81/udp/239.54.7.32:1224
+#EXTINF:-1 ,Русский роман
+http://46.241.53.194:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://176.15.175.49:81/udp/233.33.220.199:5050
+#EXTINF:-1 ,Русский роман
+http://95.28.222.72:81/udp/233.33.220.199:5050
+#EXTINF:-1 ,Русский роман
+http://46.50.212.27:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://83.246.208.8:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://46.241.54.27:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://178.163.63.56:4022/udp/234.0.0.224:2000
+#EXTINF:-1 ,Русский роман
+http://5.8.52.88:8081/22AmZJYfSxaIZxY8euQVdRINVI2ND6dQrz/live/russroman/index.m3u8
+#EXTINF:-1 ,Русский роман
+http://83.246.207.183:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://46.241.33.155:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://178.163.12.42:4022/udp/234.0.0.224:2000
+#EXTINF:-1 ,Русский роман
+http://83.246.208.142:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://31.220.160.251:4022/udp/239.45.2.35:1234
+#EXTINF:-1 ,Русский роман
+http://31.148.16.31:8080/udp/224.0.90.172:1234
+#EXTINF:-1 ,Русский роман
+http://85.12.236.130:81/udp/239.99.17.207:1234
+#EXTINF:-1 ,Русский роман
+http://178.163.61.138:4022/udp/234.0.0.224:2000
+#EXTINF:-1 ,Русский роман
+http://109.171.33.133:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://83.246.203.138:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://46.241.34.6:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://83.246.208.36:81/udp/239.54.5.87:1224
+#EXTINF:-1 ,Русский роман
+http://79.135.77.75:81/udp/239.195.240.201:1234
+#EXTINF:-1 ,Русский роман HD
+http://83.246.208.142:81/udp/239.54.6.184:1224
+#EXTINF:-1 ,Русский роман HD
+http://83.246.208.8:81/udp/239.54.6.184:1224
+#EXTINF:-1 ,Русский роман HD
+http://83.246.203.138:81/udp/239.54.6.184:1224
+#EXTINF:-1 ,Русский роман HD
+http://83.246.207.183:81/udp/239.54.6.184:1224
+#EXTINF:-1 ,Русский роман HD
+http://46.19.70.85:34040/udp/239.1.3.5:5555
+#EXTINF:-1 ,Русский роман HD
+http://79.135.77.75:81/udp/239.195.240.161:1234
+#EXTINF:-1 ,Русский роман HD
+http://83.246.208.36:81/udp/239.54.6.184:1224
+#EXTINF:-1 ,ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:-1 ,ТВ3
+http://gorod.tv/s/live/12/86.169.51.136/0/0.m3u8
+#EXTINF:-1 ,ТВ3
+http://31.148.16.31:8080/udp/224.10.10.206:10000
+#EXTINF:-1 ,ТВ3
+http://158.46.88.95:4022/udp/239.255.42.245:1234
+#EXTINF:-1 ,ТВ3
+http://109.70.184.20:8080/udp/239.195.32.15:1234
+#EXTINF:-1 ,ТВ3
+http://188.242.247.183:81/udp/239.239.2.4:5239
+#EXTINF:-1 ,ТВ3
+http://94.251.20.169:81/udp/239.54.5.86:1224
+#EXTINF:-1 ,ТВ3
+http://158.46.9.154:7781/udp/239.255.42.245:1234
+#EXTINF:-1 ,ТВ3
+http://37.235.175.164:81/udp/225.50.66.55:1234
+#EXTINF:-1 ,ТВ3
+http://37.235.148.210:81/udp/225.50.66.55:1234
+#EXTINF:-1 ,ТВ3
+http://46.241.34.6:81/udp/239.0.42.65:1224
+#EXTINF:-1 ,ТВ3
+http://176.111.64.8:1234/udp/224.1.1.16:1234
+#EXTINF:-1 ,ТВ3
+http://79.135.77.75:81/udp/239.12.0.35:1234
+#EXTINF:-1 ,ТВ3
+http://gorod.tv/s/live/12/86.169.51.136/1545925952173/0.m3u8
+#EXTINF:-1 ,Теледом HD
+http://37.235.213.174:81/udp/225.50.71.7:1234
+#EXTINF:-1 ,Телеклуб
+http://178.163.63.56:4022/udp/234.0.0.188:2000
+#EXTINF:-1 ,амс
+http://128.72.51.4:4022/udp/233.33.210.67:5050
+#EXTINF:-1 ,амс
+http://128.69.96.195:4022/udp/233.33.210.67:5050
+#EXTINF:-1 ,кино HD
+http://83.246.178.37:81/udp/239.54.7.102:1224
+#EXTINF:-1 ,кино ТВ
+http://178.163.12.42:4022/udp/234.0.0.154:2000
+#EXTINF:-1 ,нст
+http://46.241.53.194:81/udp/239.54.7.58:1224
+#EXTINF:-1 ,нст
+http://46.50.212.27:81/udp/239.54.7.58:1224
+#EXTINF:-1 ,нст
+http://83.246.208.8:81/udp/239.54.6.58:1224
+#EXTINF:-1 ,нст
+http://46.241.54.27:81/udp/239.54.7.58:1224
+#EXTINF:-1 ,нст
+http://ott-cdn.ucom.am/s87/03.m3u8
+#EXTINF:-1 ,нст
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1 ,нст
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1 ,нст
+http://83.246.203.138:81/udp/239.54.6.58:1224
+#EXTINF:-1 ,нст
+http://46.241.33.155:81/udp/239.54.7.58:1224
+#EXTINF:-1 ,нст
+http://83.246.208.36:81/udp/239.54.6.58:1224
+#EXTINF:-1 ,нст
+http://83.246.207.183:81/udp/239.54.6.58:1224
+#EXTINF:-1 ,нст
+http://83.246.208.142:81/udp/239.54.6.58:1224
+#EXTINF:-1 ,нст
+http://31.220.160.251:4022/udp/239.45.2.68:1234
+#EXTINF:-1 ,нст
+http://92.43.140.249/s87/04.m3u8
+#EXTINF:-1 ,нст
+http://85.12.236.130:81/udp/239.99.17.230:1234
